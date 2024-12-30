@@ -1,0 +1,20 @@
+{
+  "build": {
+    "life": {
+      "android": {
+        "buildType": "apk"
+      }
+    },
+    "preview": {
+      "ios": {
+        "distribution": "internal",
+        "simulator": true
+      }
+    },
+    "production": {
+      "ios": {
+        "distribution": "internal"
+      }
+    }
+  }
+}
