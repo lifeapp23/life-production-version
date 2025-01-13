@@ -116,25 +116,25 @@ const isArabic = i18n.language === 'ar';
             ////console.log("Is connected?---", state.isConnected);
             setTriainerConnected(state.isConnected);
             if(newPersonalTrainerRow?.TrSpCm){
-              setOurCommissionResult(parseFloat((newPersonalTrainerRow?.TrSpCm/100)?.toFixed(3)));
+              setOurCommissionResult(parseFloat((newPersonalTrainerRow?.TrSpCm/100)?.toFixed(4)));
 
             }else{
-              setOurCommissionResult(parseFloat((AdminSettingsAppRow?.admCom/100)?.toFixed(3)));
+              setOurCommissionResult(parseFloat((AdminSettingsAppRow?.admCom/100)?.toFixed(4)));
             }
             if(AdminSettingsAppRow?.xpyEgCom){
-              setXpayEgCommissionNumber(parseFloat((AdminSettingsAppRow?.xpyEgCom/100)?.toFixed(3)));
+              setXpayEgCommissionNumber(parseFloat((AdminSettingsAppRow?.xpyEgCom/100)?.toFixed(4)));
 
             }else{
               setXpayEgCommissionNumber(0);
             }
             if(AdminSettingsAppRow?.xpyForCom){
-              setXpayForeignCommissionNumber(parseFloat((AdminSettingsAppRow?.xpyForCom/100)?.toFixed(3)));
+              setXpayForeignCommissionNumber(parseFloat((AdminSettingsAppRow?.xpyForCom/100)?.toFixed(4)));
 
             }else{
               setXpayForeignCommissionNumber(0);
             }
             if(AdminSettingsAppRow?.bnkCom){
-              setBankCommissionResult(parseFloat((AdminSettingsAppRow?.bnkCom/100)?.toFixed(3)));
+              setBankCommissionResult(parseFloat((AdminSettingsAppRow?.bnkCom/100)?.toFixed(4)));
 
             }else{
               setBankCommissionResult(0);
