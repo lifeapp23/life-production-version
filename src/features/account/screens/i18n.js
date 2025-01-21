@@ -13,6 +13,8 @@ const resources = {
       "the_Terms_Conditions":"Terms & Conditions",
       "and":"and",
       "Privacy_Policy":"Privacy Policy",
+      "we_sent_you_an_email_please_authenticate_it_until_the_admin_can_review_your_account":
+      "We sent you an email please authenticate it until the admin can review your account",
         //our_services.screen
       "Body_Stats_and_Measurements": "Body Measurements",
         "Target_Stats":"Target Measurements",
@@ -815,6 +817,8 @@ const resources = {
       "Privacy_Policy":"سياسة الخصوصية",
         //our_services.screen
       "Body_Stats_and_Measurements": "إحصائيات وقياسات الجسم",
+      "we_sent_you_an_email_please_authenticate_it_until_the_admin_can_review_your_account":"لقد أرسلنااليك ايميل برجاء فعله لكي يقوم الأدمن بمراجعة حسابك",
+
       "Target_Stats":"القياسات المستهدفة",
       "Calculators":"الآت حاسبة",
       "Workout_Plan":"خطة التدريب",

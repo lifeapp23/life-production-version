@@ -102,7 +102,7 @@ export const RegisterScreen = ({ navigation }) => {
                     ////console.log("Is connected?---", state.isConnected);
                     ////console.log('---------------now online--------')
   
-                      axios.get(`https://www.elementdevelops.com/api/Admin-Settings-App-Get-Data-From-Database`, {
+                      axios.get(`https://life-pf.com/api/Admin-Settings-App-Get-Data-From-Database`, {
                         headers: {
                           'Authorization': `Bearer ${res}`,
                           'Content-Type': 'application/json',
@@ -846,7 +846,7 @@ if(isEmailValid === false){
 
 //console.log('userData',userData);
   try {
-    const response = await axios.post(`https://www.elementdevelops.com/api/register`, userData);
+    const response = await axios.post(`https://life-pf.com/api/register`, userData);
     ////console.log('response.data:', response?.data);
     setLoading(false);
     setShowSuccess(true); // Show success message and animation
@@ -963,7 +963,10 @@ if(isEmailValid === false){
               visible={loading || showSuccess} // Show when loading or success
             >
               <View style={styles.modalContainer}>
-                <View style={styles.loadingBox}>
+              {(
+                  checked === 'Trainee'
+                )?(
+                  <View style={styles.loadingBox}>
                   {loading && !showSuccess && (
                     <>
                       <Text style={styles.loadingText}>Loading...</Text>
@@ -976,9 +979,30 @@ if(isEmailValid === false){
                         <AntDesign name="checkcircle" size={50} color="green" />
                       </Animated.View>
                       <Text style={styles.successText}>{t('Account_created_successfully')}</Text>
+
                     </>
                   )}
                 </View>
+                ):(
+                  <View style={styles.trainerLoadingBox}>
+                  {loading && !showSuccess && (
+                    <>
+                      <Text style={styles.loadingText}>Loading...</Text>
+                      <Spinner size="large" color="#fff" />
+                    </>
+                  )}
+                  {showSuccess && (
+                    <>
+                      <Animated.View style={{ transform: [{ scale: checkmarkAnimation }] }}>
+                        <AntDesign name="checkcircle" size={50} color="green" />
+                      </Animated.View>
+                      <Text style={styles.successText}>{t('we_sent_you_an_email_please_authenticate_it_until_the_admin_can_review_your_account')}</Text>
+
+                    </>
+                  )}
+                </View>                
+              )}
+               
               </View>
             </Modal>
         {/* <InputField>
@@ -1286,6 +1310,20 @@ const styles = StyleSheet.create({
     loadingBox: {
       width: 200,
       height: 200,
+      backgroundColor: '#333',
+      borderRadius: 15,
+      justifyContent: 'center',
+      alignItems: 'center',
+      padding: 20,
+      shadowColor: '#000',
+      shadowOffset: { width: 0, height: 2 },
+      shadowOpacity: 0.8,
+      shadowRadius: 4,
+      elevation: 5,
+    },
+    trainerLoadingBox: {
+      width: 260,
+      height: 260,
       backgroundColor: '#333',
       borderRadius: 15,
       justifyContent: 'center',
