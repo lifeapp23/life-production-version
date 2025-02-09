@@ -131,7 +131,7 @@ useFocusEffect(
         //setTriainerConnected(state.isConnected);
       if(state.isConnected){
         //console.log('---------------now online--------')
-        axios.get('https://www.elementdevelops.com/api/get-trainer-trainees', {
+        axios.get('https://life-pf.com/api/get-trainer-trainees', {
           headers: {
             'Authorization': `Bearer ${res}`,
             'Content-Type': 'application/json',

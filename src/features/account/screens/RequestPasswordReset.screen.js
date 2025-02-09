@@ -14,7 +14,7 @@ export const RequestPasswordResetScreen = ({ navigation }) => {
 
   const requestPasswordReset = debounce(async () => {
         // try {
-        //     const response = await axios.post('https://www.elementdevelops.com/api/password/email', { email });
+        //     const response = await axios.post('https://life-pf.com/api/password/email', { email });
         //     Alert.alert(`${t('Success')}`, `${t(response?.data?.message)}`);
         //     navigation.navigate('Login');
         // } catch (error) {
@@ -22,7 +22,7 @@ export const RequestPasswordResetScreen = ({ navigation }) => {
         // }
         setLoading(true);
 
-        axios.post('https://www.elementdevelops.com/api/password/email', { email })
+        axios.post('https://life-pf.com/api/password/email', { email })
                 .then(response => {
                   // Handle successful response
                   //console.log('trainer::',response.data["trainers"]);

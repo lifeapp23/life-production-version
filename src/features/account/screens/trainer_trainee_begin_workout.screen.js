@@ -75,7 +75,7 @@ export const TrainerTraineeBeginWorkoutScreen = ({navigation,route }) => {
         //console.log('my begin workout Days page',publicWorkoutsPlanstableCon);
 
 
-        axios.get(`https://www.elementdevelops.com/api/get-trainer-trainee--current-plan-days?traineeId=${publicWorkoutsPlanstableCon?.[0]?.trneId}&trainerId=${publicWorkoutsPlanstableCon?.[0]?.trnrId}`, {
+        axios.get(`https://life-pf.com/api/get-trainer-trainee--current-plan-days?traineeId=${publicWorkoutsPlanstableCon?.[0]?.trneId}&trainerId=${publicWorkoutsPlanstableCon?.[0]?.trnrId}`, {
           headers: {
             'Authorization': `Bearer ${res}`,
             'Content-Type': 'application/json',
@@ -191,7 +191,7 @@ publicWorkoutsPlanDaysTable?.forEach(item => {
 const handleCheckTodayWorkouts = (trnrId,trneId, speKey,publicWorkoutsPlanDayArr,publicWorkoutsPlanstableCon) => {
     
   if(triainerConnected){
-    axios.get(`https://www.elementdevelops.com/api/check-today-workouts?traineeId=${trneId}&trainerId=${trnrId}&speKey=${speKey}`, {
+    axios.get(`https://life-pf.com/api/check-today-workouts?traineeId=${trneId}&trainerId=${trnrId}&speKey=${speKey}`, {
         headers: {
           'Authorization': `Bearer ${userToken}`,
           'Content-Type': 'application/json',

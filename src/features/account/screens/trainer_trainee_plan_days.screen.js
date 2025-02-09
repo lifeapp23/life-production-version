@@ -510,7 +510,7 @@ useEffect(() => {
     
   
    if(triainerConnected){
-    axios.post(`https://www.elementdevelops.com/api/trainer-trainee-meal-plan-day-insert`, newData)
+    axios.post(`https://life-pf.com/api/trainer-trainee-meal-plan-day-insert`, newData)
     .then((response) => {
         ////console.log('Trainer plan day data sent to online Database', response?.data?.message);
         Alert.alert(`${t(' ')}`,`${t('Day_Meals_added_to_Database_successfully')}`,

@@ -1,5 +1,5 @@
 import React, { useState,useEffect } from 'react';
-import {StyleSheet,Text,ScrollView,View,Modal} from "react-native";
+import {StyleSheet,Alert,Text,ScrollView,View,Modal} from "react-native";
 import { DataTable } from 'react-native-paper';
 import { TodayMealsCalendar } from "./today_meals_calendar";
 import {BarChart} from 'react-native-gifted-charts';
@@ -81,7 +81,7 @@ const isArabic = i18n.language === 'ar';
           //setTriainerConnected(state.isConnected);
         if(state.isConnected){
           ////console.log('---------------now online--------')
-          axios.get('https://www.elementdevelops.com/api/get-trainee-side-data', {
+          axios.get('https://life-pf.com/api/get-trainee-side-data', {
             headers: {
               'Authorization': `Bearer ${res}`,
               'Content-Type': 'application/json',
@@ -103,7 +103,7 @@ const isArabic = i18n.language === 'ar';
     
                 // Check if today is between `strDat` and `endDat`
                 if (today >= strDat && today <= endDat) {
-                  axios.get(`https://www.elementdevelops.com/api/fetch-all-performed-meals`, {
+                  axios.get(`https://life-pf.com/api/fetch-all-performed-meals`, {
                     params: {
                       traineeId: traineeDataLet?.trneId,
                       trainerId: traineeDataLet?.trnrId
@@ -128,7 +128,7 @@ const isArabic = i18n.language === 'ar';
                     ////console.log('Error fetching all performed Meals:', error);
                   });
 
-                  axios.get(`https://www.elementdevelops.com/api/get-trainer-trainee-last-required-macros?trneId=${traineeDataLet?.trneId}&trnrId=${traineeDataLet?.trnrId}`, {
+                  axios.get(`https://life-pf.com/api/get-trainer-trainee-last-required-macros?trneId=${traineeDataLet?.trneId}&trnrId=${traineeDataLet?.trnrId}`, {
                     headers: {
                       'Authorization': `Bearer ${res}`,
                       'Content-Type': 'application/json',
@@ -169,7 +169,7 @@ const isArabic = i18n.language === 'ar';
                     });
 
                     const todayDay =new Date().toISOString().split('T')[0];
-                      axios.get(`https://www.elementdevelops.com/api/get-Trainer-Trainee-Today-Meals-For-Today-For-Meal-Plan-Normal-Page-With-Charts?traineeId=${traineeDataLet?.trneId}&trainerId=${traineeDataLet?.trnrId}&todDay=${todayDay}`, {
+                      axios.get(`https://life-pf.com/api/get-Trainer-Trainee-Today-Meals-For-Today-For-Meal-Plan-Normal-Page-With-Charts?traineeId=${traineeDataLet?.trneId}&trainerId=${traineeDataLet?.trnrId}&todDay=${todayDay}`, {
                       headers: {
                         'Authorization': `Bearer ${res}`,
                         'Content-Type': 'application/json',

@@ -921,7 +921,7 @@ if(userDataArray.role == "Trainee"){
 
             if (isVideoUrl(newWorkoutVideos)) {
             ////console.log('isVideoUrl(newWorkoutVideos)', isVideoUrl(newWorkoutVideos));
-            // if(newWorkoutVideos?.startsWith('https://www.elementdevelops.com/')){
+            // if(newWorkoutVideos?.startsWith('https://life-pf.com/')){
 
             // }else if(){
 
@@ -1158,7 +1158,7 @@ if(userDataArray.role == "Trainee"){
   
               if (isVideoUrl(newWorkoutVideos)) {
               ////console.log('isVideoUrl(newWorkoutVideos)', isVideoUrl(newWorkoutVideos));
-              // if(newWorkoutVideos?.startsWith('https://www.elementdevelops.com/')){
+              // if(newWorkoutVideos?.startsWith('https://life-pf.com/')){
   
               // }else if(){
   
@@ -1325,7 +1325,7 @@ if(userDataArray.role == "Trainee"){
  
             });
 
-            axios.post(`https://www.elementdevelops.com/api/workouts-insert-data-without-media`, newWorkoutsDataForBackend)
+            axios.post(`https://life-pf.com/api/workouts-insert-data-without-media`, newWorkoutsDataForBackend)
             .then((response) => {
               const result = response?.data?.["updatedRow"];
               console.log('result response?.data?.["updatedRow"]',result);
@@ -1817,7 +1817,7 @@ if(userDataArray.role == "Trainee"){
                     
                               });
                             ////console.log('add new workout newWorkoutsData',newWorkoutsData);
-                            axios.post(`https://www.elementdevelops.com/api/workouts-insert-data-without-media`, newWorkoutsDataForBackend)
+                            axios.post(`https://life-pf.com/api/workouts-insert-data-without-media`, newWorkoutsDataForBackend)
                             .then((response) => {
                               if(UploadCountLet == TotalUploadsLet ){
                                 const timer = setTimeout(() => {

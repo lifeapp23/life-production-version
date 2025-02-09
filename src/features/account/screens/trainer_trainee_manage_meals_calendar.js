@@ -41,7 +41,7 @@ export const TrainerTraineeManageMealsCalendarScreen = ({ isVisible, onClose, on
             //console.log('my plans page',TrainerTraineeCameData);
   
   
-            axios.get(`https://www.elementdevelops.com/api/get-trainer-trainee-meals-plans?traineeId=${TrainerTraineeCameData?.trneId}&trainerId=${TrainerTraineeCameData?.trnrId}`, {
+            axios.get(`https://life-pf.com/api/get-trainer-trainee-meals-plans?traineeId=${TrainerTraineeCameData?.trneId}&trainerId=${TrainerTraineeCameData?.trnrId}`, {
             headers: {
               'Authorization': `Bearer ${res}`,
               'Content-Type': 'application/json',

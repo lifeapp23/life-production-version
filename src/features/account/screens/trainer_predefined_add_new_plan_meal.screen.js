@@ -173,7 +173,7 @@ console.log('hallo');
          if(!planTypeCheckBox){
           console.log('newData !planTypeCheckBox: ',newData);
 
-          axios.post(`https://www.elementdevelops.com/api/trainer-meals-predefined-plans-insert`, newData)
+          axios.post(`https://life-pf.com/api/trainer-meals-predefined-plans-insert`, newData)
           .then((response) => {
         //console.log('Trainer plan data sent to online Database', response?.data?.message);
         Alert.alert(`${t(' ')}`,`${t('Your_Plan_added_to_Database_successfully')}`,
@@ -198,7 +198,7 @@ console.log('hallo');
     else{
       console.log('newData planTypeCheckBox: ',newData);
 
-      axios.post(`https://www.elementdevelops.com/api/trainer-plans-meals-insert-unlimited`, newData)
+      axios.post(`https://life-pf.com/api/trainer-plans-meals-insert-unlimited`, newData)
     .then((response) => {
         //console.log('Trainer plan data sent to online Database', response?.data?.message);
         Alert.alert(`${t(' ')}`,`${t('Your_Plan_added_to_Database_successfully')}`,
@@ -438,7 +438,7 @@ const editPlansEntryHandler = () => {
 
     // if(!planTypeCheckBox){
       if(triainerConnected){
-        axios.post(`https://www.elementdevelops.com/api/trainer-meals-predefined-plans-update`, newData)
+        axios.post(`https://life-pf.com/api/trainer-meals-predefined-plans-update`, newData)
         .then((response) => {
             //console.log('Trainer plan data sent to online Database', response?.data?.message);
             // setPlansDataTable(response?.data?.newData);
@@ -472,7 +472,7 @@ const editPlansEntryHandler = () => {
        
     // }else{
     //   if(triainerConnected){
-    //     axios.post(`https://www.elementdevelops.com/api/trainer-plans-meals-update-unlimited`, newData)
+    //     axios.post(`https://life-pf.com/api/trainer-plans-meals-update-unlimited`, newData)
     //     .then((response) => {
     //         //console.log('Trainer plan data sent to online Database', response?.data?.message);
     //         // setPlansDataTable(response?.data?.newData);

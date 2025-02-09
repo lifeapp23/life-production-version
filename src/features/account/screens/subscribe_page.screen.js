@@ -201,7 +201,7 @@ const isArabic = i18n.language === 'ar';
       
     
      if(triainerConnected){
-      axios.post(`https://www.elementdevelops.com/api/trainer-subscribe`, newData)
+      axios.post(`https://life-pf.com/api/trainer-subscribe`, newData)
       .then((response) => {
           ////console.log('response?.data?.value', response?.data?.value);
           setShowGateway(response?.data?.value)
@@ -237,7 +237,7 @@ const isArabic = i18n.language === 'ar';
       
     
      if(triainerConnected){
-      axios.post(`https://www.elementdevelops.com/api/trainer-subscribe-free`, newData)
+      axios.post(`https://life-pf.com/api/trainer-subscribe-free`, newData)
       .then((response) => {
           //console.log('response?.data?.messag', response?.data?.message);
           //setShowGateway(response?.data?.value)
@@ -282,7 +282,7 @@ const isArabic = i18n.language === 'ar';
       
     
      if(triainerConnected){
-      axios.post(`https://www.elementdevelops.com/api/trainer-subscribe-with-paymob`, newData)
+      axios.post(`https://life-pf.com/api/trainer-subscribe-with-paymob`, newData)
       .then((response) => {
           ////console.log('response?.data?.value', response?.data?.value);
           setShowPaymobGateway(response?.data?.value)
@@ -326,7 +326,7 @@ const isArabic = i18n.language === 'ar';
        
      
       if(triainerConnected){
-       axios.post(`https://www.elementdevelops.com/api/trainer-subscribe-with-xpay`, newData)
+       axios.post(`https://life-pf.com/api/trainer-subscribe-with-xpay`, newData)
        .then((response) => {
            ////console.log('response?.data?.value', response?.data?.value);
            setShowXPayGateway(response?.data?.value)
@@ -360,7 +360,7 @@ const isArabic = i18n.language === 'ar';
     const htmlContent = `
     <html>
       <body>
-        <form id="myForm" action="https://www.elementdevelops.com/api/paymentsToTrainer" method="post">
+        <form id="myForm" action="https://life-pf.com/api/paymentsToTrainer" method="post">
           <input type="hidden" name="traineeToken" value="${userToken}">
           <input type="hidden" name="trainerId" value="${newPersonalTrainerRow?.userId}">
           <input type="hidden" name="status" value="active">
@@ -393,7 +393,7 @@ const isArabic = i18n.language === 'ar';
   const htmlPaymobContent = `
   <html>
     <body>
-      <form id="myForm" action="https://www.elementdevelops.com/api/payWithPayMob" method="get">
+      <form id="myForm" action="https://life-pf.com/api/payWithPayMob" method="get">
         <input type="hidden" name="traineeToken" value="${userToken}">
           <input type="hidden" name="trainerId" value="${newPersonalTrainerRow?.userId}">
           <input type="hidden" name="status" value="active">
@@ -422,7 +422,7 @@ console.log('escapedNewPersonalTrainerRow:', escapedNewPersonalTrainerRow);
 const htmlXPayContent = `
 <html>
   <body>
-    <form id="myForm" action="https://www.elementdevelops.com/api/payWithXPay" method="post">
+    <form id="myForm" action="https://life-pf.com/api/payWithXPay" method="post">
       <input type="hidden" name="traineeToken" value="${userToken}">
         <input type="hidden" name="trainerId" value="${newPersonalTrainerRow?.userId}">
         <input type="hidden" name="newPersonalTrainerRow" value="${escapedNewPersonalTrainerRow}">

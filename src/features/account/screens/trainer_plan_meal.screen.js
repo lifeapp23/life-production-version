@@ -114,7 +114,7 @@ export const TrainerPlanMealsScreen = ({navigation,route }) => {
         ////console.log('my plan Days page',publicWorkoutsPlanRowCon);
 
 
-        axios.get(`https://www.elementdevelops.com/api/get-trainer-trainee-meal-plan-days?traineeId=${publicWorkoutsPlanRowCon?.trneId}&trainerId=${publicWorkoutsPlanRowCon?.trnrId}&planId=${publicWorkoutsPlanRowCon?.id}`, {
+        axios.get(`https://life-pf.com/api/get-trainer-trainee-meal-plan-days?traineeId=${publicWorkoutsPlanRowCon?.trneId}&trainerId=${publicWorkoutsPlanRowCon?.trnrId}&planId=${publicWorkoutsPlanRowCon?.id}`, {
         headers: {
           'Authorization': `Bearer ${res}`,
           'Content-Type': 'application/json',
@@ -238,7 +238,7 @@ export const TrainerPlanMealsScreen = ({navigation,route }) => {
               ////console.log('my all worked Meals page',publicWorkoutsPlanRowCon);
   
   
-              axios.get(`https://www.elementdevelops.com/api/fetch-all-performed-meals`, {
+              axios.get(`https://life-pf.com/api/fetch-all-performed-meals`, {
                 params: {
                   traineeId: publicWorkoutsPlanRowCon?.trneId,
                   trainerId: publicWorkoutsPlanRowCon?.trnrId
@@ -334,7 +334,7 @@ export const TrainerPlanMealsScreen = ({navigation,route }) => {
     }
     ////console.log('newData,:',newData);
     if(triainerConnected){
-      axios.post(`https://www.elementdevelops.com/api/trainer-trainee-meal-plan-day-deleting`, newData)
+      axios.post(`https://life-pf.com/api/trainer-trainee-meal-plan-day-deleting`, newData)
       .then((response) => {
           ////console.log('Trainer trainee meal Day data sent to online Database', response?.data?.message);
           setPublicWorkoutsPlanDaysTable(response?.data?.getTraineePlanDays);
@@ -379,7 +379,7 @@ const addOrUpdateDayMealsCheckboxValue = (DayMealsCheckboxValue,speKey,trnrId,tr
   if(triainerConnected){
     setLoading(true);
     setShowSuccess(false); // Reset success state
-    axios.post(`https://www.elementdevelops.com/api/trainer-trainee-plan-days-insert-Or-Update-Check-Box-OF-Day-Meal`, newData)
+    axios.post(`https://life-pf.com/api/trainer-trainee-plan-days-insert-Or-Update-Check-Box-OF-Day-Meal`, newData)
     .then((response) => {
         //console.log('Trainer plan plan days sent to online Database');
 
@@ -448,7 +448,7 @@ const updateTheChecksSignOfAllMeals = async () => {
     // setLoadingAllMeals(true);
     // setShowSuccessAllMeals(false); // Reset success state
     
-    // axios.get(`https://www.elementdevelops.com/api/get-One-Meal-From-Trainer-Trainee-Today-Meals?trneId=${trneId}&trnrId=${trnrId}&planId=${planId}`, {
+    // axios.get(`https://life-pf.com/api/get-One-Meal-From-Trainer-Trainee-Today-Meals?trneId=${trneId}&trnrId=${trnrId}&planId=${planId}`, {
     //   headers: {
     //     'Authorization': `Bearer ${sendToken}`,
     //     'Content-Type': 'application/json',
@@ -463,7 +463,7 @@ const updateTheChecksSignOfAllMeals = async () => {
 
     //     // Compare dates
     //     if (today > todayMealDate) {
-              axios.post(`https://www.elementdevelops.com/api/restart-All-Meals-By-Changing-One-To-Zero`, newDataToRestartAllMeals)
+              axios.post(`https://life-pf.com/api/restart-All-Meals-By-Changing-One-To-Zero`, newDataToRestartAllMeals)
               .then((response) => {
                   console.log('response?.data------------',response?.data);
                   console.log('------------------');
@@ -559,7 +559,7 @@ const updateTheChecksSignOfAllMeals = async () => {
 //     setLoadingAllMeals(true);
 //     setShowSuccessAllMeals(false); // Reset success state
     
-//     // axios.get(`https://www.elementdevelops.com/api/get-One-Meal-From-Trainer-Trainee-Today-Meals?trneId=${trneId}&trnrId=${trnrId}&planId=${planId}`, {
+//     // axios.get(`https://life-pf.com/api/get-One-Meal-From-Trainer-Trainee-Today-Meals?trneId=${trneId}&trnrId=${trnrId}&planId=${planId}`, {
 //     //   headers: {
 //     //     'Authorization': `Bearer ${sendToken}`,
 //     //     'Content-Type': 'application/json',
@@ -574,7 +574,7 @@ const updateTheChecksSignOfAllMeals = async () => {
 
 //     //     // Compare dates
 //     //     if (today > todayMealDate) {
-//               axios.post(`https://www.elementdevelops.com/api/restart-All-Meals-By-Changing-One-To-Zero`, newDataToRestartAllMeals)
+//               axios.post(`https://life-pf.com/api/restart-All-Meals-By-Changing-One-To-Zero`, newDataToRestartAllMeals)
 //               .then((response) => {
 //                   console.log('response?.data------------',response?.data);
 //                   console.log('------------------');

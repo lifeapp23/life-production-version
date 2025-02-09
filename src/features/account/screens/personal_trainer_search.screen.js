@@ -195,7 +195,7 @@ export const PersonalTrainerSearchScreen = ({navigation,route}) => {
               setTriainerConnected(state.isConnected);
             if(state.isConnected){
               ////console.log('---------------now online--------')
-              axios.get('https://www.elementdevelops.com/api/trainers-search', {
+              axios.get('https://life-pf.com/api/trainers-search', {
                 headers: {
                   'Authorization': `Bearer ${res}`,
                   'Content-Type': 'application/json',
@@ -212,7 +212,7 @@ export const PersonalTrainerSearchScreen = ({navigation,route}) => {
                   ////console.log('Error fetching Trainers:', error);
                 });
 
-                axios.get(`https://www.elementdevelops.com/api/Admin-Settings-App-Get-Data-From-Database`, {
+                axios.get(`https://life-pf.com/api/Admin-Settings-App-Get-Data-From-Database`, {
                   headers: {
                     'Authorization': `Bearer ${res}`,
                     'Content-Type': 'application/json',

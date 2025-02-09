@@ -164,7 +164,7 @@ export const  SimilarExercisesScreen =({ navigation ,route})=>{
                                                           ? mainWorkoutsData[item?.id-1]?.images
                                                           : item?.images?.startsWith('file:///data/user')
                                                           ? { uri: item?.images }
-                                                          : item?.images.startsWith('https://www.elementdevelops.com')
+                                                          : item?.images.startsWith('https://life-pf.com')
                                                           ? { uri: item?.images }
                                                           : item?.images.startsWith('https://e46498df47bd32e53e8647674155a34c.r2.cloudflarestorage.com/lifeapp23')
                                                           ? { uri: item?.images.replace('https://e46498df47bd32e53e8647674155a34c.r2.cloudflarestorage.com/lifeapp23', 'https://pub-e97a7d17757c41b8bcfca7023afa5da9.r2.dev') }

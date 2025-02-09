@@ -347,7 +347,7 @@ useEffect(() => {
             //////console.log('my plan start workout page',publicPlansDataTableItemDay);
     
     
-            axios.get(`https://www.elementdevelops.com/api/fetch-last-day-start-workouts`, {
+            axios.get(`https://life-pf.com/api/fetch-last-day-start-workouts`, {
               params: {
                 traineeId: publicWorkoutsPlanstableCon?.trneId,
                 trainerId: publicWorkoutsPlanstableCon?.trnrId,
@@ -949,7 +949,7 @@ if (workout) {
       //   error);
       // });
        if(triainerConnected){
-        // axios.post(`https://www.elementdevelops.com/api/trainer-trainee-begin-workout-insert`, combinedArray)
+        // axios.post(`https://life-pf.com/api/trainer-trainee-begin-workout-insert`, combinedArray)
         // .then((response) => {
         //     //////console.log('Trainer trainee performed workouts sent to online Database', response?.data?.message);
   
@@ -974,7 +974,7 @@ if (workout) {
         //           // Handle error
         //           Alert.alert(error?.response?.data?.message);
         //         });
-        axios.post(`https://www.elementdevelops.com/api/trainer-trainee-begin-workout-insert`, combinedArray)
+        axios.post(`https://life-pf.com/api/trainer-trainee-begin-workout-insert`, combinedArray)
         .then((response) => {
             //console.log('Trainer trainee performed workouts sent to online Database', response?.data?.message);
     
@@ -989,7 +989,7 @@ if (workout) {
             };
     
             // Send the new request to skip the workout
-            return axios.post(`https://www.elementdevelops.com/api/trainer-trainee-plan-day-skip-workout-or-done`, newData);
+            return axios.post(`https://life-pf.com/api/trainer-trainee-plan-day-skip-workout-or-done`, newData);
         })
         .then((response) => {
             //console.log('Workout skipped');
@@ -1120,7 +1120,7 @@ const newSkippedCompleted =()=>{
     lstUpd:publicWorkoutsPlanDayArrBeforeSeperateWrkArySent[0]?.lstUpd,
   }
   if(triainerConnected){
-    axios.post(`https://www.elementdevelops.com/api/trainer-trainee-plan-day-skip-workout-or-done`, newData)
+    axios.post(`https://life-pf.com/api/trainer-trainee-plan-day-skip-workout-or-done`, newData)
     .then((response) => {
         //console.log('skip');
               Alert.alert(``,
@@ -1237,7 +1237,7 @@ const handleCompleteExercises = () => {
       // });
 
       if(triainerConnected){
-        // axios.post(`https://www.elementdevelops.com/api/trainer-trainee-begin-workout-insert`, combinedArray)
+        // axios.post(`https://life-pf.com/api/trainer-trainee-begin-workout-insert`, combinedArray)
         // .then((response) => {
         //     //////console.log('Trainer trainee performed workouts sent to online Database', response?.data?.message);
   
@@ -1260,7 +1260,7 @@ const handleCompleteExercises = () => {
         //           Alert.alert(error?.response?.data?.message);
         //         });
   
-        axios.post(`https://www.elementdevelops.com/api/trainer-trainee-begin-workout-insert`, combinedArray)
+        axios.post(`https://life-pf.com/api/trainer-trainee-begin-workout-insert`, combinedArray)
         .then((response) => {
             //console.log('Trainer trainee performed workouts sent to online Database', response?.data?.message);
             //console.log('Workout Done publicWorkoutsPlanstableCon',publicWorkoutsPlanstableCon);
@@ -1277,7 +1277,7 @@ const handleCompleteExercises = () => {
             };
     
             // Send the new request to skip the workout
-            return axios.post(`https://www.elementdevelops.com/api/trainer-trainee-plan-day-skip-workout-or-done`, newData);
+            return axios.post(`https://life-pf.com/api/trainer-trainee-plan-day-skip-workout-or-done`, newData);
         })
         .then((response) => {
             //console.log('Workout Done');
@@ -1438,7 +1438,7 @@ function isImageUrl(url) {
 //             ? mainWorkoutsData[item?.wrkKey-1]?.images
 //             : item?.images.startsWith('file:///data/user')
 //             ? { uri: item?.images }
-//             : item?.images.startsWith('https://www.elementdevelops.com')
+//             : item?.images.startsWith('https://life-pf.com')
 //             ? { uri: item?.images }
 //             : require('../../../../assets/gym-workout.png')} // Set an appropriate default or handle other cases
 //             />
@@ -1550,7 +1550,7 @@ const RenderItem = ({ item, index , updateDraggingPosition}) => {
             ? mainWorkoutsData[item?.wrkKey-1]?.images
             : item?.images.startsWith('file:///data/user')
             ? { uri: item?.images }
-            : item?.images.startsWith('https://www.elementdevelops.com')
+            : item?.images.startsWith('https://life-pf.com')
             ? { uri: item?.images }
             : item?.images.startsWith('https://lifeapp23.e46498df47bd32e53e8647674155a34c.r2.cloudflarestorage.com')
             ? { uri: item?.images.replace('https://lifeapp23.e46498df47bd32e53e8647674155a34c.r2.cloudflarestorage.com', 'https://pub-e97a7d17757c41b8bcfca7023afa5da9.r2.dev') }

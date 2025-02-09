@@ -82,7 +82,7 @@ export const CurrentPersonalTrainerScreen = ({navigation,route}) => {
           ////console.log('---------------now online--------')
   
   
-          axios.get(`https://www.elementdevelops.com/api/get-trainers-Data-for-trainee?traineeId=${storedUser?.id}`, {
+          axios.get(`https://life-pf.com/api/get-trainers-Data-for-trainee?traineeId=${storedUser?.id}`, {
           headers: {
             'Authorization': `Bearer ${res}`,
             'Content-Type': 'application/json',
@@ -204,7 +204,7 @@ export const CurrentPersonalTrainerScreen = ({navigation,route}) => {
   //       ////console.log('---------------now online--------')
 
 
-  //       axios.get(`https://www.elementdevelops.com/api/get-trainers-Data-for-trainee?traineeId=${storedUser.id}`, {
+  //       axios.get(`https://life-pf.com/api/get-trainers-Data-for-trainee?traineeId=${storedUser.id}`, {
   //       headers: {
   //         'Authorization': `Bearer ${res}`,
   //         'Content-Type': 'application/json',
@@ -312,7 +312,7 @@ export const CurrentPersonalTrainerScreen = ({navigation,route}) => {
     
   
    if(triainerConnected){
-    axios.post(`https://www.elementdevelops.com/api/trainer-rating-sending`, newData)
+    axios.post(`https://life-pf.com/api/trainer-rating-sending`, newData)
     .then((response) => {
         ////console.log('response?.data?.message', response?.data?.message);
         Alert.alert(`${t(' ')}`,`${t(response?.data?.message)}`);

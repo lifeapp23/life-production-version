@@ -73,7 +73,7 @@ export const WorkedExercisesCalendarScreen = ({navigation,onAddEntry,publicPlans
   
         // Fetch online data
         const onlineDataResponse = await axios.get(
-          "https://www.elementdevelops.com/api/fetch-all-performed-workouts",
+          "https://life-pf.com/api/fetch-all-performed-workouts",
           {
             params: {
               traineeId: TrainerTraineeSent?.trneId,

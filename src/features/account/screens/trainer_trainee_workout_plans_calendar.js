@@ -42,7 +42,7 @@ export const TrainerTraineeWorkoutPlansCalendarScreen = ({ isVisible, onClose, o
             ////console.log('my plans page',TrainerTraineeCameData);
   
   
-            axios.get(`https://www.elementdevelops.com/api/get-trainer-trainee-plans?traineeId=${TrainerTraineeCameData?.trneId}&trainerId=${TrainerTraineeCameData?.trnrId}`, {
+            axios.get(`https://life-pf.com/api/get-trainer-trainee-plans?traineeId=${TrainerTraineeCameData?.trneId}&trainerId=${TrainerTraineeCameData?.trnrId}`, {
             headers: {
               'Authorization': `Bearer ${res}`,
               'Content-Type': 'application/json',

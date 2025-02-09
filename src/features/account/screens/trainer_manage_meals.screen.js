@@ -74,7 +74,7 @@ export const TrainerManageMealsScreen = ({navigation,route}) => {
           ////console.log('my plans page',TrainerTraineeCameData);
 
 
-          axios.get(`https://www.elementdevelops.com/api/get-trainer-trainee-meals-plans?traineeId=${TrainerTraineeCameData?.trneId}&trainerId=${TrainerTraineeCameData?.trnrId}`, {
+          axios.get(`https://life-pf.com/api/get-trainer-trainee-meals-plans?traineeId=${TrainerTraineeCameData?.trneId}&trainerId=${TrainerTraineeCameData?.trnrId}`, {
           headers: {
             'Authorization': `Bearer ${res}`,
             'Content-Type': 'application/json',
@@ -119,7 +119,7 @@ export const TrainerManageMealsScreen = ({navigation,route}) => {
             // Handle error
             ////console.log('Error fetching Meals:', error);
           });
-          axios.get(`https://www.elementdevelops.com/api/get-trainer-meals-predefined-plans-with-its-days?trainerId=${storedUser.id}`, {
+          axios.get(`https://life-pf.com/api/get-trainer-meals-predefined-plans-with-its-days?trainerId=${storedUser.id}`, {
             headers: {
               'Authorization': `Bearer ${res}`,
               'Content-Type': 'application/json',
@@ -187,7 +187,7 @@ export const TrainerManageMealsScreen = ({navigation,route}) => {
   const removePlansDataItem = (item) => {
     ////console.log('item,:',item);
     if(triainerConnected){
-      axios.post(`https://www.elementdevelops.com/api/trainer-trainee-meals-plan-deleting`, item)
+      axios.post(`https://life-pf.com/api/trainer-trainee-meals-plan-deleting`, item)
       .then((response) => {
           ////console.log('Trainer Pricing data sent to online Database', response?.data?.message);
           setPlansDataTable(response?.data?.getTraineePlans)
@@ -247,7 +247,7 @@ export const TrainerManageMealsScreen = ({navigation,route}) => {
     
   
    if(triainerConnected){
-    axios.post(`https://www.elementdevelops.com/api/trainer-plans-meals-insert`, newData)
+    axios.post(`https://life-pf.com/api/trainer-plans-meals-insert`, newData)
     .then((response) => {
         ////console.log('Trainer plan data sent to online Database', response?.data?.message);
         setPlansDataTable(response?.data?.newData)
@@ -313,7 +313,7 @@ export const TrainerManageMealsScreen = ({navigation,route}) => {
 
     
      if(triainerConnected){
-      axios.post(`https://www.elementdevelops.com/api/trainer-plans-meals-update`, newData)
+      axios.post(`https://life-pf.com/api/trainer-plans-meals-update`, newData)
       .then((response) => {
           ////console.log('Trainer plan data sent to online Database', response?.data?.message);
           setPlansDataTable(response?.data?.newData);

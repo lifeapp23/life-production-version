@@ -297,7 +297,7 @@ export const LoginScreen = ({ navigation }) => {
 const handleGoogleSignIn = async () => { 
   // const redirectUrl = 'myapp://redirect'; // Make sure this matches your app scheme
 
-  let result = await WebBrowser.openAuthSessionAsync('https://www.elementdevelops.com/api/auth/google/redirect', redirectTo); 
+  let result = await WebBrowser.openAuthSessionAsync('https://life-pf.com/api/auth/google/redirect', redirectTo); 
   //console.log('result--handleGoogleSignIn',result);
   if (result.type === 'success') {
     //console.log('Authentication success:', result.url);
@@ -396,7 +396,7 @@ const handleAuthData = (data) => { // Your logic for handling the auth data
 
         // setHideButtonClicks(true);
         // Make an API request to your login endpoint
-        const response = await axios.post(`https://www.elementdevelops.com/api/signin`, {
+        const response = await axios.post(`https://life-pf.com/api/signin`, {
           email: email,
           password: password,
         });
@@ -640,7 +640,7 @@ const handleAuthData = (data) => { // Your logic for handling the auth data
   const htmlGoogleContent = `
   <html>
     <body>
-      <form id="myGoogleForm" action="https://www.elementdevelops.com/api/auth/google/redirect" method="get">
+      <form id="myGoogleForm" action="https://life-pf.com/api/auth/google/redirect" method="get">
         
       </form>
       <script>

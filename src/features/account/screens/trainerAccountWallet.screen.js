@@ -105,7 +105,7 @@ export const TrainerAccountWalletPageScreen = ({navigation,route}) => {
             setTriainerConnected(state.isConnected);
           if(state.isConnected){
             ////console.log('---------------now online--------')
-            axios.post('https://www.elementdevelops.com/api/getOneTrainerGroubedByCurrencyAndAmountWithCreditAndDebit', {
+            axios.post('https://life-pf.com/api/getOneTrainerGroubedByCurrencyAndAmountWithCreditAndDebit', {
               headers: {
                 'Authorization': `Bearer ${res}`,
                 'Content-Type': 'application/json',
@@ -179,7 +179,7 @@ export const TrainerAccountWalletPageScreen = ({navigation,route}) => {
         //      console.log('bankCodeSWIFT',bankCodeSWIFT);
         //      console.log('accountNumber',accountNumber);
         //      console.log('IBANNumber',IBANNumber);
-        //   axios.post(`https://www.elementdevelops.com/api/send-Trainer-Payments-Request-With-Bank-Option`, {
+        //   axios.post(`https://life-pf.com/api/send-Trainer-Payments-Request-With-Bank-Option`, {
         //     params:{
         //      country:country,
         //      bankName:bankName,
@@ -212,7 +212,7 @@ export const TrainerAccountWalletPageScreen = ({navigation,route}) => {
         //     Alert.alert(`${t("You_must_fill_email_field")}`);
         //     return;
         //   };
-        //   axios.post(`https://www.elementdevelops.com/api/sendTrainerPaymentsRequest`, {
+        //   axios.post(`https://life-pf.com/api/sendTrainerPaymentsRequest`, {
         //     params:{
         //      email:email,
         //     },
@@ -259,7 +259,7 @@ export const TrainerAccountWalletPageScreen = ({navigation,route}) => {
              console.log('bankCodeSWIFT',bankCodeSWIFT);
              console.log('accountNumber',accountNumber);
              console.log('IBANNumber',IBANNumber);
-          axios.post(`https://www.elementdevelops.com/api/send-Trainer-Payments-Request-With-Bank-Option`, {
+          axios.post(`https://life-pf.com/api/send-Trainer-Payments-Request-With-Bank-Option`, {
             params:{
              country:country,
              bankName:bankName,

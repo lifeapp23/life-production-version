@@ -144,7 +144,7 @@ export const TrainerTraineeRequiredMacrosPageScreen =({ navigation,route })=>{
             //     }).catch((error) => {
             //     //console.error('Error fetching ListOfFoodsTable:', error);
             // });
-              axios.get(`https://www.elementdevelops.com/api/get-trainer-trainee-last-required-macros?trneId=${TrainerTraineeCameData?.trneId}&trnrId=${TrainerTraineeCameData?.trnrId}`, {
+              axios.get(`https://life-pf.com/api/get-trainer-trainee-last-required-macros?trneId=${TrainerTraineeCameData?.trneId}&trnrId=${TrainerTraineeCameData?.trnrId}`, {
                 headers: {
                   'Authorization': `Bearer ${res}`,
                   'Content-Type': 'application/json',
@@ -237,7 +237,7 @@ export const TrainerTraineeRequiredMacrosPageScreen =({ navigation,route })=>{
             setShowSuccess(false); // Reset success state
             setLoadingPageInfo(false);
           }
-            axios.post(`https://www.elementdevelops.com/api/trainer-trainee-add-or-update-required-macros`, newData)
+            axios.post(`https://life-pf.com/api/trainer-trainee-add-or-update-required-macros`, newData)
             .then((response) => {
                 //console.log('Trainer meal delete from online Database');
                 //console.log('getTrainerMealPlanDay::,',response?.data["getTrainerMealPlanDay"]);

@@ -159,7 +159,7 @@ const [xpayEgCommissionNumber, setXpayEgCommissionNumber] = useState('');
            
           if(state.isConnected){
 
-                  axios.get(`https://www.elementdevelops.com/api/get-profile?userId=${newPersonalTrainerRow?.userId}`, {
+                  axios.get(`https://life-pf.com/api/get-profile?userId=${newPersonalTrainerRow?.userId}`, {
                     headers: {
                       'Authorization': `Bearer ${res}`,
                       'Content-Type': 'application/json',
@@ -404,7 +404,7 @@ const sendQuestionnaireData =  (QuestionnaireInfo,newPersonalTrainerRow, onePric
     setLoading(true);
     setShowSuccess(false); // Reset success state           
   
-    axios.post(`https://www.elementdevelops.com/api/trainer-trainee-Questionnaire-answers-insert`, newData)
+    axios.post(`https://life-pf.com/api/trainer-trainee-Questionnaire-answers-insert`, newData)
     .then((response) => {
         ////console.log('response?.data?.value', response?.data?.value);
         // Alert.alert(``, `${t('Questionnaire_data_updated_successfully')}`);
@@ -467,7 +467,7 @@ const subscribeToTrainerFunc = async (QuestionnaireInfo,newPersonalTrainerRow, o
   
 
  if(triainerConnected){
-  axios.post(`https://www.elementdevelops.com/api/trainer-subscribe`, newData)
+  axios.post(`https://life-pf.com/api/trainer-subscribe`, newData)
   .then((response) => {
       ////console.log('response?.data?.value', response?.data?.value);
       sendQuestionnaireData(QuestionnaireInfo,newPersonalTrainerRow, onePrice,userToken,userId,speKey);
@@ -519,7 +519,7 @@ const subscribeToTrainerFuncWithXPay = async (QuestionnaireInfo,newPersonalTrain
    
  
   if(triainerConnected){
-   axios.post(`https://www.elementdevelops.com/api/trainer-subscribe-with-xpay`, newData)
+   axios.post(`https://life-pf.com/api/trainer-subscribe-with-xpay`, newData)
        .then((response) => {
         ////console.log('response?.data?.value', response?.data?.value);
         //console.log('newData subscribeToTrainerFuncWithPayMob success: ');
@@ -571,7 +571,7 @@ const subscribeToTrainerFuncWithPayMob = async (QuestionnaireInfo,newPersonalTra
   
 
  if(triainerConnected){
-  axios.post(`https://www.elementdevelops.com/api/trainer-subscribe-with-paymob`, newData)
+  axios.post(`https://life-pf.com/api/trainer-subscribe-with-paymob`, newData)
   .then((response) => {
       ////console.log('response?.data?.value', response?.data?.value);
       //console.log('newData subscribeToTrainerFuncWithPayMob success: ');
@@ -608,7 +608,7 @@ const getPeriodOfSubscribe =  (count,period) => {
 const htmlContent = `
     <html>
       <body>
-        <form id="myForm" action="https://www.elementdevelops.com/api/paymentsToTrainer" method="post">
+        <form id="myForm" action="https://life-pf.com/api/paymentsToTrainer" method="post">
           <input type="hidden" name="traineeToken" value="${userToken}">
           <input type="hidden" name="trainerId" value="${newPersonalTrainerRow?.userId}">
           <input type="hidden" name="status" value="active">
@@ -640,7 +640,7 @@ const htmlContent = `
   const htmlPaymobContent = `
   <html>
     <body>
-      <form id="myForm" action="https://www.elementdevelops.com/api/payWithPayMob" method="get">
+      <form id="myForm" action="https://life-pf.com/api/payWithPayMob" method="get">
         <input type="hidden" name="traineeToken" value="${userToken}">
           <input type="hidden" name="trainerId" value="${newPersonalTrainerRow?.userId}">
           <input type="hidden" name="status" value="active">
@@ -671,7 +671,7 @@ console.log('escapedNewPersonalTrainerRow:', escapedNewPersonalTrainerRow);
 const htmlXPayContent = `
 <html>
   <body>
-    <form id="myForm" action="https://www.elementdevelops.com/api/payWithXPay" method="post">
+    <form id="myForm" action="https://life-pf.com/api/payWithXPay" method="post">
       <input type="hidden" name="traineeToken" value="${userToken}">
         <input type="hidden" name="trainerId" value="${newPersonalTrainerRow?.userId}">
         <input type="hidden" name="trneId" value="${userId}">

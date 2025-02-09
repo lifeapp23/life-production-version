@@ -126,7 +126,7 @@ export const TrainerTodayMealsNewStyleScreen = ({navigation,route}) => {
           setLoadingPageInfo(true);
 
           const todayDay =new Date().toISOString().split('T')[0];
-          axios.get(`https://www.elementdevelops.com/api/get-trainer-trainee-today-meals-for-today-meal-page-in-trainer-manage-meals?traineeId=${TrainerTraineeCameData?.trneId}&trainerId=${TrainerTraineeCameData?.trnrId}&todDay=${todayDay}`, {
+          axios.get(`https://life-pf.com/api/get-trainer-trainee-today-meals-for-today-meal-page-in-trainer-manage-meals?traineeId=${TrainerTraineeCameData?.trneId}&trainerId=${TrainerTraineeCameData?.trnrId}&todDay=${todayDay}`, {
           headers: {
             'Authorization': `Bearer ${res}`,
             'Content-Type': 'application/json',
@@ -213,7 +213,7 @@ useEffect(() => {
     setShowSuccess(false); // Reset success state
     setLoadingPageInfo(false);
 
-      axios.post(`https://www.elementdevelops.com/api/remove-One-Meal-From-TodayMeals-new-style-minus-from-trainer-today-page`, newData)
+      axios.post(`https://life-pf.com/api/remove-One-Meal-From-TodayMeals-new-style-minus-from-trainer-today-page`, newData)
       .then((response) => {
           //console.log('Trainer meal delete from online Database');
           //console.log('getTraineeTodayMeals::,',response?.data["getTraineeTodayMeals"]);

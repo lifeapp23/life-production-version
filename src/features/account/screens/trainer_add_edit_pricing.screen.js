@@ -240,7 +240,7 @@ const handleDiscountDateSelect = (date) => {
 
           ////console.log('---------------now online--------')
           ////console.log('---------------now online--------')
-        axios.get('https://www.elementdevelops.com/api/get-trainer-price', {
+        axios.get('https://life-pf.com/api/get-trainer-price', {
           headers: {
             'Authorization': `Bearer ${res}`,
             'Content-Type': 'application/json',
@@ -322,7 +322,7 @@ const handleDiscountDateSelect = (date) => {
 
           });
 
-          axios.get('https://www.elementdevelops.com/api/get-trainer-discount', {
+          axios.get('https://life-pf.com/api/get-trainer-discount', {
           headers: {
             'Authorization': `Bearer ${res}`,
             'Content-Type': 'application/json',
@@ -435,7 +435,7 @@ const handleDiscountDateSelect = (date) => {
   
 
  if(triainerConnected){
-  axios.post(`https://www.elementdevelops.com/api/TrainerPricingCurrencyByPressing-insert-data`, newData)
+  axios.post(`https://life-pf.com/api/TrainerPricingCurrencyByPressing-insert-data`, newData)
   .then((response) => {
       ////console.log('Trainer Pricing data sent to online Database', response?.data?.message);
       // setDataTrainerPricing(response?.data?.newData)
@@ -570,7 +570,7 @@ const handleDiscountDateSelect = (date) => {
         
       
           if(triainerConnected){
-            axios.post(`https://www.elementdevelops.com/api/TrainerPricingCurrencyByPressing-update-data`, newData)
+            axios.post(`https://life-pf.com/api/TrainerPricingCurrencyByPressing-update-data`, newData)
             .then((response) => {
                 ////console.log('Trainer Pricing editing data sent to online Database', response?.data?.message);
                 ////console.log('Trainer Pricing new edited data', response?.data?.newData);

@@ -211,7 +211,7 @@ export const WorkoutNameScreen = ({navigation,route}) => {
          ///fetch online data for history
          //console.log('itemParam?.speKey',itemParam?.speKey);
       const onlineDataResponse = await axios.get(
-        "https://www.elementdevelops.com/api/fetch-specific-workout-without-deleting",
+        "https://life-pf.com/api/fetch-specific-workout-without-deleting",
         {
           params: {
             traineeId: traineeData?.trneId,
@@ -693,7 +693,7 @@ return (
                                       )
                                     : workoutArray?.images?.startsWith('file:///data/user')
                                     ? { uri: workoutArray?.images }
-                                    : workoutArray?.images.startsWith('https://www.elementdevelops.com')
+                                    : workoutArray?.images.startsWith('https://life-pf.com')
                                     ? { uri: workoutArray?.images }
                                     : workoutArray?.images.startsWith('https://e46498df47bd32e53e8647674155a34c.r2.cloudflarestorage.com/lifeapp23')
                                     ? { uri: workoutArray?.images.replace('https://e46498df47bd32e53e8647674155a34c.r2.cloudflarestorage.com/lifeapp23', 'https://pub-e97a7d17757c41b8bcfca7023afa5da9.r2.dev') }
@@ -932,7 +932,7 @@ return (
                                             )
                                           : workoutArray?.images?.startsWith('file:///data/user')
                                           ? { uri: workoutArray?.images }
-                                          : workoutArray?.images.startsWith('https://www.elementdevelops.com')
+                                          : workoutArray?.images.startsWith('https://life-pf.com')
                                           ? { uri: workoutArray?.images }
                                           : workoutArray?.images.startsWith('https://e46498df47bd32e53e8647674155a34c.r2.cloudflarestorage.com/lifeapp23')
                                           ? { uri: workoutArray?.images.replace('https://e46498df47bd32e53e8647674155a34c.r2.cloudflarestorage.com/lifeapp23', 'https://pub-e97a7d17757c41b8bcfca7023afa5da9.r2.dev') }
@@ -994,7 +994,7 @@ return (
                                                   : mainWorkoutsData[workoutArray?.id - 1]?.images
                                                 : workoutArray?.images?.startsWith('file:///data/user')
                                                 ? { uri: workoutArray?.images }
-                                                : workoutArray?.images.startsWith('https://www.elementdevelops.com')
+                                                : workoutArray?.images.startsWith('https://life-pf.com')
                                                 ? { uri: workoutArray?.images }
                                                 : workoutArray?.images.startsWith('https://e46498df47bd32e53e8647674155a34c.r2.cloudflarestorage.com/lifeapp23')
                                                 ? {
@@ -1031,7 +1031,7 @@ return (
                                                     )
                                                   : workoutArray?.images?.startsWith('file:///data/user')
                                                   ? { uri: workoutArray?.images }
-                                                  : workoutArray?.images.startsWith('https://www.elementdevelops.com')
+                                                  : workoutArray?.images.startsWith('https://life-pf.com')
                                                   ? { uri: workoutArray?.images }
                                                   : workoutArray?.images.startsWith('https://e46498df47bd32e53e8647674155a34c.r2.cloudflarestorage.com/lifeapp23')
                                                   ? { uri: workoutArray?.images.replace('https://e46498df47bd32e53e8647674155a34c.r2.cloudflarestorage.com/lifeapp23', 'https://pub-e97a7d17757c41b8bcfca7023afa5da9.r2.dev') }
@@ -1055,7 +1055,7 @@ return (
                                               ? mainWorkoutsData[workoutArray?.id-1]?.workoutMedia
                                               : workoutArray?.videos?.startsWith('file:///data/user')
                                               ? { uri: workoutArray?.videos }
-                                              : workoutArray?.videos.startsWith('https://www.elementdevelops.com')
+                                              : workoutArray?.videos.startsWith('https://life-pf.com')
                                               ? { uri: workoutArray?.videos }
                                               : workoutArray?.videos.startsWith('https://e46498df47bd32e53e8647674155a34c.r2.cloudflarestorage.com/lifeapp23')
                                               ? { uri: workoutArray?.videos.replace('https://e46498df47bd32e53e8647674155a34c.r2.cloudflarestorage.com/lifeapp23', 'https://pub-e97a7d17757c41b8bcfca7023afa5da9.r2.dev') }

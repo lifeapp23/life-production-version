@@ -196,7 +196,7 @@ if(triainerConnected){
         //****** TargetStat
  await getTargetStatsUnsyncedRows(userId).then((usersTS) => {
   //////console.log('TargetStat unSynced Data :', usersTS);
-  axios.post(`https://www.elementdevelops.com/api/tarStat-update-data`, usersTS)
+  axios.post(`https://life-pf.com/api/tarStat-update-data`, usersTS)
   .then((response) => {
     //////console.log('our services target axios update backend', response.data.message);
     // Handle any other logic here if needed
@@ -286,7 +286,7 @@ await getBodyStatsAndMeasurementsUnsyncedRows(userId).then((usersBSMeasurements)
       
   
       
-      axios.post(`https://www.elementdevelops.com/api/BSMeasurments-insert-data`, usersBSMeasurementFormData, {
+      axios.post(`https://life-pf.com/api/BSMeasurments-insert-data`, usersBSMeasurementFormData, {
         headers: {
           Accept: "application/json",
           "Content-Type": "multipart/form-data",
@@ -303,7 +303,7 @@ await getBodyStatsAndMeasurementsUnsyncedRows(userId).then((usersBSMeasurements)
 
 
   });
-  // axios.post(`https://www.elementdevelops.com/api/BSMeasurments-insert-data`, usersBSMeasurements)
+  // axios.post(`https://life-pf.com/api/BSMeasurments-insert-data`, usersBSMeasurements)
   // .then((response) => {
   //   //////console.log('our services usersBSMeasurements axios update backend', response.data.message);
   //   // Handle any other logic here if needed
@@ -330,7 +330,7 @@ await getBodyStatsAndMeasurementsUnsyncedRows(userId).then((usersBSMeasurements)
 //*********workout Settings page 
 await getPublicSettingsUnsyncedRows(userId).then((usersPS) => {
   //////console.log('PublicSettings unSynced Data :', usersPS);
-  axios.post(`https://www.elementdevelops.com/api/publicSettings-update-data`, usersPS)
+  axios.post(`https://life-pf.com/api/publicSettings-update-data`, usersPS)
   .then((response) => {
       //////console.log('PublicSettings axios update backend', response.data.message);
       // Handle any other logic here if needed
@@ -358,7 +358,7 @@ await getPublicSettingsUnsyncedRows(userId).then((usersPS) => {
 //******//********* Calculators pages 
 await getCalculatorsTableUnsyncedRows(userId).then((usersPS) => {
   //////console.log('Calculators unSynced Data :', usersPS);
-  axios.post(`https://www.elementdevelops.com/api/calculators-insert-data`, usersPS)
+  axios.post(`https://life-pf.com/api/calculators-insert-data`, usersPS)
   .then((response) => {
       //////console.log('Calculators axios update backend', response.data.message);
       // Handle any other logic here if needed
@@ -388,7 +388,7 @@ await getCalculatorsTableUnsyncedRows(userId).then((usersPS) => {
 await getGymEquipmentsUnsyncedRows(userId).then((usersPS) => {
   //////console.log('GymEquipments unSynced Data:', usersPS);
   
-  axios.post(`https://www.elementdevelops.com/api/gymEquipments-insert-data`, usersPS)
+  axios.post(`https://life-pf.com/api/gymEquipments-insert-data`, usersPS)
       .then((response) => {
           //////console.log('GymEquipments axios update backend', response?.data.message);
 
@@ -494,7 +494,7 @@ await getWorkoutsUnsyncedRows(userId).then((usersPS) => {
       // console.log('WorkoutsFormData',WorkoutsFormData);
 
       
-      axios.post(`https://www.elementdevelops.com/api/workouts-insert-data`, WorkoutsFormData, {
+      axios.post(`https://life-pf.com/api/workouts-insert-data`, WorkoutsFormData, {
         headers: {
           Accept: "application/json",
           "Content-Type": "multipart/form-data",
@@ -533,7 +533,7 @@ await getWorkoutsUnsyncedRows(userId).then((usersPS) => {
 await getPublicWorkoutsPlansUnsyncedRows(userId).then((usersPWP) => {
   //////console.log('PublicWorkoutsPlans unSynced Data:', usersPWP);
   
-  axios.post(`https://www.elementdevelops.com/api/publicWorkoutsPlans-insert-data`, usersPWP)
+  axios.post(`https://life-pf.com/api/publicWorkoutsPlans-insert-data`, usersPWP)
       .then((response) => {
           //////console.log('PublicWorkoutsPlans axios update backend', response?.data.message);
       
@@ -576,7 +576,7 @@ await getPublicWorkoutsPlansUnsyncedRows(userId).then((usersPWP) => {
   await getPublicWorkoutsPlanDaysUnsyncedRows(userId).then((usersPWPD) => {
   //////console.log('PublicWorkoutsPlanDays unSynced Data:', usersPWPD);
   
-  axios.post(`https://www.elementdevelops.com/api/publicWorkoutsPlansDays-insert-data`, usersPWPD)
+  axios.post(`https://life-pf.com/api/publicWorkoutsPlansDays-insert-data`, usersPWPD)
       .then((response) => {
           //////console.log('PublicWorkoutsPlanDays axios update backend', response?.data.message);
           // Delete gym rows
@@ -618,7 +618,7 @@ await getPublicWorkoutsPlansUnsyncedRows(userId).then((usersPWP) => {
   await getStartWorkoutUnsyncedRows(userId).then((usersBWS) => {
   //////console.log('BeginWorkouts unSynced Data:', usersBWS);
   
-  axios.post(`https://www.elementdevelops.com/api/beginWorkouts-insert-data`, usersBWS)
+  axios.post(`https://life-pf.com/api/beginWorkouts-insert-data`, usersBWS)
       .then((response) => {
           //////console.log('BeginWorkouts axios update backend', response?.data.message);
           // Delete gym rows
@@ -661,7 +661,7 @@ await getPublicWorkoutsPlansUnsyncedRows(userId).then((usersPWP) => {
   await getPredefinedMealsUnsyncedRows(userId).then((usersPM) => {
       //////console.log('PredefinedMeals unSynced Data:', usersPM);
       
-      axios.post(`https://www.elementdevelops.com/api/predefinedMeals-insert-data`, usersPM)
+      axios.post(`https://life-pf.com/api/predefinedMeals-insert-data`, usersPM)
           .then((response) => {
               //////console.log('PredefinedMeals axios update backend', response?.data.message);
               // Delete gym rows
@@ -756,7 +756,7 @@ await getListOfFoodsUnsyncedRows(userId).then((usersPM) => {
     
 
     
-    axios.post(`https://www.elementdevelops.com/api/ListOfFoods-insert-data`, formData, {
+    axios.post(`https://life-pf.com/api/ListOfFoods-insert-data`, formData, {
       headers: {
         Accept: "application/json",
         "Content-Type": "multipart/form-data",
@@ -840,7 +840,7 @@ await getListOfFoodsUnsyncedRows(userId).then((usersPM) => {
   //   //////console.log('formData',formData['_parts']);
 
   // });
-  // axios.post(`https://www.elementdevelops.com/api/ListOfFoods-insert-data`, usersPM)
+  // axios.post(`https://life-pf.com/api/ListOfFoods-insert-data`, usersPM)
   //     .then((response) => {
   //         //////console.log('ListOfFoods axios update backend', response?.data.message);
   //         // Delete gym rows
@@ -876,7 +876,7 @@ await getListOfFoodsUnsyncedRows(userId).then((usersPM) => {
 // //******//********* Today Meals pages 
 await getTodayMealsUnsyncedRows(userId).then((usersPM) => {
   //////console.log('TodayMeals unSynced Data:', usersPM);
-  axios.post(`https://www.elementdevelops.com/api/TodayMeals-insert-data`, usersPM)
+  axios.post(`https://life-pf.com/api/TodayMeals-insert-data`, usersPM)
       .then((response) => {
           //////console.log('TodayMeals axios update backend', response?.data.message);
           // Delete gym rows
@@ -951,7 +951,7 @@ await getTodayMealsUnsyncedRows(userId).then((usersPM) => {
 //      if(triainerConnected){
 //        setIsTwoLoading(true); // Show activity indicator
 
-//          axios.get('https://www.elementdevelops.com/api/downloadDataForDatabaseToTheApp', {
+//          axios.get('https://life-pf.com/api/downloadDataForDatabaseToTheApp', {
 //            headers: {
 //              'Authorization': `Bearer ${userToken}`,
 //              'Content-Type': 'application/json',
@@ -1062,7 +1062,7 @@ await getTodayMealsUnsyncedRows(userId).then((usersPM) => {
         setIsTwoLoading(true); // Show activity indicator
         let counter = 0;
         try {
-          axios.get('https://www.elementdevelops.com/api/downloadDataForDatabaseToTheApp', {
+          axios.get('https://life-pf.com/api/downloadDataForDatabaseToTheApp', {
             headers: {
               'Authorization': `Bearer ${userToken}`,
               'Content-Type': 'application/json',

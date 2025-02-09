@@ -62,7 +62,7 @@ export const AccountSignOutScreen = ({navigation}) => {
   const handleSignout = async () => {
     setLoading(true);
 
-    axios.post('https://www.elementdevelops.com/api/signout', {
+    axios.post('https://life-pf.com/api/signout', {
               headers: {
                 'Authorization': `Bearer ${isUserSanctumToken}`,
                 'Content-Type': 'application/json',
@@ -144,7 +144,7 @@ export const AccountSignOutScreen = ({navigation}) => {
     //   setHideButtonClicks(true);
       
     //   // Make a request to the signout endpoint `${BASE_URL}/api/signout`
-    //   const response = await axios.post(`https://www.elementdevelops.com/api/signout`, {token:isUserSanctumToken});
+    //   const response = await axios.post(`https://life-pf.com/api/signout`, {token:isUserSanctumToken});
     //   //console.log("signout response.data.message",response.data.message);
       
     //   // Split the token string using the '|' character

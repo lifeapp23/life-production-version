@@ -368,7 +368,7 @@ const [localImageInMemory, setLocalImageInMemory] = useState(false);
 
               });
            
-              axios.get('https://www.elementdevelops.com/api/get-trainee-side-data', {
+              axios.get('https://life-pf.com/api/get-trainee-side-data', {
                 headers: {
                   'Authorization': `Bearer ${res}`,
                   'Content-Type': 'application/json',

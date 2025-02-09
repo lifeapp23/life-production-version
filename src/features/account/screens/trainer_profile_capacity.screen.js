@@ -87,7 +87,7 @@ export const TrainerProfileCapacityScreen = ({ navigation,route }) => {
                                     acpSub: false,
                                   };
                                    if(state.isConnected){              
-                                         axios.post(`https://www.elementdevelops.com/api/TrainerManageMyProfile-update-isAccept-To-False`, updateisAccectpToFalseColumnData, {
+                                         axios.post(`https://life-pf.com/api/TrainerManageMyProfile-update-isAccept-To-False`, updateisAccectpToFalseColumnData, {
                                           headers: {
                                             Accept: "application/json",
                                             "Content-Type": "application/json", // Use application/json for non-multipart data
@@ -192,7 +192,7 @@ export const TrainerProfileCapacityScreen = ({ navigation,route }) => {
                 acpSub: false,
               };
                if(triainerConnected){              
-                     axios.post(`https://www.elementdevelops.com/api/TrainerManageMyProfile-update-isAccept-To-False`, updateisAccectpToFalseColumnData, {
+                     axios.post(`https://life-pf.com/api/TrainerManageMyProfile-update-isAccept-To-False`, updateisAccectpToFalseColumnData, {
                       headers: {
                         Accept: "application/json",
                         "Content-Type": "application/json", // Use application/json for non-multipart data

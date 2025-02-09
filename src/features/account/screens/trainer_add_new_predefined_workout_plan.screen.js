@@ -174,7 +174,7 @@ import { useTranslation } from 'react-i18next';//add this line
         //  if(!planTypeCheckBox){
       //console.log('newData !planTypeCheckBox: ',newData);
 
-          axios.post(`https://www.elementdevelops.com/api/trainer-predefined-plans-insert`, newData)
+          axios.post(`https://life-pf.com/api/trainer-predefined-plans-insert`, newData)
     .then((response) => {
         ////console.log('Trainer plan data sent to online Database', response?.data?.message);
         Alert.alert(`${t(' ')}`,`${t('Your_Plan_added_to_Database_successfully')}`,
@@ -200,7 +200,7 @@ import { useTranslation } from 'react-i18next';//add this line
     // else{
     //   //console.log('newData planTypeCheckBox: ',newData);
 
-    //   axios.post(`https://www.elementdevelops.com/api/trainer-plans-insert-unlimited`, newData)
+    //   axios.post(`https://life-pf.com/api/trainer-plans-insert-unlimited`, newData)
     // .then((response) => {
     //     ////console.log('Trainer plan data sent to online Database', response?.data?.message);
     //     Alert.alert(`${t(' ')}`,`${t('Your_Plan_added_to_Database_successfully')}`,
@@ -438,7 +438,7 @@ const editPlansEntryHandler = () => {
 
     // if(!planTypeCheckBox){
       if(triainerConnected){
-        axios.post(`https://www.elementdevelops.com/api/trainer-predefined-plans-update`, newData)
+        axios.post(`https://life-pf.com/api/trainer-predefined-plans-update`, newData)
         .then((response) => {
             ////console.log('Trainer plan data sent to online Database', response?.data?.message);
             // setPlansDataTable(response?.data?.newData);
@@ -473,7 +473,7 @@ const editPlansEntryHandler = () => {
        
     // }else{
     //   if(triainerConnected){
-    //     axios.post(`https://www.elementdevelops.com/api/trainer-plans-update-unlimited`, newData)
+    //     axios.post(`https://life-pf.com/api/trainer-plans-update-unlimited`, newData)
     //     .then((response) => {
     //         ////console.log('Trainer plan data sent to online Database', response?.data?.message);
     //         // setPlansDataTable(response?.data?.newData);

@@ -112,7 +112,7 @@ const [showInfo, setShowInfo] = useState(false);
            
           if(state.isConnected){
 
-                  axios.get(`https://www.elementdevelops.com/api/get-profile?userId=${storedUser.id}`, {
+                  axios.get(`https://life-pf.com/api/get-profile?userId=${storedUser.id}`, {
                     headers: {
                       'Authorization': `Bearer ${res}`,
                       'Content-Type': 'application/json',
@@ -288,7 +288,7 @@ const sendQuestionnaireData =  (QuestionnaireInfo) => {
   
 
  if(triainerConnected){
-  axios.post(`https://www.elementdevelops.com/api/TrainerManageMyProfile-trainer-Questionnaire-inserting-data`, newData)
+  axios.post(`https://life-pf.com/api/TrainerManageMyProfile-trainer-Questionnaire-inserting-data`, newData)
   .then((response) => {
       ////console.log('response?.data?.value', response?.data?.value);
       Alert.alert(``,`${t('Questionnaire_data_updated_successfully')}`);

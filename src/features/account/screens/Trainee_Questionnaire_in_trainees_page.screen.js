@@ -113,7 +113,7 @@ export const TrainerQuestionnaireInTraineesPageScreen = ({navigation,route}) => 
           if(state.isConnected){
             setLoadingPageInfo(true);
 
-                  axios.get(`https://www.elementdevelops.com/api/get-Last-Questionnaire-For-Trainee?trneId=${TrainerTraineeCameData?.trneId}&trnrId=${TrainerTraineeCameData?.trnrId}`, {
+                  axios.get(`https://life-pf.com/api/get-Last-Questionnaire-For-Trainee?trneId=${TrainerTraineeCameData?.trneId}&trnrId=${TrainerTraineeCameData?.trnrId}`, {
                     headers: {
                       'Authorization': `Bearer ${res}`,
                       'Content-Type': 'application/json',
@@ -314,7 +314,7 @@ for (let i = 0; i < QuestionnaireNumInputs; i ++)
   
 
 //  if(triainerConnected){
-//   axios.post(`https://www.elementdevelops.com/api/TrainerManageMyProfile-trainer-Questionnaire-inserting-data`, newData)
+//   axios.post(`https://life-pf.com/api/TrainerManageMyProfile-trainer-Questionnaire-inserting-data`, newData)
 //   .then((response) => {
 //       ////console.log('response?.data?.value', response?.data?.value);
 //       Alert.alert(``,`${t('Questionnaire_data_updated_successfully')}`);

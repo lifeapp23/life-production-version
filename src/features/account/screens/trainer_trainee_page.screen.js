@@ -104,7 +104,7 @@ export const TraineePageScreen = ({navigation,route}) => {
 
               const newData = {'userId':TrainerTraineeCameData.trneId};
               //console.log('TrainerTraineeCameData.newData::',newData);
-              axios.get(`https://www.elementdevelops.com/api/trainee-plans-measurements?userId=${TrainerTraineeCameData.trneId}`, {
+              axios.get(`https://life-pf.com/api/trainee-plans-measurements?userId=${TrainerTraineeCameData.trneId}`, {
                 headers: {
                   'Authorization': `Bearer ${res}`,
                   'Content-Type': 'application/json',

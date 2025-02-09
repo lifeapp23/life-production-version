@@ -144,7 +144,7 @@ console.log('sentDay',sentDay);
         
           // }
           // const todayDay =new Date().toISOString().split('T')[0];
-          axios.get(`https://www.elementdevelops.com/api/get-trainer-trainee-meal-plan-days-for-day-new-style?traineeId=${publicWorkoutsPlanRowCon?.trneId}&trainerId=${publicWorkoutsPlanRowCon?.trnrId}&planId=${publicWorkoutsPlanRowCon?.id}&speKey=${speKeySentFromPlanMeal}`, {
+          axios.get(`https://life-pf.com/api/get-trainer-trainee-meal-plan-days-for-day-new-style?traineeId=${publicWorkoutsPlanRowCon?.trneId}&trainerId=${publicWorkoutsPlanRowCon?.trnrId}&planId=${publicWorkoutsPlanRowCon?.id}&speKey=${speKeySentFromPlanMeal}`, {
             headers: {
               'Authorization': `Bearer ${res}`,
               'Content-Type': 'application/json',
@@ -256,7 +256,7 @@ useEffect(() => {
     setShowSuccess(false); // Reset success state
     setLoadingPageInfo(false);
 
-      axios.post(`https://www.elementdevelops.com/api/trainer-trainee-plan-days-remove-new-style-minus`, newData)
+      axios.post(`https://life-pf.com/api/trainer-trainee-plan-days-remove-new-style-minus`, newData)
       .then((response) => {
           //console.log('Trainer meal delete from online Database');
           //console.log('getTrainerMealPlanDay::,',response?.data["getTrainerMealPlanDay"]);
@@ -684,7 +684,7 @@ useEffect(() => {
     if(triainerConnected){
       setLoading(true);
       setShowSuccess(false); // Reset success state
-      axios.post(`https://www.elementdevelops.com/api/make-The-Meal-Of-Day-Check`, newData)
+      axios.post(`https://life-pf.com/api/make-The-Meal-Of-Day-Check`, newData)
       .then((response) => {
           //console.log('Trainer plan plan days sent to online Database');
   
@@ -698,7 +698,7 @@ useEffect(() => {
             todDay:new Date().toISOString().split('T')[0],
             malAry:JSON.stringify(oneMeal),
           };
-          axios.post(`https://www.elementdevelops.com/api/trainer-trainee-today-meal-insert-new-style-plus`, newDataToAddToTodayMealTable)
+          axios.post(`https://life-pf.com/api/trainer-trainee-today-meal-insert-new-style-plus`, newDataToAddToTodayMealTable)
           .then((response) => {
               //console.log('Trainer plan today data sent to online Database', response?.data?.message);
                   console.log('before setMealDayCheckBox',DayMealsCheckboxValue);
@@ -740,7 +740,7 @@ useEffect(() => {
           };
           //console.log('newData',newData);
           
-            axios.post(`https://www.elementdevelops.com/api/remove-One-Meal-From-TodayMeals-new-style-minus`, newDataRemoveFromTodayMealTable)
+            axios.post(`https://life-pf.com/api/remove-One-Meal-From-TodayMeals-new-style-minus`, newDataRemoveFromTodayMealTable)
             .then((response) => {
                 //console.log('Trainer meal delete from online Database');
                 console.log('before setMealDayCheckBox',DayMealsCheckboxValue);

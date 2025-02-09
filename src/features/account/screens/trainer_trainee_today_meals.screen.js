@@ -152,7 +152,7 @@ export const TrainerTraineeTodayMealsScreen = ({navigation,route}) => {
         ////console.log('my today page',publicWorkoutsPlanRowCon);
 
         const todayDay =new Date().toISOString().split('T')[0];
-        axios.get(`https://www.elementdevelops.com/api/get-trainer-trainee-today-meals?traineeId=${publicWorkoutsPlanRowCon?.trneId}&trainerId=${publicWorkoutsPlanRowCon?.trnrId}&planId=${publicWorkoutsPlanRowCon?.id}&trainerId=${publicWorkoutsPlanRowCon?.trnrId}&todDay=${todayDay}`, {
+        axios.get(`https://life-pf.com/api/get-trainer-trainee-today-meals?traineeId=${publicWorkoutsPlanRowCon?.trneId}&trainerId=${publicWorkoutsPlanRowCon?.trnrId}&planId=${publicWorkoutsPlanRowCon?.id}&trainerId=${publicWorkoutsPlanRowCon?.trnrId}&todDay=${todayDay}`, {
         headers: {
           'Authorization': `Bearer ${res}`,
           'Content-Type': 'application/json',
@@ -330,7 +330,7 @@ useEffect(() => {
         ////console.log('my today page',publicWorkoutsPlanRowCon);
 
         const todayDay =new Date().toISOString().split('T')[0];
-        axios.get(`https://www.elementdevelops.com/api/get-trainer-trainee-today-meals?traineeId=${publicWorkoutsPlanRowCon?.trneId}&trainerId=${publicWorkoutsPlanRowCon?.trnrId}&planId=${publicWorkoutsPlanRowCon?.id}&trainerId=${publicWorkoutsPlanRowCon?.trnrId}&todDay=${todayDay}`, {
+        axios.get(`https://life-pf.com/api/get-trainer-trainee-today-meals?traineeId=${publicWorkoutsPlanRowCon?.trneId}&trainerId=${publicWorkoutsPlanRowCon?.trnrId}&planId=${publicWorkoutsPlanRowCon?.id}&trainerId=${publicWorkoutsPlanRowCon?.trnrId}&todDay=${todayDay}`, {
         headers: {
           'Authorization': `Bearer ${res}`,
           'Content-Type': 'application/json',
@@ -609,7 +609,7 @@ useEffect(() => {
     
   
    if(triainerConnected){
-    axios.post(`https://www.elementdevelops.com/api/trainer-trainee-today-meal-insert`, newData)
+    axios.post(`https://life-pf.com/api/trainer-trainee-today-meal-insert`, newData)
     .then((response) => {
         ////console.log('Trainer plan day data sent to online Database', response?.data?.message);
         Alert.alert(`${t(' ')}`,'Today_Meals_added_to_Database_successfully',

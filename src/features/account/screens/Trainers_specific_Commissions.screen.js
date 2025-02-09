@@ -100,7 +100,7 @@ const MemoizedExerciseParentView = React.memo(({ item, navigation,isAllowForeign
     if(triainerConnected){   
       setLoading(true);
       setShowSuccess(false); // Reset success state           
-       axios.post(`https://www.elementdevelops.com/api/TrainerManageMyProfile-trainer-specific-Commission-inserting-data`, newData, {
+       axios.post(`https://life-pf.com/api/TrainerManageMyProfile-trainer-specific-Commission-inserting-data`, newData, {
         headers: {
           Accept: "application/json",
           "Content-Type": "application/json", // Use application/json for non-multipart data
@@ -271,7 +271,7 @@ export const TrainersSpecificCommissionsScreen = ({navigation,route}) => {
               setLoadingPageInfo(true);
 
               ////console.log('---------------now online--------')
-              axios.get('https://www.elementdevelops.com/api/trainers-search', {
+              axios.get('https://life-pf.com/api/trainers-search', {
                 headers: {
                   'Authorization': `Bearer ${res}`,
                   'Content-Type': 'application/json',
@@ -292,7 +292,7 @@ export const TrainersSpecificCommissionsScreen = ({navigation,route}) => {
 
                 });
 
-                // axios.get(`https://www.elementdevelops.com/api/Admin-Settings-App-Get-Data-From-Database`, {
+                // axios.get(`https://life-pf.com/api/Admin-Settings-App-Get-Data-From-Database`, {
                 //   headers: {
                 //     'Authorization': `Bearer ${res}`,
                 //     'Content-Type': 'application/json',

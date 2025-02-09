@@ -173,7 +173,7 @@ import { useTranslation } from 'react-i18next';//add this line
     
      
 
-      axios.post(`https://www.elementdevelops.com/api/trainer-Onboarding-Current-Trainee-For-Free`, {
+      axios.post(`https://life-pf.com/api/trainer-Onboarding-Current-Trainee-For-Free`, {
         params:{
           status:"active",
           period:`${differenceInDays} Day`,

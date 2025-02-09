@@ -86,7 +86,7 @@ export const TrainerPredefinedManageMealsPlansScreen = ({navigation,route}) => {
           ////console.log('my plans page',TrainerTraineeCameData);
 
 
-          axios.get(`https://www.elementdevelops.com/api/get-meals-trainer-predefined-plans?trainerId=${storedUser.id}`, {
+          axios.get(`https://life-pf.com/api/get-meals-trainer-predefined-plans?trainerId=${storedUser.id}`, {
           headers: {
             'Authorization': `Bearer ${res}`,
             'Content-Type': 'application/json',
@@ -163,7 +163,7 @@ export const TrainerPredefinedManageMealsPlansScreen = ({navigation,route}) => {
   const removePlansDataItem = (item) => {
     ////console.log('item,:',item);
     if(triainerConnected){
-      axios.post(`https://www.elementdevelops.com/api/trainer-meals-predefined-plans-remove`, item)
+      axios.post(`https://life-pf.com/api/trainer-meals-predefined-plans-remove`, item)
       .then((response) => {
           ////console.log('Trainer Pricing data sent to online Database', response?.data?.message);
           setPlansDataTable(response?.data?.getTrainerPlans)

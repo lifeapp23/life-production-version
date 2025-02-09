@@ -10,7 +10,7 @@ export const ResetPasswordScreen = ({ navigation }) => {
 
   const resetPassword = async () => {
     try {
-      const response = await axios.post('https://www.elementdevelops.com/api/password/reset', {
+      const response = await axios.post('https://life-pf.com/api/password/reset', {
         email,
         password,
         password_confirmation: passwordConfirmation,

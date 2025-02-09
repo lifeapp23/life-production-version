@@ -86,7 +86,7 @@ export const TrainerTraineeWorkedExercisesCalendarScreen = ({navigation,onAddEnt
 //             ////console.log('my all worked workouts page',publicWorkoutsPlanRowCon);
 
 
-//             axios.get(`https://www.elementdevelops.com/api/fetch-all-performed-workouts`, {
+//             axios.get(`https://life-pf.com/api/fetch-all-performed-workouts`, {
 //               params: {
 //                 traineeId: publicWorkoutsPlanRowCon?.trneId,
 //                 trainerId: publicWorkoutsPlanRowCon?.trnrId
@@ -147,7 +147,7 @@ useEffect(() => {
 
       // Fetch online data
       const onlineDataResponse = await axios.get(
-        "https://www.elementdevelops.com/api/fetch-all-performed-workouts",
+        "https://life-pf.com/api/fetch-all-performed-workouts",
         {
           params: {
             traineeId: publicWorkoutsPlanRowCon?.trneId,

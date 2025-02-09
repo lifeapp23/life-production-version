@@ -183,7 +183,7 @@ import { useTranslation } from 'react-i18next';//add this line
   //        if(!planTypeCheckBox){
   //         //console.log('newData !planTypeCheckBox: ',newData);
 
-  //         axios.post(`https://www.elementdevelops.com/api/trainer-plans-meals-insert`, newData)
+  //         axios.post(`https://life-pf.com/api/trainer-plans-meals-insert`, newData)
   //         .then((response) => {
   //       ////console.log('Trainer plan data sent to online Database', response?.data?.message);
   //       Alert.alert(`${t(' ')}`,`${t('Your_Plan_added_to_Database_successfully')}`,
@@ -208,7 +208,7 @@ import { useTranslation } from 'react-i18next';//add this line
   //   else{
   //     //console.log('newData planTypeCheckBox: ',newData);
 
-  //     axios.post(`https://www.elementdevelops.com/api/trainer-plans-meals-insert-unlimited`, newData)
+  //     axios.post(`https://life-pf.com/api/trainer-plans-meals-insert-unlimited`, newData)
   //   .then((response) => {
   //       ////console.log('Trainer plan data sent to online Database', response?.data?.message);
   //       Alert.alert(`${t(' ')}`,`${t('Your_Plan_added_to_Database_successfully')}`,
@@ -355,7 +355,7 @@ import { useTranslation } from 'react-i18next';//add this line
          
           //console.log('newData !planTypeCheckBox: ',newData);
 
-          axios.post(`https://www.elementdevelops.com/api/trainer-plans-meals-insert`, newData)
+          axios.post(`https://life-pf.com/api/trainer-plans-meals-insert`, newData)
     .then((response) => {
         ////console.log('Trainer plan data sent to online Database', response?.data?.message);
         Alert.alert(`${t(' ')}`,`${t('Your_Plan_added_to_Database_successfully')}`,
@@ -382,7 +382,7 @@ import { useTranslation } from 'react-i18next';//add this line
             
             //console.log('newData planTypeCheckBox: ',newData);
 
-            axios.post(`https://www.elementdevelops.com/api/trainer-plans-meals-insert-unlimited`, newData)
+            axios.post(`https://life-pf.com/api/trainer-plans-meals-insert-unlimited`, newData)
           .then((response) => {
               ////console.log('Trainer plan data sent to online Database', response?.data?.message);
               Alert.alert(`${t(' ')}`,`${t('Your_Plan_added_to_Database_successfully')}`,
@@ -422,7 +422,7 @@ import { useTranslation } from 'react-i18next';//add this line
           };
           //console.log('newData !planTypeCheckBox: ',newData);
          
-          axios.post(`https://www.elementdevelops.com/api/trainer-plans-meals-insert`, newData)
+          axios.post(`https://life-pf.com/api/trainer-plans-meals-insert`, newData)
     .then((response) => {
         //console.log('Trainer plan data sent to online Database', response?.data?.message);
         Alert.alert(`${t(' ')}`,`${t('Your_Plan_added_to_Database_successfully')}`,
@@ -463,7 +463,7 @@ import { useTranslation } from 'react-i18next';//add this line
                  
                  }else if(imageUri.startsWith('../../../../assets/images')){
                    imageName = imageUri;
-                 }else if(imageUri.startsWith('https://www.elementdevelops.com')){
+                 }else if(imageUri.startsWith('https://life-pf.com')){
                    imageName = imageUri;
                  }else if(imageUri.startsWith('https://lifeapp23.e46498df47bd32e53e8647674155a34c.r2.cloudflarestorage.com')){
                   imageName = imageUri.replace('https://lifeapp23.e46498df47bd32e53e8647674155a34c.r2.cloudflarestorage.com', 'https://pub-e97a7d17757c41b8bcfca7023afa5da9.r2.dev');
@@ -553,7 +553,7 @@ import { useTranslation } from 'react-i18next';//add this line
              });
              //console.log('MealsDaysFormData !planTypeCheckBox: ',MealsDaysFormData);
              axios
-             .post('https://www.elementdevelops.com/api/trainer-trainee-meals-plan-days-insert-many-days', MealsDaysFormData, {
+             .post('https://life-pf.com/api/trainer-trainee-meals-plan-days-insert-many-days', MealsDaysFormData, {
                headers: { 'Content-Type': 'multipart/form-data' },
              })
              .then(response => {
@@ -606,7 +606,7 @@ const newData = {
 };
 //console.log('newData planTypeCheckBox: ',newData);
 
-axios.post(`https://www.elementdevelops.com/api/trainer-plans-meals-insert-unlimited`, newData)
+axios.post(`https://life-pf.com/api/trainer-plans-meals-insert-unlimited`, newData)
 .then((response) => {
   //console.log('Trainer plan data sent to online Database', response?.data?.message);
   // Alert.alert(`${t(' ')}`,`${t('Your_Plan_added_to_Database_successfully')}`,
@@ -647,7 +647,7 @@ if (selectedPlanWithItsDays?.plan_days?.length > 0) {
       
       }else if(imageUri.startsWith('../../../../assets/images')){
         imageName = imageUri;
-      }else if(imageUri.startsWith('https://www.elementdevelops.com')){
+      }else if(imageUri.startsWith('https://life-pf.com')){
         imageName = imageUri;
       }else if(imageUri.startsWith('https://lifeapp23.e46498df47bd32e53e8647674155a34c.r2.cloudflarestorage.com')){
         imageName = imageUri.replace('https://lifeapp23.e46498df47bd32e53e8647674155a34c.r2.cloudflarestorage.com', 'https://pub-e97a7d17757c41b8bcfca7023afa5da9.r2.dev');
@@ -736,7 +736,7 @@ if (selectedPlanWithItsDays?.plan_days?.length > 0) {
   });
   //console.log('MealsDaysFormData !planTypeCheckBox: ',MealsDaysFormData);
   axios
-  .post('https://www.elementdevelops.com/api/trainer-trainee-meals-plan-days-insert-many-days', MealsDaysFormData, {
+  .post('https://life-pf.com/api/trainer-trainee-meals-plan-days-insert-many-days', MealsDaysFormData, {
     headers: { 'Content-Type': 'multipart/form-data' },
   })
   .then(response => {
@@ -938,7 +938,7 @@ if (selectedPlanWithItsDays?.plan_days?.length > 0) {
 
 //     if(!planTypeCheckBox){
 //       if(triainerConnected){
-//         axios.post(`https://www.elementdevelops.com/api/trainer-plans-meals-update`, newData)
+//         axios.post(`https://life-pf.com/api/trainer-plans-meals-update`, newData)
 //         .then((response) => {
 //             ////console.log('Trainer plan data sent to online Database', response?.data?.message);
 //             // setPlansDataTable(response?.data?.newData);
@@ -971,7 +971,7 @@ if (selectedPlanWithItsDays?.plan_days?.length > 0) {
 //        }
 //     }else{
 //       if(triainerConnected){
-//         axios.post(`https://www.elementdevelops.com/api/trainer-plans-meals-update-unlimited`, newData)
+//         axios.post(`https://life-pf.com/api/trainer-plans-meals-update-unlimited`, newData)
 //         .then((response) => {
 //             ////console.log('Trainer plan data sent to online Database', response?.data?.message);
 //             // setPlansDataTable(response?.data?.newData);
@@ -1047,7 +1047,7 @@ const editPlansEntryHandler = () => {
          
           //console.log('newData !planTypeCheckBox: ',newData);
 
-          axios.post(`https://www.elementdevelops.com/api/trainer-plans-meals-update`, newData)
+          axios.post(`https://life-pf.com/api/trainer-plans-meals-update`, newData)
           .then((response) => {
         ////console.log('Trainer plan data sent to online Database', response?.data?.message);
         Alert.alert(`${t(' ')}`,`${t('Your_Plan_added_to_Database_successfully')}`,
@@ -1074,7 +1074,7 @@ const editPlansEntryHandler = () => {
             
             //console.log('newData planTypeCheckBox: ',newData);
 
-            axios.post(`https://www.elementdevelops.com/api/trainer-plans-meals-update-unlimited`, newData)
+            axios.post(`https://life-pf.com/api/trainer-plans-meals-update-unlimited`, newData)
             .then((response) => {
               ////console.log('Trainer plan data sent to online Database', response?.data?.message);
               Alert.alert(`${t(' ')}`,`${t('Your_Plan_added_to_Database_successfully')}`,
@@ -1115,7 +1115,7 @@ const editPlansEntryHandler = () => {
           };
           //console.log('newData !planTypeCheckBox: ',newData);
 
-          axios.post(`https://www.elementdevelops.com/api/trainer-plans-meals-update`, newData)
+          axios.post(`https://life-pf.com/api/trainer-plans-meals-update`, newData)
           .then((response) => {
         //console.log('Trainer plan data sent to online Database', response?.data?.message);
         // Alert.alert(`${t(' ')}`,`${t('Your_Plan_added_to_Database_successfully')}`,
@@ -1156,7 +1156,7 @@ const editPlansEntryHandler = () => {
                
                }else if(imageUri.startsWith('../../../../assets/images')){
                  imageName = imageUri;
-               }else if(imageUri.startsWith('https://www.elementdevelops.com')){
+               }else if(imageUri.startsWith('https://life-pf.com')){
                  imageName = imageUri;
                }else if(imageUri.startsWith('https://lifeapp23.e46498df47bd32e53e8647674155a34c.r2.cloudflarestorage.com')){
                 imageName = imageUri.replace('https://lifeapp23.e46498df47bd32e53e8647674155a34c.r2.cloudflarestorage.com', 'https://pub-e97a7d17757c41b8bcfca7023afa5da9.r2.dev');
@@ -1245,7 +1245,7 @@ const editPlansEntryHandler = () => {
            });
            //console.log('MealsDaysFormData !planTypeCheckBox: ',MealsDaysFormData);
            axios
-           .post('https://www.elementdevelops.com/api/trainer-trainee-meals-plan-day-edit-many-days', MealsDaysFormData, {
+           .post('https://life-pf.com/api/trainer-trainee-meals-plan-day-edit-many-days', MealsDaysFormData, {
              headers: { 'Content-Type': 'multipart/form-data' },
            })
            .then(response => {
@@ -1295,7 +1295,7 @@ const editPlansEntryHandler = () => {
             };
 //console.log('newData !planTypeCheckBox: ',newData);
 
-axios.post(`https://www.elementdevelops.com/api/trainer-plans-meals-update-unlimited`, newData)
+axios.post(`https://life-pf.com/api/trainer-plans-meals-update-unlimited`, newData)
 .then((response) => {
 //console.log('Trainer plan data sent to online Database', response?.data?.message);
 // Alert.alert(`${t(' ')}`,`${t('Your_Plan_added_to_Database_successfully')}`,
@@ -1336,7 +1336,7 @@ if (selectedPlanWithItsDays?.plan_days?.length > 0) {
       
       }else if(imageUri.startsWith('../../../../assets/images')){
         imageName = imageUri;
-      }else if(imageUri.startsWith('https://www.elementdevelops.com')){
+      }else if(imageUri.startsWith('https://life-pf.com')){
         imageName = imageUri;
       }else if(imageUri.startsWith('https://lifeapp23.e46498df47bd32e53e8647674155a34c.r2.cloudflarestorage.com')){
         imageName = imageUri.replace('https://lifeapp23.e46498df47bd32e53e8647674155a34c.r2.cloudflarestorage.com', 'https://pub-e97a7d17757c41b8bcfca7023afa5da9.r2.dev');
@@ -1425,7 +1425,7 @@ if (selectedPlanWithItsDays?.plan_days?.length > 0) {
   });
   //console.log('MealsDaysFormData !planTypeCheckBox: ',MealsDaysFormData);
   axios
-  .post('https://www.elementdevelops.com/api/trainer-trainee-meals-plan-day-edit-many-days', MealsDaysFormData, {
+  .post('https://life-pf.com/api/trainer-trainee-meals-plan-day-edit-many-days', MealsDaysFormData, {
     headers: { 'Content-Type': 'multipart/form-data' },
   })
   .then(response => {

@@ -193,7 +193,7 @@ import { useTranslation } from 'react-i18next';//add this line
          
           console.log('newData !planTypeCheckBox: ',newData);
 
-          axios.post(`https://www.elementdevelops.com/api/trainer-plans-insert`, newData)
+          axios.post(`https://life-pf.com/api/trainer-plans-insert`, newData)
     .then((response) => {
         ////console.log('Trainer plan data sent to online Database', response?.data?.message);
         Alert.alert(`${t(' ')}`,`${t('Your_Plan_added_to_Database_successfully')}`,
@@ -220,7 +220,7 @@ import { useTranslation } from 'react-i18next';//add this line
             
             //console.log('newData planTypeCheckBox: ',newData);
 
-            axios.post(`https://www.elementdevelops.com/api/trainer-plans-insert-unlimited`, newData)
+            axios.post(`https://life-pf.com/api/trainer-plans-insert-unlimited`, newData)
           .then((response) => {
               ////console.log('Trainer plan data sent to online Database', response?.data?.message);
               Alert.alert(`${t(' ')}`,`${t('Your_Plan_added_to_Database_successfully')}`,
@@ -260,7 +260,7 @@ import { useTranslation } from 'react-i18next';//add this line
           };
           //console.log('newData !planTypeCheckBox: ',newData);
 
-          axios.post(`https://www.elementdevelops.com/api/trainer-plans-insert`, newData)
+          axios.post(`https://life-pf.com/api/trainer-plans-insert`, newData)
     .then((response) => {
         //console.log('Trainer plan data sent to online Database', response?.data?.message);
         // Alert.alert(`${t(' ')}`,`${t('Your_Plan_added_to_Database_successfully')}`,
@@ -302,7 +302,7 @@ import { useTranslation } from 'react-i18next';//add this line
                 
                 }else if(imageUri.startsWith('../../../../assets/images')){
                   imageName = imageUri;
-                }else if(imageUri.startsWith('https://www.elementdevelops.com')){
+                }else if(imageUri.startsWith('https://life-pf.com')){
                   imageName = imageUri;
                 }else if(imageUri.startsWith('https://lifeapp23.e46498df47bd32e53e8647674155a34c.r2.cloudflarestorage.com')){
                   imageName = imageUri;
@@ -381,7 +381,7 @@ import { useTranslation } from 'react-i18next';//add this line
         
             // Send request with all days' workouts
             axios
-              .post('https://www.elementdevelops.com/api/trainer-trainee-plan-day-insert-many-days', WorkoutsDaysFormData, {
+              .post('https://life-pf.com/api/trainer-trainee-plan-day-insert-many-days', WorkoutsDaysFormData, {
                 headers: { 'Content-Type': 'multipart/form-data' },
               })
               .then(response => {
@@ -433,7 +433,7 @@ const newData = {
 };
 //console.log('newData !planTypeCheckBox: ',newData);
 
-axios.post(`https://www.elementdevelops.com/api/trainer-plans-insert-unlimited`, newData)
+axios.post(`https://life-pf.com/api/trainer-plans-insert-unlimited`, newData)
 .then((response) => {
 //console.log('Trainer plan data sent to online Database', response?.data?.message);
 // Alert.alert(`${t(' ')}`,`${t('Your_Plan_added_to_Database_successfully')}`,
@@ -475,7 +475,7 @@ if (selectedPlanWithItsDays?.plan_days?.length > 0) {
       
       }else if(imageUri.startsWith('../../../../assets/images')){
         imageName = imageUri;
-      }else if(imageUri.startsWith('https://www.elementdevelops.com')){
+      }else if(imageUri.startsWith('https://life-pf.com')){
         imageName = imageUri;
       }else if(imageUri.startsWith('https://lifeapp23.e46498df47bd32e53e8647674155a34c.r2.cloudflarestorage.com')){
         imageName = imageUri;
@@ -554,7 +554,7 @@ if (selectedPlanWithItsDays?.plan_days?.length > 0) {
 
   // Send request with all days' workouts
   axios
-    .post('https://www.elementdevelops.com/api/trainer-trainee-plan-day-insert-many-days', WorkoutsDaysFormData, {
+    .post('https://life-pf.com/api/trainer-trainee-plan-day-insert-many-days', WorkoutsDaysFormData, {
       headers: { 'Content-Type': 'multipart/form-data' },
     })
     .then(response => {
@@ -828,7 +828,7 @@ if (selectedPlanWithItsDays?.plan_days?.length > 0) {
 
 //     if(!planTypeCheckBox){
 //       if(triainerConnected){
-//         axios.post(`https://www.elementdevelops.com/api/trainer-plans-update`, newData)
+//         axios.post(`https://life-pf.com/api/trainer-plans-update`, newData)
 //         .then((response) => {
 //             ////console.log('Trainer plan data sent to online Database', response?.data?.message);
 //             // setPlansDataTable(response?.data?.newData);
@@ -861,7 +861,7 @@ if (selectedPlanWithItsDays?.plan_days?.length > 0) {
 //        }
 //     }else{
 //       if(triainerConnected){
-//         axios.post(`https://www.elementdevelops.com/api/trainer-plans-update-unlimited`, newData)
+//         axios.post(`https://life-pf.com/api/trainer-plans-update-unlimited`, newData)
 //         .then((response) => {
 //             ////console.log('Trainer plan data sent to online Database', response?.data?.message);
 //             // setPlansDataTable(response?.data?.newData);
@@ -938,7 +938,7 @@ const editPlansEntryHandler = () => {
          
           //console.log('newData !planTypeCheckBox: ',newData);
 
-          axios.post(`https://www.elementdevelops.com/api/trainer-plans-update`, newData)
+          axios.post(`https://life-pf.com/api/trainer-plans-update`, newData)
           .then((response) => {
         ////console.log('Trainer plan data sent to online Database', response?.data?.message);
         Alert.alert(`${t(' ')}`,`${t('Your_Plan_added_to_Database_successfully')}`,
@@ -965,7 +965,7 @@ const editPlansEntryHandler = () => {
             
             //console.log('newData planTypeCheckBox: ',newData);
 
-            axios.post(`https://www.elementdevelops.com/api/trainer-plans-update-unlimited`, newData)
+            axios.post(`https://life-pf.com/api/trainer-plans-update-unlimited`, newData)
             .then((response) => {
               ////console.log('Trainer plan data sent to online Database', response?.data?.message);
               Alert.alert(`${t(' ')}`,`${t('Your_Plan_added_to_Database_successfully')}`,
@@ -1006,7 +1006,7 @@ const editPlansEntryHandler = () => {
           };
           //console.log('newData !planTypeCheckBox: ',newData);
 
-          axios.post(`https://www.elementdevelops.com/api/trainer-plans-update`, newData)
+          axios.post(`https://life-pf.com/api/trainer-plans-update`, newData)
           .then((response) => {
         //console.log('Trainer plan data sent to online Database', response?.data?.message);
         // Alert.alert(`${t(' ')}`,`${t('Your_Plan_added_to_Database_successfully')}`,
@@ -1048,7 +1048,7 @@ const editPlansEntryHandler = () => {
                 
                 }else if(imageUri.startsWith('../../../../assets/images')){
                   imageName = imageUri;
-                }else if(imageUri.startsWith('https://www.elementdevelops.com')){
+                }else if(imageUri.startsWith('https://life-pf.com')){
                   imageName = imageUri;
                 }else if(imageUri.startsWith('https://lifeapp23.e46498df47bd32e53e8647674155a34c.r2.cloudflarestorage.com')){
                   imageName = imageUri;
@@ -1127,7 +1127,7 @@ const editPlansEntryHandler = () => {
         
             // Send request with all days' workouts
             axios
-              .post('https://www.elementdevelops.com/api/trainer-trainee-plan-day-edit-many-days', WorkoutsDaysFormData, {
+              .post('https://life-pf.com/api/trainer-trainee-plan-day-edit-many-days', WorkoutsDaysFormData, {
                 headers: { 'Content-Type': 'multipart/form-data' },
               })
               .then(response => {
@@ -1180,7 +1180,7 @@ const editPlansEntryHandler = () => {
             };
 //console.log('newData !planTypeCheckBox: ',newData);
 
-axios.post(`https://www.elementdevelops.com/api/trainer-plans-update-unlimited`, newData)
+axios.post(`https://life-pf.com/api/trainer-plans-update-unlimited`, newData)
 .then((response) => {
 //console.log('Trainer plan data sent to online Database', response?.data?.message);
 // Alert.alert(`${t(' ')}`,`${t('Your_Plan_added_to_Database_successfully')}`,
@@ -1222,7 +1222,7 @@ if (selectedPlanWithItsDays?.plan_days?.length > 0) {
       
       }else if(imageUri.startsWith('../../../../assets/images')){
         imageName = imageUri;
-      }else if(imageUri.startsWith('https://www.elementdevelops.com')){
+      }else if(imageUri.startsWith('https://life-pf.com')){
         imageName = imageUri;
       }else if(imageUri.startsWith('https://lifeapp23.e46498df47bd32e53e8647674155a34c.r2.cloudflarestorage.com')){
         imageName = imageUri;
@@ -1301,7 +1301,7 @@ if (selectedPlanWithItsDays?.plan_days?.length > 0) {
 
   // Send request with all days' workouts
   axios
-    .post('https://www.elementdevelops.com/api/trainer-trainee-plan-day-edit-many-days', WorkoutsDaysFormData, {
+    .post('https://life-pf.com/api/trainer-trainee-plan-day-edit-many-days', WorkoutsDaysFormData, {
       headers: { 'Content-Type': 'multipart/form-data' },
     })
     .then(response => {

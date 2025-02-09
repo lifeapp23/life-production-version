@@ -327,7 +327,7 @@ const params = route.params || {};
             setLoadingPageInfo(true);
 
             const todayDay =new Date().toISOString().split('T')[0];
-            axios.get(`https://www.elementdevelops.com/api/get-trainer-trainee-today-meals-for-today-meal-page-in-trainer-manage-meals?traineeId=${TrainerTraineeCameData?.trneId}&trainerId=${TrainerTraineeCameData?.trnrId}&todDay=${todayDay}`, {
+            axios.get(`https://life-pf.com/api/get-trainer-trainee-today-meals-for-today-meal-page-in-trainer-manage-meals?traineeId=${TrainerTraineeCameData?.trneId}&trainerId=${TrainerTraineeCameData?.trnrId}&todDay=${todayDay}`, {
             headers: {
               'Authorization': `Bearer ${res}`,
               'Content-Type': 'application/json',
@@ -824,7 +824,7 @@ const params = route.params || {};
         if(triainerConnected){
           setLoading(true);
           setShowSuccess(false); // Reset success state
-          axios.post(`https://www.elementdevelops.com/api/add-One-Meal-From-TodayMeals-new-style-plus-from-trainer-add-today-page`, newData)
+          axios.post(`https://life-pf.com/api/add-One-Meal-From-TodayMeals-new-style-plus-from-trainer-add-today-page`, newData)
           .then((response) => {
               //console.log('Trainer plan today data sent to online Database', response?.data?.message);
               // Alert.alert(`${t(' ')}`,'Today_Meals_added_to_Database_successfully',

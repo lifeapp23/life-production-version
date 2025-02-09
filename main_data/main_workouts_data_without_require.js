@@ -18,7 +18,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Standing_Leg_Circles.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Standing_Leg_Circles.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Standing_Leg_Circles.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -39,7 +39,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Static_Lunge.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Static_Lunge.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Static_Lunge.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -60,7 +60,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Navy_Seal_Burpee.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Navy_Seal_Burpee.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Navy_Seal_Burpee.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -81,7 +81,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Seated_Zottman_Curl.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Seated_Zottman_Curl.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Seated_Zottman_Curl.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -102,7 +102,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_Good_Morning.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_Good_Morning.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_Good_Morning.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -123,7 +123,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_Squat.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_Squat.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_Squat.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -144,7 +144,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Depth_Jump_To_Hurdle_Hop.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Depth_Jump_To_Hurdle_Hop.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Depth_Jump_To_Hurdle_Hop.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -165,7 +165,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Waiter_Curl.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Waiter_Curl.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Waiter_Curl.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -186,7 +186,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Power_Lunge.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Power_Lunge.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Power_Lunge.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -207,7 +207,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Standing_Dumbbell_Shoulder_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Standing_Dumbbell_Shoulder_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Standing_Dumbbell_Shoulder_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -228,7 +228,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_Deadlift.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_Deadlift.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_Deadlift.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -249,7 +249,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_Sumo_Deadlift.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_Sumo_Deadlift.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_Sumo_Deadlift.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -270,7 +270,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Side Delts",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Standing_Medicine_Ball_Chest_Pass.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Standing_Medicine_Ball_Chest_Pass.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Standing_Medicine_Ball_Chest_Pass.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -291,7 +291,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Bodyweight_Lunge.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Bodyweight_Lunge.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Bodyweight_Lunge.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -312,7 +312,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Bulgarian_Split_Squat_Jump.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Bulgarian_Split_Squat_Jump.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Bulgarian_Split_Squat_Jump.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -333,7 +333,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/One_Arm_Triceps_Pushdown.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/One_Arm_Triceps_Pushdown.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/One_Arm_Triceps_Pushdown.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -354,7 +354,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Kettlebell_Hang_Clean.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Kettlebell_Hang_Clean.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Kettlebell_Hang_Clean.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -375,7 +375,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Dragon_Flag.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dragon_Flag.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dragon_Flag.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -396,7 +396,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_Power_Clean.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_Power_Clean.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_Power_Clean.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -417,7 +417,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_Devil_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_Devil_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_Devil_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -438,7 +438,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Overhead_Squat.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Overhead_Squat.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Overhead_Squat.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -459,7 +459,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Ski_Ergometer.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Ski_Ergometer.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Ski_Ergometer.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -480,7 +480,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Traps",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Tire_Flip.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Tire_Flip.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Tire_Flip.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -501,7 +501,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Barbell_Snatch.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Barbell_Snatch.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Barbell_Snatch.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -522,7 +522,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Power_Snatch.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Power_Snatch.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Power_Snatch.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -543,7 +543,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Muscle_Snatch.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Muscle_Snatch.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Muscle_Snatch.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -564,7 +564,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Arm_Scissors.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Arm_Scissors.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Arm_Scissors.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -585,7 +585,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Side_Arm_Raises.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Side_Arm_Raises.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Side_Arm_Raises.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -606,7 +606,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Barbell_Hip_Thrusts.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Barbell_Hip_Thrusts.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Barbell_Hip_Thrusts.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -627,7 +627,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Cross_Crunch.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Cross_Crunch.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Cross_Crunch.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -648,7 +648,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Standing_Cable_Crunch.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Standing_Cable_Crunch.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Standing_Cable_Crunch.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -669,7 +669,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Seated_Bench_Leg_Pull_In.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Seated_Bench_Leg_Pull_In.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Seated_Bench_Leg_Pull_In.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -690,7 +690,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Cross_Body_Mountain_Climber.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Cross_Body_Mountain_Climber.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Cross_Body_Mountain_Climber.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -711,7 +711,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Gittleson_Shrug.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Gittleson_Shrug.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Gittleson_Shrug.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -732,7 +732,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Arm_Circles.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Arm_Circles.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Arm_Circles.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -753,7 +753,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_Lateral_Raise.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_Lateral_Raise.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_Lateral_Raise.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -774,7 +774,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_Shoulder_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_Shoulder_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_Shoulder_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -795,7 +795,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Smith_Machine_Shoulder_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Smith_Machine_Shoulder_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Smith_Machine_Shoulder_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -816,7 +816,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Cable_Lateral_Raise.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Cable_Lateral_Raise.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Cable_Lateral_Raise.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -837,7 +837,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/45_Degree_Incline_Row.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/45_Degree_Incline_Row.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/45_Degree_Incline_Row.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -858,7 +858,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Seated_Barbell_Shoulder_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Seated_Barbell_Shoulder_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Seated_Barbell_Shoulder_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -879,7 +879,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Triceps Long Head",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Standing_Close_Grip_Military_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Standing_Close_Grip_Military_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Standing_Close_Grip_Military_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -900,7 +900,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Standing_Calf_Raise.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Standing_Calf_Raise.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Standing_Calf_Raise.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -921,7 +921,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_Seated_Neutral_Wrist_Curl.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_Seated_Neutral_Wrist_Curl.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_Seated_Neutral_Wrist_Curl.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -942,7 +942,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Barbell_Reverse_Wrist_Curl.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Barbell_Reverse_Wrist_Curl.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Barbell_Reverse_Wrist_Curl.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -963,7 +963,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Jump_Rope.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Jump_Rope.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Jump_Rope.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -984,7 +984,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Treadmill.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Treadmill.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Treadmill.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -1005,7 +1005,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Incline_Treadmill.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Incline_Treadmill.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Incline_Treadmill.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -1026,7 +1026,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Rowing_Machine.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Rowing_Machine.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Rowing_Machine.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -1047,7 +1047,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Stair_Climber_Machine.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Stair_Climber_Machine.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Stair_Climber_Machine.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -1068,7 +1068,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Wrist_Circles_Stretch.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Wrist_Circles_Stretch.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Wrist_Circles_Stretch.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -1089,7 +1089,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_Chest_Supported_Lateral_Raises.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_Chest_Supported_Lateral_Raises.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_Chest_Supported_Lateral_Raises.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -1110,7 +1110,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_6_Way_Raise.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_6_Way_Raise.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_6_Way_Raise.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -1131,7 +1131,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_4_Way_Lateral_Raise.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_4_Way_Lateral_Raise.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_4_Way_Lateral_Raise.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -1152,7 +1152,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Double_Arm_Dumbbell_Curl.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Double_Arm_Dumbbell_Curl.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Double_Arm_Dumbbell_Curl.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -1173,7 +1173,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_Shrug.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_Shrug.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_Shrug.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -1194,7 +1194,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Cable_Shrug.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Cable_Shrug.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Cable_Shrug.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -1215,7 +1215,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Barbell_Shrug.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Barbell_Shrug.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Barbell_Shrug.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -1236,7 +1236,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Behind_The_Back_Barbell_Shrug.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Behind_The_Back_Barbell_Shrug.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Behind_The_Back_Barbell_Shrug.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -1257,7 +1257,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_Incline_Shrug.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_Incline_Shrug.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_Incline_Shrug.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -1278,7 +1278,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Prone_Incline_Shrug.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Prone_Incline_Shrug.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Prone_Incline_Shrug.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -1299,7 +1299,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Alternating_Dumbbell_Front_Raise.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Alternating_Dumbbell_Front_Raise.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Alternating_Dumbbell_Front_Raise.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -1320,7 +1320,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Two_Arm_Cable_Front_Raise.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Two_Arm_Cable_Front_Raise.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Two_Arm_Cable_Front_Raise.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -1341,7 +1341,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Two_Arm_Dumbbell_Front_Raise.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Two_Arm_Dumbbell_Front_Raise.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Two_Arm_Dumbbell_Front_Raise.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -1362,7 +1362,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_Front_Raise.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_Front_Raise.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_Front_Raise.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -1383,7 +1383,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Double_Cable_Front_Raise.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Double_Cable_Front_Raise.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Double_Cable_Front_Raise.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -1404,7 +1404,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Leaning_Single_Arm_Dumbbell_Lateral_Raise.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Leaning_Single_Arm_Dumbbell_Lateral_Raise.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Leaning_Single_Arm_Dumbbell_Lateral_Raise.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -1425,7 +1425,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Seated_Behind_Neck_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Seated_Behind_Neck_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Seated_Behind_Neck_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -1446,7 +1446,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Rear_Delt_Fly_Machine.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Rear_Delt_Fly_Machine.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Rear_Delt_Fly_Machine.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -1467,7 +1467,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Seated_Rear_Lateral_Dumbbell_Raise.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Seated_Rear_Lateral_Dumbbell_Raise.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Seated_Rear_Lateral_Dumbbell_Raise.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -1488,7 +1488,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Half_Arnold_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Half_Arnold_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Half_Arnold_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -1509,7 +1509,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Arnold_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Arnold_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Arnold_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -1530,7 +1530,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Seated_Dumbbell_Lateral_Raise.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Seated_Dumbbell_Lateral_Raise.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Seated_Dumbbell_Lateral_Raise.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -1551,7 +1551,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Cable_Rear_Delt_Fly.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Cable_Rear_Delt_Fly.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Cable_Rear_Delt_Fly.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -1572,7 +1572,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Bent_Over_Lateral_Raise.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Bent_Over_Lateral_Raise.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Bent_Over_Lateral_Raise.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -1593,7 +1593,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Bent_Arm_Lateral_Raise.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Bent_Arm_Lateral_Raise.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Bent_Arm_Lateral_Raise.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -1614,7 +1614,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Cable_Upright_Row.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Cable_Upright_Row.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Cable_Upright_Row.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -1635,7 +1635,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Elbow_To_Knee_Twists.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Elbow_To_Knee_Twists.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Elbow_To_Knee_Twists.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -1656,7 +1656,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Face_Pull.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Face_Pull.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Face_Pull.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -1677,7 +1677,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Half_Kneeling_High_Cable_Row_Rope.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Half_Kneeling_High_Cable_Row_Rope.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Half_Kneeling_High_Cable_Row_Rope.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -1698,7 +1698,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Calf_Raise.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Calf_Raise.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Calf_Raise.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -1719,7 +1719,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Leaning_Cable_Lateral_Raise.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Leaning_Cable_Lateral_Raise.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Leaning_Cable_Lateral_Raise.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -1740,7 +1740,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_Raise.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_Raise.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_Raise.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -1761,7 +1761,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_Upright_Row.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_Upright_Row.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_Upright_Row.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -1782,7 +1782,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Alternate_Leg_Raises.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Alternate_Leg_Raises.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Alternate_Leg_Raises.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -1803,7 +1803,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Lever_Front_Pulldown.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Lever_Front_Pulldown.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Lever_Front_Pulldown.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -1824,7 +1824,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Pull_Up.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Pull_Up.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Pull_Up.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -1845,7 +1845,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Cable_Rear_Pulldown.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Cable_Rear_Pulldown.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Cable_Rear_Pulldown.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -1866,7 +1866,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Lat_Pulldown.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Lat_Pulldown.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Lat_Pulldown.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -1887,7 +1887,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Seated_Cable_Row.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Seated_Cable_Row.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Seated_Cable_Row.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -1908,7 +1908,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Barbell_Bent_Over_Row.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Barbell_Bent_Over_Row.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Barbell_Bent_Over_Row.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -1929,7 +1929,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Cable_One_Arm_Lat_Pulldown.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Cable_One_Arm_Lat_Pulldown.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Cable_One_Arm_Lat_Pulldown.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -1950,7 +1950,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Push_Up_Toe_Touch.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Push_Up_Toe_Touch.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Push_Up_Toe_Touch.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -1971,7 +1971,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_Row.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_Row.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_Row.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -1992,7 +1992,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Bent_Over_Dumbbell_Row.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Bent_Over_Dumbbell_Row.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Bent_Over_Dumbbell_Row.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -2013,7 +2013,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_Bent_Over_Reverse_Grip_Row.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_Bent_Over_Reverse_Grip_Row.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_Bent_Over_Reverse_Grip_Row.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -2034,7 +2034,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Reverse_Lat_Pulldown.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Reverse_Lat_Pulldown.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Reverse_Lat_Pulldown.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -2055,7 +2055,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Forearm",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Muscle_Up.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Muscle_Up.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Muscle_Up.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -2076,7 +2076,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Squat.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Squat.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Squat.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -2097,7 +2097,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Seated_Row_Machine.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Seated_Row_Machine.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Seated_Row_Machine.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -2118,7 +2118,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/One_Arm_Cable_Row.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/One_Arm_Cable_Row.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/One_Arm_Cable_Row.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -2139,7 +2139,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Reverse_Grip_Barbell_Row.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Reverse_Grip_Barbell_Row.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Reverse_Grip_Barbell_Row.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -2160,7 +2160,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Crunches.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Crunches.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Crunches.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -2181,7 +2181,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Leg_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Leg_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Leg_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -2202,7 +2202,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Mountain_Climber.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Mountain_Climber.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Mountain_Climber.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -2223,7 +2223,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Bicycle_Crunch.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Bicycle_Crunch.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Bicycle_Crunch.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -2244,7 +2244,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Lying_Scissor_Kick.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Lying_Scissor_Kick.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Lying_Scissor_Kick.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -2265,7 +2265,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Plie_Dumbbell_Squat.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Plie_Dumbbell_Squat.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Plie_Dumbbell_Squat.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -2286,7 +2286,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Deadlift.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Deadlift.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Deadlift.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -2307,7 +2307,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_Kickback.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_Kickback.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_Kickback.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -2328,7 +2328,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_Curl.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_Curl.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_Curl.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -2349,7 +2349,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Barbell_Curl.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Barbell_Curl.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Barbell_Curl.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -2370,7 +2370,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Leg_Raise.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Leg_Raise.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Leg_Raise.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -2391,7 +2391,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Oblique_Floor_Crunches.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Oblique_Floor_Crunches.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Oblique_Floor_Crunches.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -2412,7 +2412,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/T_Cross_Sit_Up.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/T_Cross_Sit_Up.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/T_Cross_Sit_Up.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -2433,7 +2433,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Leg_Curl.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Leg_Curl.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Leg_Curl.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -2454,7 +2454,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/One_Arm_Reverse_Pushdown.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/One_Arm_Reverse_Pushdown.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/One_Arm_Reverse_Pushdown.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -2475,7 +2475,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Push_Down.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Push_Down.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Push_Down.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -2496,7 +2496,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Cable_Concentration_Curl.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Cable_Concentration_Curl.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Cable_Concentration_Curl.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -2517,7 +2517,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Dead_Bug.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dead_Bug.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dead_Bug.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -2538,7 +2538,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Decline_Sit_Up.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Decline_Sit_Up.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Decline_Sit_Up.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -2559,7 +2559,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Leg_Extension.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Leg_Extension.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Leg_Extension.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -2580,7 +2580,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Reverse_Crunch.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Reverse_Crunch.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Reverse_Crunch.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -2601,7 +2601,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Bench_Dips.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Bench_Dips.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Bench_Dips.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -2622,7 +2622,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Triceps_Dips.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Triceps_Dips.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Triceps_Dips.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -2643,7 +2643,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Ez_Bar_Preacher_Curl.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Ez_Bar_Preacher_Curl.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Ez_Bar_Preacher_Curl.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -2664,7 +2664,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Seated_Incline_Dumbbell_Curl.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Seated_Incline_Dumbbell_Curl.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Seated_Incline_Dumbbell_Curl.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -2685,7 +2685,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Barbell_Seated_Calf_Raise.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Barbell_Seated_Calf_Raise.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Barbell_Seated_Calf_Raise.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -2706,7 +2706,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Kneeling_Cable_Crunch.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Kneeling_Cable_Crunch.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Kneeling_Cable_Crunch.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -2727,7 +2727,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Heel_Touch.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Heel_Touch.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Heel_Touch.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -2748,7 +2748,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/One_Arm_Lying_Triceps_Extension.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/One_Arm_Lying_Triceps_Extension.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/One_Arm_Lying_Triceps_Extension.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -2769,7 +2769,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Bodyweight_Military_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Bodyweight_Military_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Bodyweight_Military_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -2790,7 +2790,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Lever_Preacher_Curl.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Lever_Preacher_Curl.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Lever_Preacher_Curl.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -2811,7 +2811,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/High_Cable_Single_Arm_Bicep_Curl_Dib.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/High_Cable_Single_Arm_Bicep_Curl_Dib.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/High_Cable_Single_Arm_Bicep_Curl_Dib.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -2832,7 +2832,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Cable_Rope_Overhead_Triceps_Extension.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Cable_Rope_Overhead_Triceps_Extension.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Cable_Rope_Overhead_Triceps_Extension.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -2853,7 +2853,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Romanian_Deadlift.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Romanian_Deadlift.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Romanian_Deadlift.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -2874,7 +2874,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Pec_Deck_Fly.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Pec_Deck_Fly.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Pec_Deck_Fly.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -2895,7 +2895,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_Pullover.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_Pullover.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_Pullover.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -2916,7 +2916,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Low_Cable_Crossover.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Low_Cable_Crossover.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Low_Cable_Crossover.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -2937,7 +2937,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/High_Cable_Crossover.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/High_Cable_Crossover.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/High_Cable_Crossover.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -2958,7 +2958,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Cable_Upper_Chest_Crossovers.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Cable_Upper_Chest_Crossovers.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Cable_Upper_Chest_Crossovers.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -2979,7 +2979,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Triceps Short Head",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_Fly.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_Fly.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_Fly.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -3000,7 +3000,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Side Delts",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_Bench_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_Bench_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_Bench_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -3021,7 +3021,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Cable_Crossover.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Cable_Crossover.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Cable_Crossover.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -3042,7 +3042,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/One_Arm_Cable_Chest_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/One_Arm_Cable_Chest_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/One_Arm_Cable_Chest_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -3063,7 +3063,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Lying_Barbell_Triceps_Extension.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Lying_Barbell_Triceps_Extension.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Lying_Barbell_Triceps_Extension.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -3084,7 +3084,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/One_Arm_Cable_Curl.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/One_Arm_Cable_Curl.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/One_Arm_Cable_Curl.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -3105,7 +3105,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Single_Arm_Cable_Crossover.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Single_Arm_Cable_Crossover.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Single_Arm_Cable_Crossover.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -3126,7 +3126,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Incline_Dumbbell_Fly.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Incline_Dumbbell_Fly.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Incline_Dumbbell_Fly.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -3147,7 +3147,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Incline_Dumbbell_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Incline_Dumbbell_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Incline_Dumbbell_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -3168,7 +3168,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Standing_Rotation.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Standing_Rotation.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Standing_Rotation.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -3189,7 +3189,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Upper_Back_Stretch.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Upper_Back_Stretch.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Upper_Back_Stretch.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -3210,7 +3210,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Cable_Tricep_Kickback.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Cable_Tricep_Kickback.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Cable_Tricep_Kickback.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -3231,7 +3231,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Barbell_Reverse_Curl.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Barbell_Reverse_Curl.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Barbell_Reverse_Curl.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -3252,7 +3252,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Barbell_Hack_Squats.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Barbell_Hack_Squats.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Barbell_Hack_Squats.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -3273,7 +3273,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Triceps_Dips_On_Floor.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Triceps_Dips_On_Floor.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Triceps_Dips_On_Floor.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -3294,7 +3294,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Kneeling_High_Pulley_Row.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Kneeling_High_Pulley_Row.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Kneeling_High_Pulley_Row.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -3315,7 +3315,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Cable_One_Arm_Wrist_Curl_On_Floor.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Cable_One_Arm_Wrist_Curl_On_Floor.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Cable_One_Arm_Wrist_Curl_On_Floor.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -3336,7 +3336,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Barbell_Sumo_Squat.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Barbell_Sumo_Squat.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Barbell_Sumo_Squat.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -3357,7 +3357,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_Seated_Front_And_Back_Tate_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_Seated_Front_And_Back_Tate_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_Seated_Front_And_Back_Tate_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -3378,7 +3378,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Decline_Dumbbell_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Decline_Dumbbell_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Decline_Dumbbell_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -3399,7 +3399,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_Bulgarian_Split_Squat.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_Bulgarian_Split_Squat.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_Bulgarian_Split_Squat.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -3420,7 +3420,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_Romanian_Deadlift.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_Romanian_Deadlift.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_Romanian_Deadlift.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -3441,7 +3441,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Hack_Squat.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Hack_Squat.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Hack_Squat.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -3462,7 +3462,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Hand_Gripper.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Hand_Gripper.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Hand_Gripper.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -3483,7 +3483,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Sumo_Deadlift.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Sumo_Deadlift.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Sumo_Deadlift.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -3504,7 +3504,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Half_Kneeling_Lat_Pulldown.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Half_Kneeling_Lat_Pulldown.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Half_Kneeling_Lat_Pulldown.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -3525,7 +3525,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Hip Flexor",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Power_Skips.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Power_Skips.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Power_Skips.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -3546,7 +3546,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Plyo_Jacks.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Plyo_Jacks.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Plyo_Jacks.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -3567,7 +3567,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Butt_Kicks.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Butt_Kicks.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Butt_Kicks.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -3588,7 +3588,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Fast_Feet_Run.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Fast_Feet_Run.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Fast_Feet_Run.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -3609,7 +3609,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_Lunge.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_Lunge.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_Lunge.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -3630,7 +3630,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/DUMBBELL_STRAIGHT_LEG_DEADLIFT.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/DUMBBELL_STRAIGHT_LEG_DEADLIFT.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/DUMBBELL_STRAIGHT_LEG_DEADLIFT.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -3651,7 +3651,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Bodyweight_Sumo_Squat.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Bodyweight_Sumo_Squat.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Bodyweight_Sumo_Squat.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -3672,7 +3672,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Barbell_Bulgarian_Split_Squat.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Barbell_Bulgarian_Split_Squat.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Barbell_Bulgarian_Split_Squat.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -3693,7 +3693,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_Rear_Lunge.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_Rear_Lunge.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_Rear_Lunge.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -3714,7 +3714,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Barbell_Lunge.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Barbell_Lunge.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Barbell_Lunge.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -3735,7 +3735,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Barbell_Lateral_Lunge.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Barbell_Lateral_Lunge.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Barbell_Lateral_Lunge.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -3756,7 +3756,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Leg_Press_Calf_Raise.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Leg_Press_Calf_Raise.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Leg_Press_Calf_Raise.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -3777,7 +3777,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Side_Lunge.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Side_Lunge.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Side_Lunge.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -3798,7 +3798,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Standing_Hip_Abduction.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Standing_Hip_Abduction.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Standing_Hip_Abduction.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -3819,7 +3819,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Cable_Hip_Adduction.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Cable_Hip_Adduction.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Cable_Hip_Adduction.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -3840,7 +3840,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Zig_Zag_Hops_Plyometric.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Zig_Zag_Hops_Plyometric.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Zig_Zag_Hops_Plyometric.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -3861,7 +3861,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Bodyweight_Squat.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Bodyweight_Squat.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Bodyweight_Squat.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -3882,7 +3882,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Side_Lying_Clam.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Side_Lying_Clam.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Side_Lying_Clam.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -3903,7 +3903,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Seated_Hamstring_Stretch.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Seated_Hamstring_Stretch.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Seated_Hamstring_Stretch.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -3924,7 +3924,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Lateral_Speed_Step.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Lateral_Speed_Step.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Lateral_Speed_Step.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -3945,7 +3945,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Kettlebell_Single_Leg_Deadliftt.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Kettlebell_Single_Leg_Deadliftt.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Kettlebell_Single_Leg_Deadliftt.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -3966,7 +3966,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Reverse_Lunge_Knee_Lift.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Reverse_Lunge_Knee_Lift.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Reverse_Lunge_Knee_Lift.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -3987,7 +3987,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Lying_Hamstring_Stretch.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Lying_Hamstring_Stretch.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Lying_Hamstring_Stretch.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -4008,7 +4008,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Curtsy_Squat.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Curtsy_Squat.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Curtsy_Squat.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -4029,7 +4029,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Cable_Goblet_Squat.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Cable_Goblet_Squat.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Cable_Goblet_Squat.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -4050,7 +4050,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Cable_Donkey_Kickback.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Cable_Donkey_Kickback.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Cable_Donkey_Kickback.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -4071,7 +4071,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Standing_Toe_Touch.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Standing_Toe_Touch.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Standing_Toe_Touch.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -4092,7 +4092,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Thigh_Fly_Adductor_Magnus_Stretch.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Thigh_Fly_Adductor_Magnus_Stretch.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Thigh_Fly_Adductor_Magnus_Stretch.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -4113,7 +4113,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Split_Jump_Squat.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Split_Jump_Squat.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Split_Jump_Squat.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -4134,7 +4134,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Cossack_Squat.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Cossack_Squat.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Cossack_Squat.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -4155,7 +4155,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Lever_Seated_Calf_Raise.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Lever_Seated_Calf_Raise.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Lever_Seated_Calf_Raise.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -4176,7 +4176,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Lever_Seated_Calf_Raise.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Lever_Seated_Calf_Raise.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Lever_Seated_Calf_Raise.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -4197,7 +4197,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Single_Leg_Calf_Raise.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Single_Leg_Calf_Raise.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Single_Leg_Calf_Raise.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -4218,7 +4218,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Crunch_With_Leg_Raise.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Crunch_With_Leg_Raise.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Crunch_With_Leg_Raise.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -4239,7 +4239,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Alternate_Lying_Floor_Leg_Raise.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Alternate_Lying_Floor_Leg_Raise.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Alternate_Lying_Floor_Leg_Raise.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -4260,7 +4260,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Chest_Dips.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Chest_Dips.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Chest_Dips.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -4281,7 +4281,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Assisted_Chest_Dip.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Assisted_Chest_Dip.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Assisted_Chest_Dip.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -4302,7 +4302,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Donkey_Calf_Raise.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Donkey_Calf_Raise.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Donkey_Calf_Raise.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -4323,7 +4323,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Weighted_Crunch.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Weighted_Crunch.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Weighted_Crunch.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -4344,7 +4344,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Seated_Side_Crunch.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Seated_Side_Crunch.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Seated_Side_Crunch.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -4365,7 +4365,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Standing_Cross_Leg_Hamstring_Stretch.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Standing_Cross_Leg_Hamstring_Stretch.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Standing_Cross_Leg_Hamstring_Stretch.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -4386,7 +4386,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Backward_Jump.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Backward_Jump.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Backward_Jump.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -4407,7 +4407,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Jumping_Jack.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Jumping_Jack.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Jumping_Jack.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -4428,7 +4428,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Single_Leg_Broad_Jump.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Single_Leg_Broad_Jump.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Single_Leg_Broad_Jump.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -4449,7 +4449,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Incline_Leg_Hip_Raise.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Incline_Leg_Hip_Raise.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Incline_Leg_Hip_Raise.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -4470,7 +4470,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Bodyweight_Windmill.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Bodyweight_Windmill.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Bodyweight_Windmill.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -4491,7 +4491,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Front_To_Side_Plank.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Front_To_Side_Plank.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Front_To_Side_Plank.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -4512,7 +4512,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Tuck_Crunch.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Tuck_Crunch.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Tuck_Crunch.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -4533,7 +4533,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_Side_Bend.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_Side_Bend.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_Side_Bend.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -4554,7 +4554,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Double_Leg_Stretch.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Double_Leg_Stretch.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Double_Leg_Stretch.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -4575,7 +4575,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Spider_Plank.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Spider_Plank.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Spider_Plank.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -4596,7 +4596,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Bench_Side_Bend.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Bench_Side_Bend.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Bench_Side_Bend.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -4617,7 +4617,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Weighted_Sit_Ups.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Weighted_Sit_Ups.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Weighted_Sit_Ups.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -4638,7 +4638,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Lying_Knee_Raise.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Lying_Knee_Raise.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Lying_Knee_Raise.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -4659,7 +4659,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Floor_Crunch.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Floor_Crunch.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Floor_Crunch.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -4680,7 +4680,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Ez_Bar_Upright_Row.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Ez_Bar_Upright_Row.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Ez_Bar_Upright_Row.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -4701,7 +4701,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Traps",
       "minorMuscleThree": "Rhomboids",
       "images": "../../../../assets/images/workouts_thumbnails/Decline_Dumbbell_Fly.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Decline_Dumbbell_Fly.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Decline_Dumbbell_Fly.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -4722,7 +4722,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Serratus Anterior",
       "minorMuscleThree": "Traps",
       "images": "../../../../assets/images/workouts_thumbnails/Incline_Dumbbell_Hammer_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Incline_Dumbbell_Hammer_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Incline_Dumbbell_Hammer_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -4743,7 +4743,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Hip Flexor",
       "minorMuscleThree": "Rectus Abdominis",
       "images": "../../../../assets/images/workouts_thumbnails/Run_In_Place.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Run_In_Place.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Run_In_Place.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -4764,7 +4764,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Erector Spinae",
       "minorMuscleThree": "Rectus Abdominis",
       "images": "../../../../assets/images/workouts_thumbnails/Jump_Squats.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Jump_Squats.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Jump_Squats.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -4785,7 +4785,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Rhomboids",
       "minorMuscleThree": "Rectus Abdominis",
       "images": "../../../../assets/images/workouts_thumbnails/Kneeling_Cable_Triceps_Extension.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Kneeling_Cable_Triceps_Extension.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Kneeling_Cable_Triceps_Extension.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -4806,7 +4806,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Cable_Rear_Drive.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Cable_Rear_Drive.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Cable_Rear_Drive.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -4827,7 +4827,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Erector Spinae",
       "minorMuscleThree": "Rectus Abdominis",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_Goblet_Squat.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_Goblet_Squat.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_Goblet_Squat.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -4848,7 +4848,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Traps",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Hyperextension.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Hyperextension.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Hyperextension.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -4869,7 +4869,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Glutes",
       "minorMuscleThree": "Hamstrings",
       "images": "../../../../assets/images/workouts_thumbnails/Reverse_Plank.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Reverse_Plank.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Reverse_Plank.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -4890,7 +4890,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_Lying_One_Arm_Rear_Lateral_Raise.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_Lying_One_Arm_Rear_Lateral_Raise.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_Lying_One_Arm_Rear_Lateral_Raise.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -4911,7 +4911,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Lateral_Raise_Machine.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Lateral_Raise_Machine.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Lateral_Raise_Machine.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -4932,7 +4932,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Scott_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Scott_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Scott_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -4953,7 +4953,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Forearm",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Band_Pull_Apart.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Band_Pull_Apart.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Band_Pull_Apart.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -4974,7 +4974,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Triceps Short Head",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Bent_Over_Reverse_Cable_Fly.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Bent_Over_Reverse_Cable_Fly.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Bent_Over_Reverse_Cable_Fly.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -4995,7 +4995,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Weighted_Round_Arm.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Weighted_Round_Arm.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Weighted_Round_Arm.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -5016,7 +5016,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Weight_Plate_Front_Raise.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Weight_Plate_Front_Raise.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Weight_Plate_Front_Raise.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -5037,7 +5037,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_Upward_Fly.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_Upward_Fly.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_Upward_Fly.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -5058,7 +5058,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Two_Arm_Cable_Lateral_Raise.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Two_Arm_Cable_Lateral_Raise.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Two_Arm_Cable_Lateral_Raise.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -5079,7 +5079,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Traps",
       "minorMuscleThree": "Serratus Anterior",
       "images": "../../../../assets/images/workouts_thumbnails/Cable_Shoulder_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Cable_Shoulder_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Cable_Shoulder_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -5100,7 +5100,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Traps",
       "minorMuscleThree": "Serratus Anterior",
       "images": "../../../../assets/images/workouts_thumbnails/Standing_Smith_Machine_Shoulder_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Standing_Smith_Machine_Shoulder_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Standing_Smith_Machine_Shoulder_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -5121,7 +5121,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Rhomboids",
       "minorMuscleThree": "Serratus Anterior",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_W_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_W_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_W_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -5142,7 +5142,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Traps",
       "minorMuscleThree": "Serratus Anterior",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_One_Arm_Shoulder_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_One_Arm_Shoulder_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_One_Arm_Shoulder_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -5163,7 +5163,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Serratus Anterior",
       "minorMuscleThree": "Rhomboids",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_Scaption.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_Scaption.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_Scaption.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -5184,7 +5184,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Erector Spinae",
       "minorMuscleThree": "Quadriceps",
       "images": "../../../../assets/images/workouts_thumbnails/Barbell_Clean_And_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Barbell_Clean_And_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Barbell_Clean_And_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -5205,7 +5205,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Front Delts",
       "minorMuscleThree": "Rhomboids",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_Cuban_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_Cuban_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_Cuban_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -5226,7 +5226,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_Cuban_External_Rotation.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_Cuban_External_Rotation.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_Cuban_External_Rotation.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -5247,7 +5247,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Serratus Anterior",
       "minorMuscleThree": "Rhomboids",
       "images": "../../../../assets/images/workouts_thumbnails/Standing_Alternating_Dumbbell_Shoulder_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Standing_Alternating_Dumbbell_Shoulder_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Standing_Alternating_Dumbbell_Shoulder_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -5268,7 +5268,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Traps",
       "minorMuscleThree": "Rhomboids",
       "images": "../../../../assets/images/workouts_thumbnails/Narrow_Grip_Wall_Push_Up.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Narrow_Grip_Wall_Push_Up.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Narrow_Grip_Wall_Push_Up.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -5289,7 +5289,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Cable_External_Shoulder_Rotation.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Cable_External_Shoulder_Rotation.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Cable_External_Shoulder_Rotation.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -5310,7 +5310,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Cable_Internal_Shoulder_Rotation.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Cable_Internal_Shoulder_Rotation.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Cable_Internal_Shoulder_Rotation.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -5331,7 +5331,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Lats",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Across_Chest_Shoulder_Stretch.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Across_Chest_Shoulder_Stretch.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Across_Chest_Shoulder_Stretch.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -5352,7 +5352,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Rear Delts",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Standing_Reach_Up_Back_Rotation_Stretch.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Standing_Reach_Up_Back_Rotation_Stretch.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Standing_Reach_Up_Back_Rotation_Stretch.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -5373,7 +5373,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Incline_Dumbbell_Side_Lateral_Raise.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Incline_Dumbbell_Side_Lateral_Raise.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Incline_Dumbbell_Side_Lateral_Raise.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -5394,7 +5394,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Body_Ups.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Body_Ups.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Body_Ups.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -5415,7 +5415,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Erector Spinae",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_Lateral_Step_Up.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_Lateral_Step_Up.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_Lateral_Step_Up.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -5436,7 +5436,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Rear Delts",
       "minorMuscleThree": "Erector Spinae",
       "images": "../../../../assets/images/workouts_thumbnails/Smith_Machine_Bent_Over_Row.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Smith_Machine_Bent_Over_Row.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Smith_Machine_Bent_Over_Row.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -5457,7 +5457,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Traps",
       "minorMuscleThree": "Erector Spinae",
       "images": "../../../../assets/images/workouts_thumbnails/Incline_Reverse_Grip_Dumbbell_Row.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Incline_Reverse_Grip_Dumbbell_Row.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Incline_Reverse_Grip_Dumbbell_Row.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -5478,7 +5478,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Calves",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Lateral_Step_Up.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Lateral_Step_Up.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Lateral_Step_Up.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -5499,7 +5499,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Obliques",
       "minorMuscleThree": "Hip Flexor",
       "images": "../../../../assets/images/workouts_thumbnails/Step_Up_Opposite_Elbow_To_Knee_Twist.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Step_Up_Opposite_Elbow_To_Knee_Twist.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Step_Up_Opposite_Elbow_To_Knee_Twist.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -5520,7 +5520,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Calves",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Barbell_Step_Up.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Barbell_Step_Up.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Barbell_Step_Up.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -5541,7 +5541,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Traps",
       "minorMuscleThree": "Front Delts",
       "images": "../../../../assets/images/workouts_thumbnails/Power_Clean.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Power_Clean.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Power_Clean.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -5562,7 +5562,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Rhomboids",
       "minorMuscleThree": "Erector Spinae",
       "images": "../../../../assets/images/workouts_thumbnails/Barbell_Pullover.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Barbell_Pullover.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Barbell_Pullover.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -5583,7 +5583,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Rhomboids",
       "minorMuscleThree": "Erector Spinae",
       "images": "../../../../assets/images/workouts_thumbnails/Cable_Pullover.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Cable_Pullover.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Cable_Pullover.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -5604,7 +5604,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Rear Delts",
       "minorMuscleThree": "Forearm",
       "images": "../../../../assets/images/workouts_thumbnails/Reverse_Grip_Pull_Up.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Reverse_Grip_Pull_Up.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Reverse_Grip_Pull_Up.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -5625,7 +5625,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Rhomboids",
       "minorMuscleThree": "Forearm",
       "images": "../../../../assets/images/workouts_thumbnails/Close_Grip_Chin_Up.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Close_Grip_Chin_Up.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Close_Grip_Chin_Up.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -5646,7 +5646,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Rhomboids",
       "minorMuscleThree": "Forearm",
       "images": "../../../../assets/images/workouts_thumbnails/Assisted_Pull_Up.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Assisted_Pull_Up.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Assisted_Pull_Up.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -5667,7 +5667,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Lying_Cable_Reverse_Fly.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Lying_Cable_Reverse_Fly.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Lying_Cable_Reverse_Fly.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -5688,7 +5688,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Side Delts",
       "minorMuscleThree": "Triceps Short Head",
       "images": "../../../../assets/images/workouts_thumbnails/Decline_Chest_Press_Machine.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Decline_Chest_Press_Machine.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Decline_Chest_Press_Machine.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -5709,7 +5709,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Brachialis",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Cable_Lying_Triceps_Extensions.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Cable_Lying_Triceps_Extensions.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Cable_Lying_Triceps_Extensions.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -5730,7 +5730,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Single_Arm_Circles.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Single_Arm_Circles.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Single_Arm_Circles.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -5751,7 +5751,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Lying_Dumbbell_Leg_Curl.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Lying_Dumbbell_Leg_Curl.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Lying_Dumbbell_Leg_Curl.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -5772,7 +5772,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Stability_Ball_Knee_Tuck.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Stability_Ball_Knee_Tuck.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Stability_Ball_Knee_Tuck.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -5793,7 +5793,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Smith_Machine_Hex_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Smith_Machine_Hex_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Smith_Machine_Hex_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -5814,7 +5814,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Toes_To_Bar.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Toes_To_Bar.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Toes_To_Bar.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -5835,7 +5835,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Adductors",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Weighted_Hanging_Knee_Raises.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Weighted_Hanging_Knee_Raises.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Weighted_Hanging_Knee_Raises.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -5856,7 +5856,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Rectus Abdominis",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Kneeling_Push_Up.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Kneeling_Push_Up.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Kneeling_Push_Up.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -5877,7 +5877,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Lying_Cable_Curl.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Lying_Cable_Curl.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Lying_Cable_Curl.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -5898,7 +5898,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_Reverse_Curl.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_Reverse_Curl.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_Reverse_Curl.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -5919,7 +5919,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Seated_Close_Grip_Concentration_Curl.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Seated_Close_Grip_Concentration_Curl.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Seated_Close_Grip_Concentration_Curl.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -5940,7 +5940,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Prone_Incline_Barbell_Curl.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Prone_Incline_Barbell_Curl.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Prone_Incline_Barbell_Curl.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -5961,7 +5961,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Overhead_Cable_Curl.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Overhead_Cable_Curl.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Overhead_Cable_Curl.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -5982,7 +5982,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Seated_Hammer_Curl.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Seated_Hammer_Curl.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Seated_Hammer_Curl.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -6003,7 +6003,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Seated_Biceps_Curl.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Seated_Biceps_Curl.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Seated_Biceps_Curl.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -6024,7 +6024,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Seated_One_Arm_Dumbbell_Triceps_Extension.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Seated_One_Arm_Dumbbell_Triceps_Extension.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Seated_One_Arm_Dumbbell_Triceps_Extension.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -6045,7 +6045,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Seated_Dumbbell_Triceps_Extension.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Seated_Dumbbell_Triceps_Extension.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Seated_Dumbbell_Triceps_Extension.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -6066,7 +6066,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Smith_Machine_Bench_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Smith_Machine_Bench_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Smith_Machine_Bench_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -6087,7 +6087,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Smith_Machine_Incline_Bench_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Smith_Machine_Incline_Bench_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Smith_Machine_Incline_Bench_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -6108,7 +6108,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Reverse_Grip_Machine_Row.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Reverse_Grip_Machine_Row.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Reverse_Grip_Machine_Row.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -6129,7 +6129,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Reverse_Grip_Ez_Bar_Curl.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Reverse_Grip_Ez_Bar_Curl.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Reverse_Grip_Ez_Bar_Curl.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -6150,7 +6150,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_Scott_Hammer_Curl.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_Scott_Hammer_Curl.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_Scott_Hammer_Curl.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -6171,7 +6171,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Lever_Triceps_Extension.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Lever_Triceps_Extension.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Lever_Triceps_Extension.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -6192,7 +6192,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Rhomboids",
       "minorMuscleThree": "Traps",
       "images": "../../../../assets/images/workouts_thumbnails/Bench_Dips_On_Floor.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Bench_Dips_On_Floor.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Bench_Dips_On_Floor.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -6213,7 +6213,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Adductors",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Teaser_Pilates.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Teaser_Pilates.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Teaser_Pilates.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -6234,7 +6234,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Hip Flexor",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Seated_Oblique_Twist.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Seated_Oblique_Twist.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Seated_Oblique_Twist.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -6255,7 +6255,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Transverse Abdominis",
       "minorMuscleThree": "Rectus Abdominis",
       "images": "../../../../assets/images/workouts_thumbnails/Bodyweight_Hip_Thrust.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Bodyweight_Hip_Thrust.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Bodyweight_Hip_Thrust.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -6276,7 +6276,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Rear Delts",
       "minorMuscleThree": "Erector Spinae",
       "images": "../../../../assets/images/workouts_thumbnails/Close_Grip_Cable_Row.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Close_Grip_Cable_Row.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Close_Grip_Cable_Row.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -6297,7 +6297,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Side Delts",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Rope_Straight_Arm_Pulldown.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Rope_Straight_Arm_Pulldown.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Rope_Straight_Arm_Pulldown.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -6318,7 +6318,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Side_Bridge.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Side_Bridge.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Side_Bridge.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -6339,7 +6339,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Rhomboids",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/V_Bar_Lat_Pulldown.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/V_Bar_Lat_Pulldown.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/V_Bar_Lat_Pulldown.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -6360,7 +6360,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Rear Delts",
       "minorMuscleThree": "Erector Spinae",
       "images": "../../../../assets/images/workouts_thumbnails/T_Bar_Row.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/T_Bar_Row.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/T_Bar_Row.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -6381,7 +6381,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Glutes",
       "minorMuscleThree": "Erector Spinae",
       "images": "../../../../assets/images/workouts_thumbnails/Weighted_Front_Plank.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Weighted_Front_Plank.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Weighted_Front_Plank.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -6402,7 +6402,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Biceps Long Head",
       "minorMuscleThree": "Traps",
       "images": "../../../../assets/images/workouts_thumbnails/Incline_Cable_Row.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Incline_Cable_Row.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Incline_Cable_Row.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -6423,7 +6423,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Transverse Abdominis",
       "minorMuscleThree": "Obliques",
       "images": "../../../../assets/images/workouts_thumbnails/One_Arm_Bent_Over_Cable_Lateral_Raise.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/One_Arm_Bent_Over_Cable_Lateral_Raise.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/One_Arm_Bent_Over_Cable_Lateral_Raise.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -6444,7 +6444,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Biceps Long Head",
       "minorMuscleThree": "Rear Delts",
       "images": "../../../../assets/images/workouts_thumbnails/Cable_Bent_Over_Row.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Cable_Bent_Over_Row.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Cable_Bent_Over_Row.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -6465,7 +6465,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Standing_Side_Bend_Stretch.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Standing_Side_Bend_Stretch.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Standing_Side_Bend_Stretch.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -6486,7 +6486,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Rhomboids",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Ez_Bar_Underhand_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Ez_Bar_Underhand_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Ez_Bar_Underhand_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -6507,7 +6507,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Erector Spinae",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Back_Pec_Stretch.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Back_Pec_Stretch.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Back_Pec_Stretch.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -6528,7 +6528,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Forearm",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Lying_High_Bench_Barbell_Curl.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Lying_High_Bench_Barbell_Curl.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Lying_High_Bench_Barbell_Curl.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -6549,7 +6549,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Transverse Abdominis",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Single_Leg_Bridge.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Single_Leg_Bridge.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Single_Leg_Bridge.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -6570,7 +6570,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Rhomboids",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Double_Cable_Neutral_Grip_Lat_Pulldown_On_Floor.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Double_Cable_Neutral_Grip_Lat_Pulldown_On_Floor.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Double_Cable_Neutral_Grip_Lat_Pulldown_On_Floor.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -6591,7 +6591,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Cable_Side_Bend.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Cable_Side_Bend.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Cable_Side_Bend.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -6612,7 +6612,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_Lying_External_Shoulder_Rotation.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_Lying_External_Shoulder_Rotation.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_Lying_External_Shoulder_Rotation.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -6633,7 +6633,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Serratus Anterior",
       "minorMuscleThree": "Biceps Long Head",
       "images": "../../../../assets/images/workouts_thumbnails/Lever_Incline_Hammer_Chest_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Lever_Incline_Hammer_Chest_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Lever_Incline_Hammer_Chest_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -6654,7 +6654,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Incline_Dumbbell_Reverse_Fly.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Incline_Dumbbell_Reverse_Fly.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Incline_Dumbbell_Reverse_Fly.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -6675,7 +6675,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Side Delts",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Incline_Dumbbell_Y_Raise.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Incline_Dumbbell_Y_Raise.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Incline_Dumbbell_Y_Raise.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -6696,7 +6696,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Side Delts",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_Incline_T_Raise.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_Incline_T_Raise.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_Incline_T_Raise.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -6717,7 +6717,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Forearm",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_Skull_Crusher.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_Skull_Crusher.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_Skull_Crusher.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -6738,7 +6738,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Forearm",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_Incline_Two_Arm_Extension.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_Incline_Two_Arm_Extension.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_Incline_Two_Arm_Extension.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -6759,7 +6759,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Forearm",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/One_Arm_Pronated_Dumbbell_Triceps_Extension.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/One_Arm_Pronated_Dumbbell_Triceps_Extension.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/One_Arm_Pronated_Dumbbell_Triceps_Extension.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -6780,7 +6780,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Cable_Rope_Hammer_Curl.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Cable_Rope_Hammer_Curl.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Cable_Rope_Hammer_Curl.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -6801,7 +6801,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Forearm",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Seated_Ez_Bar_Overhead_Triceps_Extension.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Seated_Ez_Bar_Overhead_Triceps_Extension.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Seated_Ez_Bar_Overhead_Triceps_Extension.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -6822,7 +6822,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Biceps Long Head",
       "minorMuscleThree": "Rear Delts",
       "images": "../../../../assets/images/workouts_thumbnails/Incline_Barbell_Row.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Incline_Barbell_Row.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Incline_Barbell_Row.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -6843,7 +6843,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Smith_Machine_Good_Morning.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Smith_Machine_Good_Morning.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Smith_Machine_Good_Morning.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -6864,7 +6864,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Triceps Short Head",
       "minorMuscleThree": "Triceps Medial Head",
       "images": "../../../../assets/images/workouts_thumbnails/Reverse_Grip_Dumbbell_Bench_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Reverse_Grip_Dumbbell_Bench_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Reverse_Grip_Dumbbell_Bench_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -6885,7 +6885,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Cable_Pull_Through.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Cable_Pull_Through.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Cable_Pull_Through.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -6906,7 +6906,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Biceps Long Head",
       "minorMuscleThree": "Rear Delts",
       "images": "../../../../assets/images/workouts_thumbnails/Kneeling_Single_Arm_High_Pulley_Row.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Kneeling_Single_Arm_High_Pulley_Row.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Kneeling_Single_Arm_High_Pulley_Row.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -6927,7 +6927,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Barbell_Side_Bend.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Barbell_Side_Bend.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Barbell_Side_Bend.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -6948,7 +6948,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Transverse Abdominis",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Seate_Barbell_Twist.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Seate_Barbell_Twist.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Seate_Barbell_Twist.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -6969,7 +6969,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Erector Spinae",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_Seated_Bent_Over_Rear_Delt_Row.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_Seated_Bent_Over_Rear_Delt_Row.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_Seated_Bent_Over_Rear_Delt_Row.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -6990,7 +6990,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Forearm",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Cable_Incline_Triceps_Extension.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Cable_Incline_Triceps_Extension.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Cable_Incline_Triceps_Extension.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -7011,7 +7011,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Incline_Push_Up.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Incline_Push_Up.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Incline_Push_Up.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -7032,7 +7032,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Svend_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Svend_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Svend_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -7053,7 +7053,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Transverse Abdominis",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_V_Up.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_V_Up.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_V_Up.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -7074,7 +7074,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Reverse_Push_Up.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Reverse_Push_Up.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Reverse_Push_Up.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -7095,7 +7095,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Rhomboids",
       "minorMuscleThree": "Erector Spinae",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_Standing_Palms_In_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_Standing_Palms_In_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_Standing_Palms_In_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -7116,7 +7116,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Lats",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_Rear_Delt_Row.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_Rear_Delt_Row.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_Rear_Delt_Row.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -7137,7 +7137,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Serratus Anterior",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Alternate_Dumbbell_Bench_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Alternate_Dumbbell_Bench_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Alternate_Dumbbell_Bench_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -7158,7 +7158,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Twisting_Hyperextension.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Twisting_Hyperextension.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Twisting_Hyperextension.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -7179,7 +7179,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Adductors",
       "minorMuscleThree": "Erector Spinae",
       "images": "../../../../assets/images/workouts_thumbnails/Bodyweight_Walking_Lunge.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Bodyweight_Walking_Lunge.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Bodyweight_Walking_Lunge.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -7200,7 +7200,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Rectus Abdominis",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Rope_Pushdown.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Rope_Pushdown.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Rope_Pushdown.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -7221,7 +7221,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Rectus Abdominis",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Reverse_Grip_Pushdown.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Reverse_Grip_Pushdown.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Reverse_Grip_Pushdown.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -7242,7 +7242,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Traps",
       "minorMuscleThree": "Rhomboids",
       "images": "../../../../assets/images/workouts_thumbnails/Standing_Cable_High_To_Low_Twist.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Standing_Cable_High_To_Low_Twist.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Standing_Cable_High_To_Low_Twist.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -7263,7 +7263,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Serratus Anterior",
       "minorMuscleThree": "Middle Chest",
       "images": "../../../../assets/images/workouts_thumbnails/Cross_Arm_Push_Up.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Cross_Arm_Push_Up.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Cross_Arm_Push_Up.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -7284,7 +7284,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Cable_Concentration_Extension_On_Knee.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Cable_Concentration_Extension_On_Knee.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Cable_Concentration_Extension_On_Knee.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -7305,7 +7305,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Hip Flexor",
       "minorMuscleThree": "Rectus Abdominis",
       "images": "../../../../assets/images/workouts_thumbnails/Tuck_Jump.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Tuck_Jump.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Tuck_Jump.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -7326,7 +7326,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Front Delts",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Close_Grip_Dumbbell_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Close_Grip_Dumbbell_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Close_Grip_Dumbbell_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -7347,7 +7347,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Wall_Sit.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Wall_Sit.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Wall_Sit.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -7368,7 +7368,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Calves",
       "minorMuscleThree": "Rectus Abdominis",
       "images": "../../../../assets/images/workouts_thumbnails/High_Knee_Squat.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/High_Knee_Squat.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/High_Knee_Squat.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -7389,7 +7389,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Triceps Short Head",
       "minorMuscleThree": "Erector Spinae",
       "images": "../../../../assets/images/workouts_thumbnails/Clap_Push_Up.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Clap_Push_Up.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Clap_Push_Up.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -7410,7 +7410,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Hip Flexor",
       "minorMuscleThree": "Rectus Abdominis",
       "images": "../../../../assets/images/workouts_thumbnails/Walking_High_Knee_Lunges.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Walking_High_Knee_Lunges.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Walking_High_Knee_Lunges.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -7431,7 +7431,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Rhomboids",
       "minorMuscleThree": "Erector Spinae",
       "images": "../../../../assets/images/workouts_thumbnails/Kettlebell_One_Arm_Military_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Kettlebell_One_Arm_Military_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Kettlebell_One_Arm_Military_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -7452,7 +7452,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Rhomboids",
       "minorMuscleThree": "Erector Spinae",
       "images": "../../../../assets/images/workouts_thumbnails/Kettlebell_Split_Snatch.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Kettlebell_Split_Snatch.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Kettlebell_Split_Snatch.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -7473,7 +7473,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Kettlebell_Windmill.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Kettlebell_Windmill.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Kettlebell_Windmill.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -7494,7 +7494,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Traps",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Kettlebell_Swings.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Kettlebell_Swings.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Kettlebell_Swings.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -7515,7 +7515,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Triceps Medial Head",
       "minorMuscleThree": "Traps",
       "images": "../../../../assets/images/workouts_thumbnails/Kettlebell_Arnold_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Kettlebell_Arnold_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Kettlebell_Arnold_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -7536,7 +7536,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Erector Spinae",
       "minorMuscleThree": "Rectus Abdominis",
       "images": "../../../../assets/images/workouts_thumbnails/Bodyweight_Box_Squat.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Bodyweight_Box_Squat.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Bodyweight_Box_Squat.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -7557,7 +7557,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Front Delts",
       "minorMuscleThree": "Serratus Anterior",
       "images": "../../../../assets/images/workouts_thumbnails/Single_Dumbbell_Close_Grip_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Single_Dumbbell_Close_Grip_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Single_Dumbbell_Close_Grip_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -7578,7 +7578,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Glutes",
       "minorMuscleThree": "Traps",
       "images": "../../../../assets/images/workouts_thumbnails/Front_Plan_With_Arm_Lift.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Front_Plan_With_Arm_Lift.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Front_Plan_With_Arm_Lift.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -7599,7 +7599,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Erector Spinae",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Ab_Straps_Leg_Raise.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Ab_Straps_Leg_Raise.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Ab_Straps_Leg_Raise.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -7620,7 +7620,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Hip Flexor",
       "minorMuscleThree": "Erector Spinae",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_Step_Up.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_Step_Up.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_Step_Up.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -7641,7 +7641,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Biceps Short Head",
       "minorMuscleThree": "Brachialis",
       "images": "../../../../assets/images/workouts_thumbnails/Close_Grip_Lat_Pulldown.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Close_Grip_Lat_Pulldown.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Close_Grip_Lat_Pulldown.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -7662,7 +7662,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Quadriceps",
       "minorMuscleThree": "Calves",
       "images": "../../../../assets/images/workouts_thumbnails/Lever_Single_Leg_Curl.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Lever_Single_Leg_Curl.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Lever_Single_Leg_Curl.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -7683,7 +7683,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Erector Spinae",
       "minorMuscleThree": "Hip Flexor",
       "images": "../../../../assets/images/workouts_thumbnails/Reverse_Lunge.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Reverse_Lunge.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Reverse_Lunge.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -7704,7 +7704,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Kneeling_Diamond_Push_Up.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Kneeling_Diamond_Push_Up.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Kneeling_Diamond_Push_Up.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -7725,7 +7725,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Calves",
       "minorMuscleThree": "Rectus Abdominis",
       "images": "../../../../assets/images/workouts_thumbnails/Jack_Burpees.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Jack_Burpees.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Jack_Burpees.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -7746,7 +7746,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Hip Flexor",
       "minorMuscleThree": "Erector Spinae",
       "images": "../../../../assets/images/workouts_thumbnails/Single_Leg_Step_Down.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Single_Leg_Step_Down.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Single_Leg_Step_Down.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -7767,7 +7767,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Rhomboids",
       "minorMuscleThree": "Serratus Anterior",
       "images": "../../../../assets/images/workouts_thumbnails/Cable_Seated_Pullover.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Cable_Seated_Pullover.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Cable_Seated_Pullover.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -7788,7 +7788,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Seated_Dumbbell_Front_Raise.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Seated_Dumbbell_Front_Raise.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Seated_Dumbbell_Front_Raise.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -7809,7 +7809,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Hip Flexor",
       "minorMuscleThree": "Rectus Abdominis",
       "images": "../../../../assets/images/workouts_thumbnails/Astride_Jumps.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Astride_Jumps.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Astride_Jumps.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -7830,7 +7830,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Triceps Medial Head",
       "minorMuscleThree": "Obliques",
       "images": "../../../../assets/images/workouts_thumbnails/Push_Up_With_Push_Up_Bars.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Push_Up_With_Push_Up_Bars.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Push_Up_With_Push_Up_Bars.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -7851,7 +7851,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Triceps Long Head",
       "minorMuscleThree": "Triceps Short Head",
       "images": "../../../../assets/images/workouts_thumbnails/Smith_Machine_Decline_Bench_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Smith_Machine_Decline_Bench_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Smith_Machine_Decline_Bench_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -7872,7 +7872,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Close_Grip_Z_Bar_Curl.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Close_Grip_Z_Bar_Curl.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Close_Grip_Z_Bar_Curl.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -7893,7 +7893,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_Scott_Curl.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_Scott_Curl.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_Scott_Curl.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -7914,7 +7914,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_One_Arm_Reverse_Grip_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_One_Arm_Reverse_Grip_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_One_Arm_Reverse_Grip_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -7935,7 +7935,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Biceps Long Head",
       "minorMuscleThree": "Rear Delts",
       "images": "../../../../assets/images/workouts_thumbnails/One_Arm_Landmine_Row.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/One_Arm_Landmine_Row.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/One_Arm_Landmine_Row.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -7956,7 +7956,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Adductors",
       "minorMuscleThree": "Hip Flexor",
       "images": "../../../../assets/images/workouts_thumbnails/Horizontal_Leg_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Horizontal_Leg_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Horizontal_Leg_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -7977,7 +7977,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Triceps Short Head",
       "minorMuscleThree": "Triceps Medial Head",
       "images": "../../../../assets/images/workouts_thumbnails/Lever_One_Arm_Chest_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Lever_One_Arm_Chest_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Lever_One_Arm_Chest_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -7998,7 +7998,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Standing_One_Arm_Chest_Stretch.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Standing_One_Arm_Chest_Stretch.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Standing_One_Arm_Chest_Stretch.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -8019,7 +8019,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Erector Spinae",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Kneeling_Hip_Flexor_Stretch.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Kneeling_Hip_Flexor_Stretch.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Kneeling_Hip_Flexor_Stretch.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -8040,7 +8040,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Standing_Quadriceps_Stretch.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Standing_Quadriceps_Stretch.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Standing_Quadriceps_Stretch.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -8061,7 +8061,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Triceps Short Head",
       "minorMuscleThree": "Front Delts",
       "images": "../../../../assets/images/workouts_thumbnails/Single_Arm_Medicine_Ball_Push_Up.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Single_Arm_Medicine_Ball_Push_Up.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Single_Arm_Medicine_Ball_Push_Up.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -8082,7 +8082,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Triceps Medial Head",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Stability_Ball_Decline_Push_Up.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Stability_Ball_Decline_Push_Up.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Stability_Ball_Decline_Push_Up.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -8103,7 +8103,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Triceps Short Head",
       "minorMuscleThree": "Serratus Anterior",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_Decline_One_Arm_Hammer_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_Decline_One_Arm_Hammer_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_Decline_One_Arm_Hammer_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -8124,7 +8124,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Triceps Medial Head",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Tall_Kneeling_One_Arm_Kettlebell_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Tall_Kneeling_One_Arm_Kettlebell_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Tall_Kneeling_One_Arm_Kettlebell_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -8145,7 +8145,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/One_Arm_Biceps_Curl.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/One_Arm_Biceps_Curl.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/One_Arm_Biceps_Curl.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -8166,7 +8166,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Traps",
       "minorMuscleThree": "Erector Spinae",
       "images": "../../../../assets/images/workouts_thumbnails/Kettlebell_Bent_Over_Row.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Kettlebell_Bent_Over_Row.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Kettlebell_Bent_Over_Row.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -8187,7 +8187,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Erector Spinae",
       "minorMuscleThree": "Calves",
       "images": "../../../../assets/images/workouts_thumbnails/Barbell_Bench_Front_Squat.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Barbell_Bench_Front_Squat.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Barbell_Bench_Front_Squat.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -8208,7 +8208,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Triceps Long Head",
       "minorMuscleThree": "Calves",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_Burpees.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_Burpees.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_Burpees.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -8229,7 +8229,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Standing_Toe_Touches.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Standing_Toe_Touches.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Standing_Toe_Touches.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -8250,7 +8250,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Glutes",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Standing_Side_Toe_Touching.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Standing_Side_Toe_Touching.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Standing_Side_Toe_Touching.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -8271,7 +8271,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Traps",
       "minorMuscleThree": "Rhomboids",
       "images": "../../../../assets/images/workouts_thumbnails/Full_Range_Of_Motion_Lat_Pulldown.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Full_Range_Of_Motion_Lat_Pulldown.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Full_Range_Of_Motion_Lat_Pulldown.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -8292,7 +8292,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Banded_Step_Up.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Banded_Step_Up.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Banded_Step_Up.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -8313,7 +8313,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Rectus Abdominis",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_Jump_Squat.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_Jump_Squat.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_Jump_Squat.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -8334,7 +8334,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Lever_Shoulder_Press_Hammer_Grip.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Lever_Shoulder_Press_Hammer_Grip.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Lever_Shoulder_Press_Hammer_Grip.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -8355,7 +8355,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Rhomboids",
       "minorMuscleThree": "Forearm",
       "images": "../../../../assets/images/workouts_thumbnails/Chin_Up.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Chin_Up.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Chin_Up.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -8376,7 +8376,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_Lying_Rear_Lateral_Raise.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_Lying_Rear_Lateral_Raise.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_Lying_Rear_Lateral_Raise.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -8397,7 +8397,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Cable_Incline_Biceps_Curl.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Cable_Incline_Biceps_Curl.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Cable_Incline_Biceps_Curl.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -8418,7 +8418,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Lever_Reverse_Shoulder_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Lever_Reverse_Shoulder_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Lever_Reverse_Shoulder_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -8439,7 +8439,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Rhomboids",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Ez_Bar_Incline_Front_Raise.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Ez_Bar_Incline_Front_Raise.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Ez_Bar_Incline_Front_Raise.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -8460,7 +8460,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Seated_Crunch_Machine.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Seated_Crunch_Machine.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Seated_Crunch_Machine.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -8481,7 +8481,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Rectus Abdominis",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Push_Up_Plus.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Push_Up_Plus.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Push_Up_Plus.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -8502,7 +8502,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Rear Delts",
       "minorMuscleThree": "Forearm",
       "images": "../../../../assets/images/workouts_thumbnails/L_Sit_Pull_Up.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/L_Sit_Pull_Up.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/L_Sit_Pull_Up.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -8523,7 +8523,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Rhomboids",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Barbell_Front_Raise_Twist.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Barbell_Front_Raise_Twist.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Barbell_Front_Raise_Twist.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -8544,7 +8544,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Traps",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Kettlebell_Shoulder_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Kettlebell_Shoulder_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Kettlebell_Shoulder_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -8565,7 +8565,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Traps",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Zercher_Squat.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Zercher_Squat.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Zercher_Squat.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -8586,7 +8586,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Erector Spinae",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Front_Squat.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Front_Squat.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Front_Squat.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -8607,7 +8607,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Erector Spinae",
       "minorMuscleThree": "Lats",
       "images": "../../../../assets/images/workouts_thumbnails/Ab_Wheel_Rollout.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Ab_Wheel_Rollout.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Ab_Wheel_Rollout.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -8628,7 +8628,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Transverse Abdominis",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Single_Leg_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Single_Leg_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Single_Leg_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -8649,7 +8649,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Landmine_Lunge.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Landmine_Lunge.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Landmine_Lunge.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -8670,7 +8670,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Side Delts",
       "minorMuscleThree": "Transverse Abdominis",
       "images": "../../../../assets/images/workouts_thumbnails/One_Arm_Kettlebell_Chest_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/One_Arm_Kettlebell_Chest_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/One_Arm_Kettlebell_Chest_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -8691,7 +8691,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Transverse Abdominis",
       "minorMuscleThree": "Traps",
       "images": "../../../../assets/images/workouts_thumbnails/Kettlebell_Chest_Press_On_The_Floor.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Kettlebell_Chest_Press_On_The_Floor.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Kettlebell_Chest_Press_On_The_Floor.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -8712,7 +8712,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Wide_Grip_Bench_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Wide_Grip_Bench_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Wide_Grip_Bench_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -8733,7 +8733,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Decline_Barbell_Bench_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Decline_Barbell_Bench_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Decline_Barbell_Bench_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -8754,7 +8754,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Single_Leg_Extension.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Single_Leg_Extension.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Single_Leg_Extension.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -8775,7 +8775,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Transverse Abdominis",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Smith_Machine_Leg_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Smith_Machine_Leg_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Smith_Machine_Leg_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -8796,7 +8796,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Band_Front_Lateral_Raise.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Band_Front_Lateral_Raise.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Band_Front_Lateral_Raise.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -8817,7 +8817,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Transverse Abdominis",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Smith_Machine_Lunge.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Smith_Machine_Lunge.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Smith_Machine_Lunge.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -8838,7 +8838,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Band_Standing_Chest_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Band_Standing_Chest_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Band_Standing_Chest_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -8859,7 +8859,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Behind_The_Neck_Pull_Up.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Behind_The_Neck_Pull_Up.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Behind_The_Neck_Pull_Up.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -8880,7 +8880,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Triceps Medial Head",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Lever_Decline_Chest_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Lever_Decline_Chest_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Lever_Decline_Chest_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -8901,7 +8901,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Decline_Close_Grip_Bench_To_Skull_Crusher.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Decline_Close_Grip_Bench_To_Skull_Crusher.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Decline_Close_Grip_Bench_To_Skull_Crusher.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -8922,7 +8922,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_Preacher_Hammer_Scott_Curl.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_Preacher_Hammer_Scott_Curl.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_Preacher_Hammer_Scott_Curl.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -8943,7 +8943,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_Alternate_Preacher_Curl.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_Alternate_Preacher_Curl.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_Alternate_Preacher_Curl.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -8964,7 +8964,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Flexor_Incline_Dumbbell_Curls.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Flexor_Incline_Dumbbell_Curls.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Flexor_Incline_Dumbbell_Curls.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -8985,7 +8985,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Lats",
       "minorMuscleThree": "Triceps Long Head",
       "images": "../../../../assets/images/workouts_thumbnails/Standing_Barbell_Rollout.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Standing_Barbell_Rollout.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Standing_Barbell_Rollout.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -9006,7 +9006,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Side_Plank_Oblique_Crunch.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Side_Plank_Oblique_Crunch.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Side_Plank_Oblique_Crunch.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -9027,7 +9027,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Traps",
       "minorMuscleThree": "Lats",
       "images": "../../../../assets/images/workouts_thumbnails/Reverse_Chest_Stretch.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Reverse_Chest_Stretch.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Reverse_Chest_Stretch.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -9048,7 +9048,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Standing_Dorsiflexion.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Standing_Dorsiflexion.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Standing_Dorsiflexion.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -9069,7 +9069,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Standing_Wall_Calf_Stretch.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Standing_Wall_Calf_Stretch.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Standing_Wall_Calf_Stretch.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -9090,7 +9090,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Standing_Toe_Up_Achilles_Stretch.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Standing_Toe_Up_Achilles_Stretch.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Standing_Toe_Up_Achilles_Stretch.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -9111,7 +9111,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Standing_Gastrocnemius_Calf_Stretch.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Standing_Gastrocnemius_Calf_Stretch.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Standing_Gastrocnemius_Calf_Stretch.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -9132,7 +9132,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Single_Heel_Drop_Calf_Stretch.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Single_Heel_Drop_Calf_Stretch.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Single_Heel_Drop_Calf_Stretch.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -9153,7 +9153,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Seated_Straight_Leg_Calf_Stretch.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Seated_Straight_Leg_Calf_Stretch.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Seated_Straight_Leg_Calf_Stretch.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -9174,7 +9174,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Lunging_Straight_Leg_Calf_Stretch.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Lunging_Straight_Leg_Calf_Stretch.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Lunging_Straight_Leg_Calf_Stretch.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -9195,7 +9195,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Foot_And_Ankles_Stretches.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Foot_And_Ankles_Stretches.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Foot_And_Ankles_Stretches.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -9216,7 +9216,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Crouching_Heel_Back_Calf_Stretch.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Crouching_Heel_Back_Calf_Stretch.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Crouching_Heel_Back_Calf_Stretch.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -9237,7 +9237,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Chest_Supported_Dumbbell_Front_Raises.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Chest_Supported_Dumbbell_Front_Raises.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Chest_Supported_Dumbbell_Front_Raises.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -9258,7 +9258,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Barbell_Jump_Squat.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Barbell_Jump_Squat.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Barbell_Jump_Squat.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -9279,7 +9279,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Side_Bent.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Side_Bent.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Side_Bent.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -9300,7 +9300,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Biceps Short Head",
       "minorMuscleThree": "Rhomboids",
       "images": "../../../../assets/images/workouts_thumbnails/One_Arm_Dumbbell_Upright_Row.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/One_Arm_Dumbbell_Upright_Row.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/One_Arm_Dumbbell_Upright_Row.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -9321,7 +9321,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Adductors",
       "minorMuscleThree": "Glutes",
       "images": "../../../../assets/images/workouts_thumbnails/Leg_Scissors.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Leg_Scissors.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Leg_Scissors.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -9342,7 +9342,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Triceps Medial Head",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Single_Arm_Arnold_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Single_Arm_Arnold_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Single_Arm_Arnold_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -9363,7 +9363,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Traps",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Kneeling_Landmine_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Kneeling_Landmine_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Kneeling_Landmine_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -9384,7 +9384,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Glutes",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Kettlebell_Clean_And_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Kettlebell_Clean_And_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Kettlebell_Clean_And_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -9405,7 +9405,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Traps",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_Z_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_Z_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_Z_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -9426,7 +9426,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Heel_Touch_Side_Kick_Squat.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Heel_Touch_Side_Kick_Squat.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Heel_Touch_Side_Kick_Squat.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -9447,7 +9447,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Alternate_Dumbbell_Lateral_Raise.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Alternate_Dumbbell_Lateral_Raise.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Alternate_Dumbbell_Lateral_Raise.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -9468,7 +9468,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Traps",
       "minorMuscleThree": "Lats",
       "images": "../../../../assets/images/workouts_thumbnails/Back_Slaps_Wrap_Around_Stretch.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Back_Slaps_Wrap_Around_Stretch.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Back_Slaps_Wrap_Around_Stretch.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -9489,7 +9489,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Biceps Short Head",
       "minorMuscleThree": "Erector Spinae",
       "images": "../../../../assets/images/workouts_thumbnails/Bodyweight_Row_In_Doorway.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Bodyweight_Row_In_Doorway.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Bodyweight_Row_In_Doorway.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -9510,7 +9510,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Adductors",
       "minorMuscleThree": "Quadriceps",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_Floor_Wipers.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_Floor_Wipers.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_Floor_Wipers.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -9531,7 +9531,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Hip_Extension_On_Bench.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Hip_Extension_On_Bench.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Hip_Extension_On_Bench.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -9552,7 +9552,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Hip Flexor",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Glute_Bridge_On_Bench.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Glute_Bridge_On_Bench.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Glute_Bridge_On_Bench.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -9573,7 +9573,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Transverse Abdominis",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Barbell_Single_Leg_Hip_Thrust.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Barbell_Single_Leg_Hip_Thrust.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Barbell_Single_Leg_Hip_Thrust.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -9594,7 +9594,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Biceps Short Head",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Incline_Dumbbell_Hammer_Row.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Incline_Dumbbell_Hammer_Row.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Incline_Dumbbell_Hammer_Row.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -9615,7 +9615,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Transverse Abdominis",
       "minorMuscleThree": "Erector Spinae",
       "images": "../../../../assets/images/workouts_thumbnails/Glute_Bridge_One_Leg_On_Bench.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Glute_Bridge_One_Leg_On_Bench.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Glute_Bridge_One_Leg_On_Bench.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -9636,7 +9636,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Quadriceps",
       "minorMuscleThree": "Erector Spinae",
       "images": "../../../../assets/images/workouts_thumbnails/Unilateral_Bridge.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Unilateral_Bridge.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Unilateral_Bridge.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -9657,7 +9657,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Erector Spinae",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Side_Bridge_Hip_Abduction.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Side_Bridge_Hip_Abduction.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Side_Bridge_Hip_Abduction.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -9678,7 +9678,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Transverse Abdominis",
       "minorMuscleThree": "Quadriceps",
       "images": "../../../../assets/images/workouts_thumbnails/Straight_Leg_Kickback.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Straight_Leg_Kickback.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Straight_Leg_Kickback.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -9699,7 +9699,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Rectus Abdominis",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Squat_Tuck_Jump.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Squat_Tuck_Jump.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Squat_Tuck_Jump.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -9720,7 +9720,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Transverse Abdominis",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Forearm_Push_Up.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Forearm_Push_Up.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Forearm_Push_Up.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -9741,7 +9741,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Biceps Long Head",
       "minorMuscleThree": "Rectus Abdominis",
       "images": "../../../../assets/images/workouts_thumbnails/Ez_Bar_Bent_Arm_Pullover.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Ez_Bar_Bent_Arm_Pullover.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Ez_Bar_Bent_Arm_Pullover.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -9762,7 +9762,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Hamstrings",
       "minorMuscleThree": "Calves",
       "images": "../../../../assets/images/workouts_thumbnails/Lateral_Leg_Swings.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Lateral_Leg_Swings.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Lateral_Leg_Swings.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -9783,7 +9783,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Elbow_Flexion.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Elbow_Flexion.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Elbow_Flexion.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -9804,7 +9804,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Shoulder_External_Rotation.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Shoulder_External_Rotation.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Shoulder_External_Rotation.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -9825,7 +9825,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Shoulder_Internal_Rotation.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Shoulder_Internal_Rotation.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Shoulder_Internal_Rotation.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -9846,7 +9846,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Biceps Long Head",
       "minorMuscleThree": "Biceps Short Head",
       "images": "../../../../assets/images/workouts_thumbnails/Alternating_Shoulder_Flexion.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Alternating_Shoulder_Flexion.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Alternating_Shoulder_Flexion.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -9867,7 +9867,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Rectus Abdominis",
       "minorMuscleThree": "Transverse Abdominis",
       "images": "../../../../assets/images/workouts_thumbnails/Kettlebell_Front_Squat.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Kettlebell_Front_Squat.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Kettlebell_Front_Squat.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -9888,7 +9888,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Quadriceps",
       "minorMuscleThree": "Rectus Abdominis",
       "images": "../../../../assets/images/workouts_thumbnails/Single_Knee_To_Chest.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Single_Knee_To_Chest.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Single_Knee_To_Chest.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -9909,7 +9909,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Rectus Abdominis",
       "minorMuscleThree": "Erector Spinae",
       "images": "../../../../assets/images/workouts_thumbnails/Pistol_Squat_To_Box.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Pistol_Squat_To_Box.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Pistol_Squat_To_Box.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -9930,7 +9930,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Erector Spinae",
       "minorMuscleThree": "Hip Flexor",
       "images": "../../../../assets/images/workouts_thumbnails/Frog_Pump.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Frog_Pump.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Frog_Pump.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -9951,7 +9951,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Rectus Abdominis",
       "minorMuscleThree": "Traps",
       "images": "../../../../assets/images/workouts_thumbnails/Landmine_Deadlift.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Landmine_Deadlift.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Landmine_Deadlift.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -9972,7 +9972,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Traps",
       "minorMuscleThree": "Forearm",
       "images": "../../../../assets/images/workouts_thumbnails/Band_Alternating_Lat_Pulldown.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Band_Alternating_Lat_Pulldown.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Band_Alternating_Lat_Pulldown.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -9993,7 +9993,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Biceps Long Head",
       "minorMuscleThree": "Biceps Short Head",
       "images": "../../../../assets/images/workouts_thumbnails/Band_Alternating_Low_Row_With_Twist.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Band_Alternating_Low_Row_With_Twist.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Band_Alternating_Low_Row_With_Twist.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -10014,7 +10014,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Traps",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Band_Alternate_Incline_Chest_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Band_Alternate_Incline_Chest_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Band_Alternate_Incline_Chest_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -10035,7 +10035,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Band_Single_Arm_Shoulder_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Band_Single_Arm_Shoulder_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Band_Single_Arm_Shoulder_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -10056,7 +10056,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Biceps Short Head",
       "minorMuscleThree": "Rear Delts",
       "images": "../../../../assets/images/workouts_thumbnails/Band_Seated_Row.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Band_Seated_Row.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Band_Seated_Row.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -10077,7 +10077,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Middle Chest",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Band_Pushdown.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Band_Pushdown.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Band_Pushdown.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -10098,7 +10098,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Calves",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Landmine_Squat.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Landmine_Squat.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Landmine_Squat.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -10119,7 +10119,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Transverse Abdominis",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Sissy_Squat.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Sissy_Squat.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Sissy_Squat.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -10140,7 +10140,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Single_Dumbbell_Spider_Hammer_Curl.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Single_Dumbbell_Spider_Hammer_Curl.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Single_Dumbbell_Spider_Hammer_Curl.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -10161,7 +10161,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Middle Chest",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Decline_Dumbbell_Triceps_Extension.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Decline_Dumbbell_Triceps_Extension.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Decline_Dumbbell_Triceps_Extension.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -10182,7 +10182,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Triceps Medial Head",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Dumbbell_Tate_Press.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Dumbbell_Tate_Press.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Dumbbell_Tate_Press.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -10203,7 +10203,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Biceps Short Head",
       "minorMuscleThree": "Rear Delts",
       "images": "../../../../assets/images/workouts_thumbnails/Barbell_Pendlay_Row.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Barbell_Pendlay_Row.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Barbell_Pendlay_Row.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -10224,7 +10224,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Fire_Hydrant.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Fire_Hydrant.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Fire_Hydrant.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -10245,7 +10245,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Transverse Abdominis",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Step_Up_With_Knee_Raises.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Step_Up_With_Knee_Raises.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Step_Up_With_Knee_Raises.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -10266,7 +10266,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Rectus Abdominis",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Snap_Jumps.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Snap_Jumps.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Snap_Jumps.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -10287,7 +10287,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Glutes",
       "minorMuscleThree": "Hamstrings",
       "images": "../../../../assets/images/workouts_thumbnails/Half_Kneeling_Hip_Flexor_Stretch.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Half_Kneeling_Hip_Flexor_Stretch.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Half_Kneeling_Hip_Flexor_Stretch.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -10308,7 +10308,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Hip Flexor",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Donkey_Kicks.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Donkey_Kicks.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Donkey_Kicks.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -10329,7 +10329,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Erector Spinae",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -10350,7 +10350,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Erector Spinae",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Hindu_Push_Ups.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Hindu_Push_Ups.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Hindu_Push_Ups.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -10371,7 +10371,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "Glutes",
       "minorMuscleThree": "Rectus Abdominis",
       "images": "../../../../assets/images/workouts_thumbnails/High_Knee_Run.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/High_Knee_Run.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/High_Knee_Run.mp4",
       "videos": "",
       "isSync": "yes"
     },
@@ -10392,7 +10392,7 @@ export const mainWorkoutsDataWithoutRequire = [
       "minorMuscleTwo": "",
       "minorMuscleThree": "",
       "images": "../../../../assets/images/workouts_thumbnails/Bodyweight_Kneeling_Sissy_Squat.jpg",
-      "replacedVideos": "https://www.elementdevelops.com/public/videos/workouts/Bodyweight_Kneeling_Sissy_Squat.mp4",
+      "replacedVideos": "https://life-pf.com/public/videos/workouts/Bodyweight_Kneeling_Sissy_Squat.mp4",
       "videos": "",
       "isSync": "yes"
     }

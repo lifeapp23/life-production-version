@@ -230,7 +230,7 @@ const MemoizedExerciseParentView = React.memo(({ item, navigation,filteredData,d
                                       ? mainWorkoutsData[item?.id-1]?.images
                                       : item?.images.startsWith('file:///data/user')
                                       ? { uri: item?.images }
-                                      : item?.images.startsWith('https://www.elementdevelops.com')
+                                      : item?.images.startsWith('https://life-pf.com')
                                       ? { uri: item?.images }
                                       : item?.images.startsWith('https://e46498df47bd32e53e8647674155a34c.r2.cloudflarestorage.com/lifeapp23')
                                       ? { uri: item?.images.replace('https://e46498df47bd32e53e8647674155a34c.r2.cloudflarestorage.com/lifeapp23', 'https://pub-e97a7d17757c41b8bcfca7023afa5da9.r2.dev') }
@@ -246,7 +246,7 @@ const MemoizedExerciseParentView = React.memo(({ item, navigation,filteredData,d
                                       ? mainWorkoutsData[item?.id-1]?.images
                                       : item?.images?.startsWith('file:///data/user')
                                       ? { uri: item?.images }
-                                      : item?.images.startsWith('https://www.elementdevelops.com')
+                                      : item?.images.startsWith('https://life-pf.com')
                                       ? { uri: item?.images }
                                       : item?.images.startsWith('https://e46498df47bd32e53e8647674155a34c.r2.cloudflarestorage.com/lifeapp23')
                                       ? { uri: item?.images.replace('https://e46498df47bd32e53e8647674155a34c.r2.cloudflarestorage.com/lifeapp23', 'https://pub-e97a7d17757c41b8bcfca7023afa5da9.r2.dev') }
@@ -489,7 +489,7 @@ export const TrainerTraineeSelectDayExercisesScreen = ({ navigation,route}) => {
                 ////console.log('my plan Days page',publicWorkoutsPlanRowConArr);
         
         
-                axios.get(`https://www.elementdevelops.com/api/get-trainer-trainee-plan-days?traineeId=${publicWorkoutsPlanRowConArr?.trneId}&&trainerId=${publicWorkoutsPlanRowConArr?.trnrId}&planId=${publicWorkoutsPlanRowConArr?.id}`, {
+                axios.get(`https://life-pf.com/api/get-trainer-trainee-plan-days?traineeId=${publicWorkoutsPlanRowConArr?.trneId}&&trainerId=${publicWorkoutsPlanRowConArr?.trnrId}&planId=${publicWorkoutsPlanRowConArr?.id}`, {
                 headers: {
                   'Authorization': `Bearer ${res}`,
                   'Content-Type': 'application/json',
@@ -990,7 +990,7 @@ export const TrainerTraineeSelectDayExercisesScreen = ({ navigation,route}) => {
             
             // }else if(imageUri.startsWith('../../../../assets/images')){
             //   imageName = imageUri;
-            // }else if(imageUri.startsWith('https://www.elementdevelops.com')){
+            // }else if(imageUri.startsWith('https://life-pf.com')){
             //   imageName = imageUri;
             // }else if(imageUri.startsWith('https://e46498df47bd32e53e8647674155a34c.r2.cloudflarestorage.com/lifeapp23')){
             //   imageName = imageUri;
@@ -1011,7 +1011,7 @@ export const TrainerTraineeSelectDayExercisesScreen = ({ navigation,route}) => {
             //       videoName = videoUri.split('videos/').pop();
             //       videoExt = videoName.split('.').pop();   
 
-            //     }else if(videoUri.startsWith('https://www.elementdevelops.com')){
+            //     }else if(videoUri.startsWith('https://life-pf.com')){
             //       videoName = videoUri;
             //     }else if(videoUri.startsWith('https://e46498df47bd32e53e8647674155a34c.r2.cloudflarestorage.com/lifeapp23')){
             //       videoName = videoUri;
@@ -1131,7 +1131,7 @@ export const TrainerTraineeSelectDayExercisesScreen = ({ navigation,route}) => {
           console.log('WorkoutsObjectData',WorkoutsObjectData);
 
           if(triainerConnected) {
-            axios.post(`https://www.elementdevelops.com/api/trainer-trainee-plan-day-insert`,WorkoutsObjectData)
+            axios.post(`https://life-pf.com/api/trainer-trainee-plan-day-insert`,WorkoutsObjectData)
             .then((response) => {
               setAddNewWorkout(true);
               setLoading(false);
@@ -1168,7 +1168,7 @@ export const TrainerTraineeSelectDayExercisesScreen = ({ navigation,route}) => {
           }
           
           // if(triainerConnected){
-            //   axios.post(`https://www.elementdevelops.com/api/trainer-trainee-plan-day-insert`, updatedExercisesWithDayName)
+            //   axios.post(`https://life-pf.com/api/trainer-trainee-plan-day-insert`, updatedExercisesWithDayName)
             //   .then((response) => {
             //       ////console.log('Trainer plan day data sent to online Database', response?.data?.message);
             //       setAddNewWorkout(true);
@@ -1546,7 +1546,7 @@ export const TrainerTraineeSelectDayExercisesScreen = ({ navigation,route}) => {
                                       ? mainWorkoutsData[item?.wrkKey-1]?.images
                                       : item?.images.startsWith('file:///data/user')
                                       ? { uri: item?.images }
-                                      : item?.images.startsWith('https://www.elementdevelops.com')
+                                      : item?.images.startsWith('https://life-pf.com')
                                       ? { uri: item?.images }
                                       : item?.images.startsWith('https://e46498df47bd32e53e8647674155a34c.r2.cloudflarestorage.com/lifeapp23')
                                       ? { uri: item?.images.replace('https://e46498df47bd32e53e8647674155a34c.r2.cloudflarestorage.com/lifeapp23', 'https://pub-e97a7d17757c41b8bcfca7023afa5da9.r2.dev') }
@@ -1561,7 +1561,7 @@ export const TrainerTraineeSelectDayExercisesScreen = ({ navigation,route}) => {
                                                       ? mainWorkoutsData[item?.wrkKey-1]?.images
                                                       : item?.images.startsWith('file:///data/user')
                                                       ? { uri: item?.images }
-                                                      : item?.images.startsWith('https://www.elementdevelops.com')
+                                                      : item?.images.startsWith('https://life-pf.com')
                                                       ? { uri: item?.images }
                                                       : item?.images.startsWith('https://e46498df47bd32e53e8647674155a34c.r2.cloudflarestorage.com/lifeapp23')
                                                       ? { uri: item?.images.replace('https://e46498df47bd32e53e8647674155a34c.r2.cloudflarestorage.com/lifeapp23', 'https://pub-e97a7d17757c41b8bcfca7023afa5da9.r2.dev') }

@@ -334,7 +334,7 @@ const MemoizedExerciseParentView = React.memo(({ item, navigation, setFilteredDa
               // setLoadingPageInfo(true);
   
               // const todayDay =new Date().toISOString().split('T')[0];
-              // axios.get(`https://www.elementdevelops.com/api/get-trainer-trainee-today-meals?traineeId=${publicWorkoutsPlanRowCon?.trneId}&trainerId=${publicWorkoutsPlanRowCon?.trnrId}&planId=${publicWorkoutsPlanRowCon?.id}&trainerId=${publicWorkoutsPlanRowCon?.trnrId}&todDay=${todayDay}`, {
+              // axios.get(`https://life-pf.com/api/get-trainer-trainee-today-meals?traineeId=${publicWorkoutsPlanRowCon?.trneId}&trainerId=${publicWorkoutsPlanRowCon?.trnrId}&planId=${publicWorkoutsPlanRowCon?.id}&trainerId=${publicWorkoutsPlanRowCon?.trnrId}&todDay=${todayDay}`, {
               // headers: {
               //   'Authorization': `Bearer ${res}`,
               //   'Content-Type': 'application/json',
@@ -901,7 +901,7 @@ const MemoizedExerciseParentView = React.memo(({ item, navigation, setFilteredDa
         if(triainerConnected){
           setLoading(true);
           setShowSuccess(false); // Reset success state
-          axios.post(`https://www.elementdevelops.com/api/trainer-trainee-plan-days-insert-new-style-plus`, newData)
+          axios.post(`https://life-pf.com/api/trainer-trainee-plan-days-insert-new-style-plus`, newData)
           .then((response) => {
               //console.log('Trainer plan plan days sent to online Database');
 

@@ -72,7 +72,7 @@ export const TrainerPredefinedWorkoutPlanNumberScreen = ({navigation,route }) =>
         ////console.log('my plan Days page',publicWorkoutsPlanRowCon);
 
 
-        axios.get(`https://www.elementdevelops.com/api/get-trainer-workouts-predefined-plan-days?trainerId=${publicWorkoutsPlanRowCon?.trnrId}&planId=${publicWorkoutsPlanRowCon?.id}`, {
+        axios.get(`https://life-pf.com/api/get-trainer-workouts-predefined-plan-days?trainerId=${publicWorkoutsPlanRowCon?.trnrId}&planId=${publicWorkoutsPlanRowCon?.id}`, {
         headers: {
           'Authorization': `Bearer ${res}`,
           'Content-Type': 'application/json',
@@ -500,7 +500,7 @@ const restartWorkoutByChangingToActiveConst = (publicWorkoutsPlanDayArr,publicWo
     lstUpd:publicWorkoutsPlanDayArr[0]?.lstUpd,
   }
   if(triainerConnected){
-    axios.post(`https://www.elementdevelops.com/api/trainer-trainee-plan-day-restart-workout-to-active`, newData)
+    axios.post(`https://life-pf.com/api/trainer-trainee-plan-day-restart-workout-to-active`, newData)
     .then((response) => {
         //console.log('active');
         setPublicWorkoutsPlanDaysTable(response?.data?.["TrainerWorkoutsPredefinedPlanDays"]);
@@ -549,7 +549,7 @@ const newSkippedCompleted = (publicWorkoutsPlanDayArr,publicWorkoutsPlanRowCon,p
     lstUpd:publicWorkoutsPlanDayArr[0]?.lstUpd,
   }
   if(triainerConnected){
-    axios.post(`https://www.elementdevelops.com/api/trainer-trainee-plan-day-skip-workout-or-done`, newData)
+    axios.post(`https://life-pf.com/api/trainer-trainee-plan-day-skip-workout-or-done`, newData)
     .then((response) => {
         //console.log('skip');
         setPublicWorkoutsPlanDaysTable(response?.data?.["TrainerWorkoutsPredefinedPlanDays"]);
@@ -609,7 +609,7 @@ const newSkippedCompleted = (publicWorkoutsPlanDayArr,publicWorkoutsPlanRowCon,p
     }
     ////console.log('newData,:',newData);
     if(triainerConnected){
-      axios.post(`https://www.elementdevelops.com/api/trainer-workouts-predefined-plan-day-deleting`, newData)
+      axios.post(`https://life-pf.com/api/trainer-workouts-predefined-plan-day-deleting`, newData)
       .then((response) => {
           //console.log('deleted');
           setPublicWorkoutsPlanDaysTable(response?.data?.["TrainerWorkoutsPredefinedPlanDays"]);
@@ -705,7 +705,7 @@ const restartAllWorkoutsToActive = (publicWorkoutsPlanDaysTable,publicWorkoutsPl
        
       }
       if(triainerConnected){
-        axios.post(`https://www.elementdevelops.com/api/trainer-trainee-plan-day-restart-all-workouts-to-active`, newData)
+        axios.post(`https://life-pf.com/api/trainer-trainee-plan-day-restart-all-workouts-to-active`, newData)
         .then((response) => {
             //console.log('active');
             setPublicWorkoutsPlanDaysTable(response?.data?.["TrainerWorkoutsPredefinedPlanDays"]);

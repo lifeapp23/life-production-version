@@ -93,7 +93,7 @@ export const PayToTrainerFromOurAppScreen = ({navigation,route}) => {
       return;
     }
        if(triainerConnected){
-        axios.post(`https://www.elementdevelops.com/api/paymentsToTrainerFromOurApp`, {
+        axios.post(`https://life-pf.com/api/paymentsToTrainerFromOurApp`, {
          params:{
          trainer_amount:trainer_countSent,
          curncy:curncySent,

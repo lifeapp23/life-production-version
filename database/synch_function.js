@@ -1,7 +1,7 @@
 //****** TargetStat
 getTargetStatsUnsyncedRows(userId).then((usersTS) => {
     //console.log('TargetStat unSynced Data :', usersTS);
-    axios.post(`https://www.elementdevelops.com/api/tarStat-update-data`, usersTS)
+    axios.post(`https://life-pf.com/api/tarStat-update-data`, usersTS)
     .then((response) => {
       //console.log('our services target axios update backend', response.data.message);
       // Handle any other logic here if needed
@@ -22,7 +22,7 @@ getTargetStatsUnsyncedRows(userId).then((usersTS) => {
   ///// //*********body stats and meaurements 
   getBodyStatsAndMeasurementsUnsyncedRows(userId).then((usersBSMeasurements) => {
     //console.log('BodyStatsAndMeasurementsUnsyncedRows unSynced Data :', usersBSMeasurements);
-    axios.post(`https://www.elementdevelops.com/api/BSMeasurments-insert-data`, usersBSMeasurements)
+    axios.post(`https://life-pf.com/api/BSMeasurments-insert-data`, usersBSMeasurements)
     .then((response) => {
       //console.log('our services usersBSMeasurements axios update backend', response.data.message);
       // Handle any other logic here if needed
@@ -45,7 +45,7 @@ getTargetStatsUnsyncedRows(userId).then((usersTS) => {
 //*********workout Settings page 
 getPublicSettingsUnsyncedRows(userId).then((usersPS) => {
     //console.log('PublicSettings unSynced Data :', usersPS);
-    axios.post(`https://www.elementdevelops.com/api/publicSettings-update-data`, usersPS)
+    axios.post(`https://life-pf.com/api/publicSettings-update-data`, usersPS)
     .then((response) => {
         //console.log('PublicSettings axios update backend', response.data.message);
         // Handle any other logic here if needed
@@ -67,7 +67,7 @@ getPublicSettingsUnsyncedRows(userId).then((usersPS) => {
 //******//********* Calculators pages 
 getCalculatorsTableUnsyncedRows(storedUser.id).then((usersPS) => {
     //console.log('Calculators unSynced Data :', usersPS);
-    axios.post(`https://www.elementdevelops.com/api/calculators-insert-data`, usersPS)
+    axios.post(`https://life-pf.com/api/calculators-insert-data`, usersPS)
     .then((response) => {
         //console.log('Calculators axios update backend', response.data.message);
         // Handle any other logic here if needed
@@ -91,7 +91,7 @@ getCalculatorsTableUnsyncedRows(storedUser.id).then((usersPS) => {
 getGymEquipmentsUnsyncedRows(storedUser.id).then((usersPS) => {
     //console.log('GymEquipments unSynced Data:', usersPS);
     
-    axios.post(`https://www.elementdevelops.com/api/gymEquipments-insert-data`, usersPS)
+    axios.post(`https://life-pf.com/api/gymEquipments-insert-data`, usersPS)
         .then((response) => {
             //console.log('GymEquipments axios update backend', response?.data.message);
 
@@ -127,7 +127,7 @@ getGymEquipmentsUnsyncedRows(storedUser.id).then((usersPS) => {
 getGymEquipmentsUnsyncedRows(storedUser.id).then((usersPS) => {
     //console.log('GymEquipments unSynced Data:', usersPS);
     
-    axios.post(`https://www.elementdevelops.com/api/gymEquipments-insert-data`, usersPS)
+    axios.post(`https://life-pf.com/api/gymEquipments-insert-data`, usersPS)
         .then((response) => {
             //console.log('GymEquipments axios update backend', response?.data.message);
 
@@ -163,7 +163,7 @@ getGymEquipmentsUnsyncedRows(storedUser.id).then((usersPS) => {
 getPublicWorkoutsPlansUnsyncedRows(storedUser.id).then((usersPWP) => {
     //console.log('PublicWorkoutsPlans unSynced Data:', usersPWP);
     
-    axios.post(`https://www.elementdevelops.com/api/publicWorkoutsPlans-insert-data`, usersPWP)
+    axios.post(`https://life-pf.com/api/publicWorkoutsPlans-insert-data`, usersPWP)
         .then((response) => {
             //console.log('PublicWorkoutsPlans axios update backend', response?.data.message);
         
@@ -198,7 +198,7 @@ getPublicWorkoutsPlansUnsyncedRows(storedUser.id).then((usersPWP) => {
 getPublicWorkoutsPlanDaysUnsyncedRows(storedUser.id).then((usersPWPD) => {
     //console.log('PublicWorkoutsPlanDays unSynced Data:', usersPWPD);
     
-    axios.post(`https://www.elementdevelops.com/api/publicWorkoutsPlansDays-insert-data`, usersPWPD)
+    axios.post(`https://life-pf.com/api/publicWorkoutsPlansDays-insert-data`, usersPWPD)
         .then((response) => {
             //console.log('PublicWorkoutsPlanDays axios update backend', response?.data.message);
             // Delete gym rows
@@ -232,7 +232,7 @@ getPublicWorkoutsPlanDaysUnsyncedRows(storedUser.id).then((usersPWPD) => {
 getPublicWorkoutsPlanDaysUnsyncedRows(storedUser.id).then((usersPWPD) => {
     //console.log('PublicWorkoutsPlanDays unSynced Data:', usersPWPD);
     
-    axios.post(`https://www.elementdevelops.com/api/publicWorkoutsPlansDays-insert-data`, usersPWPD)
+    axios.post(`https://life-pf.com/api/publicWorkoutsPlansDays-insert-data`, usersPWPD)
         .then((response) => {
             //console.log('PublicWorkoutsPlanDays axios update backend', response?.data.message);
             // Delete gym rows
@@ -267,7 +267,7 @@ getPublicWorkoutsPlanDaysUnsyncedRows(storedUser.id).then((usersPWPD) => {
     getPredefinedMealsUnsyncedRows(storedUser.id).then((usersPM) => {
         //console.log('PredefinedMeals unSynced Data:', usersPM);
         
-        axios.post(`https://www.elementdevelops.com/api/predefinedMeals-insert-data`, usersPM)
+        axios.post(`https://life-pf.com/api/predefinedMeals-insert-data`, usersPM)
             .then((response) => {
                 //console.log('PredefinedMeals axios update backend', response?.data.message);
                 // Delete gym rows
@@ -302,7 +302,7 @@ getPublicWorkoutsPlanDaysUnsyncedRows(storedUser.id).then((usersPWPD) => {
 getListOfFoodsUnsyncedRows(storedUser.id).then((usersPM) => {
     //console.log('ListOfFoods unSynced Data:', usersPM);
     
-    axios.post(`https://www.elementdevelops.com/api/ListOfFoods-insert-data`, usersPM)
+    axios.post(`https://life-pf.com/api/ListOfFoods-insert-data`, usersPM)
         .then((response) => {
             //console.log('ListOfFoods axios update backend', response?.data.message);
             // Delete gym rows
@@ -336,7 +336,7 @@ getListOfFoodsUnsyncedRows(storedUser.id).then((usersPM) => {
  // //******//********* Today Meals pages 
  getTodayMealsUnsyncedRows(storedUser.id).then((usersPM) => {
     //console.log('TodayMeals unSynced Data:', usersPM);
-    axios.post(`https://www.elementdevelops.com/api/TodayMeals-insert-data`, usersPM)
+    axios.post(`https://life-pf.com/api/TodayMeals-insert-data`, usersPM)
         .then((response) => {
             //console.log('TodayMeals axios update backend', response?.data.message);
             // Delete gym rows
@@ -368,7 +368,7 @@ getListOfFoodsUnsyncedRows(storedUser.id).then((usersPM) => {
         });
 
 // //******//********* Trainer Manage My Profile 
-axios.post(`https://www.elementdevelops.com/api/sendTMPForAppove`, usersPM)
+axios.post(`https://life-pf.com/api/sendTMPForAppove`, usersPM)
         .then((response) => {
             //console.log('Trainer Manage My Profile  axios data sent to backend', response?.data.message);
             

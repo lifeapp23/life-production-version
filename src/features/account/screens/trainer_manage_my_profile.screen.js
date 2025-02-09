@@ -734,7 +734,7 @@ useFocusEffect(
         setTriainerConnected(state.isConnected);
       if(state.isConnected){
         //////console.log('---------------now online--------')
-        axios.get(`https://www.elementdevelops.com/api/get-profile?userId=${storedUser.id}`, {
+        axios.get(`https://life-pf.com/api/get-profile?userId=${storedUser.id}`, {
           headers: {
             'Authorization': `Bearer ${res}`,
             'Content-Type': 'application/json',
@@ -1235,7 +1235,7 @@ let updateApprovedStatusColumnData = {
   setLoading(true);
   setShowSuccess(false); // Reset success state
 
-  axios.post(`https://www.elementdevelops.com/api/TrainerManageMyProfile-sendTMPForAppove`, usersTrainerManageMyProfilFormData, {
+  axios.post(`https://life-pf.com/api/TrainerManageMyProfile-sendTMPForAppove`, usersTrainerManageMyProfilFormData, {
     headers: {
       Accept: "application/json",
       "Content-Type": "multipart/form-data",
@@ -1274,7 +1274,7 @@ let updateApprovedStatusColumnData = {
        });
 
 
-       axios.post(`https://www.elementdevelops.com/api/TrainerManageMyProfile-update-Approved-Status`, updateApprovedStatusColumnData, {
+       axios.post(`https://life-pf.com/api/TrainerManageMyProfile-update-Approved-Status`, updateApprovedStatusColumnData, {
         headers: {
           Accept: "application/json",
           "Content-Type": "application/json", // Use application/json for non-multipart data
@@ -1320,7 +1320,7 @@ let newDataForTrainerManageMyProfileWithoutMailing = {
   setUpdateLoading(true);
   setUpdateShowSuccess(false); // Reset success state
 
-  axios.post(`https://www.elementdevelops.com/api/TrainerManageMyProfile-insert-data-without-mailing`, newDataForTrainerManageMyProfileWithoutMailing, {
+  axios.post(`https://life-pf.com/api/TrainerManageMyProfile-insert-data-without-mailing`, newDataForTrainerManageMyProfileWithoutMailing, {
     headers: {
       Accept: "application/json",
       "Content-Type": "multipart/form-data",

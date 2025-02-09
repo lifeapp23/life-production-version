@@ -1046,7 +1046,7 @@ const handleSignout = async () => {
     setHideButtonClicks(true);
     
     // Make a request to the signout endpoint `${BASE_URL}/api/signout`
-    const response = await axios.post(`https://www.elementdevelops.com/api/signout`, {token:context.stateUser.token});
+    const response = await axios.post(`https://life-pf.com/api/signout`, {token:context.stateUser.token});
     ////////console.log("signout response.data.message",response.data.message);
     
     // Split the token string using the '|' character
@@ -1175,7 +1175,7 @@ if(checked === 'Trainer' && certificatesInfo.length == 0 && selectedSocialMediaI
   let sentId = context.stateUser.userProfile.id; 
 ////console.log('userData',userData);
   try {
-    const response = await axios.put(`https://www.elementdevelops.com/api/users/${sentId}`, userData);
+    const response = await axios.put(`https://life-pf.com/api/users/${sentId}`, userData);
     //////console.log('response.data:', response?.data);
     //Alert.alert(`${t(response?.data?.message)}`);
     

@@ -87,7 +87,7 @@ export const AdminSettingsAppScreen = ({ navigation,route }) => {
                                 ////console.log('---------------now online--------')
                                 // setLoadingPageInfo(true);
                     
-                                axios.get(`https://www.elementdevelops.com/api/Admin-Settings-App-Get-Data-From-Database`, {
+                                axios.get(`https://life-pf.com/api/Admin-Settings-App-Get-Data-From-Database`, {
                                 headers: {
                                   'Authorization': `Bearer ${res}`,
                                   'Content-Type': 'application/json',
@@ -199,7 +199,7 @@ console.log('updateAdminSettingsData',updateAdminSettingsData);
            if(triainerConnected){   
                 setLoading(true);
                 setShowSuccess(false); // Reset success state           
-                 axios.post(`https://www.elementdevelops.com/api/AdminSettingsApp-update-data-into-database`, updateAdminSettingsData, {
+                 axios.post(`https://life-pf.com/api/AdminSettingsApp-update-data-into-database`, updateAdminSettingsData, {
                   headers: {
                     Accept: "application/json",
                     "Content-Type": "application/json", // Use application/json for non-multipart data

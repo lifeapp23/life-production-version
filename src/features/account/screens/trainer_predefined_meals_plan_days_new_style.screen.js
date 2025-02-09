@@ -145,7 +145,7 @@ export const TrainerPredefinedMealsPlanDaysScreen = ({navigation,route}) => {
         
           // }
           // const todayDay =new Date().toISOString().split('T')[0];
-          axios.get(`https://www.elementdevelops.com/api/get-trainer-Predefined-meal-plan-days-for-day-new-style?trainerId=${publicWorkoutsPlanRowCon?.trnrId}&planId=${publicWorkoutsPlanRowCon?.id}&speKey=${speKeyFromDBLikeSpeKeySentFromPlanMeal}`, {
+          axios.get(`https://life-pf.com/api/get-trainer-Predefined-meal-plan-days-for-day-new-style?trainerId=${publicWorkoutsPlanRowCon?.trnrId}&planId=${publicWorkoutsPlanRowCon?.id}&speKey=${speKeyFromDBLikeSpeKeySentFromPlanMeal}`, {
             headers: {
               'Authorization': `Bearer ${res}`,
               'Content-Type': 'application/json',
@@ -236,7 +236,7 @@ useEffect(() => {
     setShowSuccess(false); // Reset success state
     setLoadingPageInfo(false);
 
-      axios.post(`https://www.elementdevelops.com/api/trainer-Predefined-plan-days-remove-new-style-minus`, newData)
+      axios.post(`https://life-pf.com/api/trainer-Predefined-plan-days-remove-new-style-minus`, newData)
       .then((response) => {
           //console.log('Trainer meal delete from online Database');
           //console.log('getTrainerMealPlanDay::,',response?.data["getTrainerMealPlanDay"]);

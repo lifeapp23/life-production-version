@@ -86,7 +86,7 @@ export const AdminPayToTrainerPageScreen = ({navigation,route}) => {
             setTriainerConnected(state.isConnected);
           if(state.isConnected){
             //console.log('---------------now online--------')
-            axios.post('https://www.elementdevelops.com/api/getTrainersGroubedByCurrencyAndAmountWithDebitAndCredit', {
+            axios.post('https://life-pf.com/api/getTrainersGroubedByCurrencyAndAmountWithDebitAndCredit', {
               headers: {
                 'Authorization': `Bearer ${res}`,
                 'Content-Type': 'application/json',
@@ -145,7 +145,7 @@ export const AdminPayToTrainerPageScreen = ({navigation,route}) => {
       setHtmlContent(`
     <html>
       <body>
-        <form id="myForm" action="https://www.elementdevelops.com/api/checkingFunctionBeforePay" method="post">
+        <form id="myForm" action="https://life-pf.com/api/checkingFunctionBeforePay" method="post">
           <input type="hidden" name="trainer_count" value="${trainer_count}">
           <input type="hidden" name="curncy" value="${curncy}">
           <input type="hidden" name="trnrId" value="${trnrId}">
@@ -206,7 +206,7 @@ export const AdminPayToTrainerPageScreen = ({navigation,route}) => {
        if(triainerConnected){
         setLoading(true);
 
-        axios.post('https://www.elementdevelops.com/api/xpay-to-trainer-pay-his-money', trainerInfoData, {
+        axios.post('https://life-pf.com/api/xpay-to-trainer-pay-his-money', trainerInfoData, {
           headers: {
             'Authorization': `Bearer ${userTokenSent}`,
             'Content-Type': 'application/json',
