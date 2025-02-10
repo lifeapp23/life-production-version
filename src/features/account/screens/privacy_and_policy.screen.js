@@ -183,6 +183,428 @@ export const PrivacyAndPolicyPageScreen = ({ navigation }) => {
                         )
                         }
 
+                    {selectedFilter == 'English' ? (
+                            <Text style={{fontSize: 16,
+                            marginBottom: 10,
+                            lineHeight: 22,
+                            textAlign:'left',
+                            color:'#000',
+                            fontFamily:'OpenSans_400Regular'}}><Text style={{fontWeight: "bold", color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>Data:</Text> the information that we collect from users while using the Platform.</Text>
+                        ):(
+                            <Text style={{fontSize: 16,
+                                marginBottom: 10,
+                                textAlign:'right',
+                                lineHeight: 22,
+                                color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>
+                                <Text style={{fontWeight: "bold", color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>البيانات:</Text> المعلومات التي يتم جمعها من المستخدمين أثناء استخدام المنصة الإلكترونية</Text>
+                        )
+                        }
+
+                    {selectedFilter == 'English' ? (
+                            <Text style={{fontSize: 16,
+                            marginBottom: 10,
+                            lineHeight: 22,
+                            textAlign:'left',
+                            color:'#000',
+                            fontFamily:'OpenSans_400Regular'}}><Text style={{fontWeight: "bold", color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>Services:</Text> means <Text style={{fontWeight: "bold", color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>Element</Text> services and described by the Terms and Conditions.</Text>
+                        ):(
+                            <Text style={{fontSize: 16,
+                                marginBottom: 10,
+                                textAlign:'right',
+                                lineHeight: 22,
+                                color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>
+                                <Text style={{fontWeight: "bold", color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>الخدمة :</Text>
+                                يقصد بها خدمات
+                                <Text style={{fontWeight: "bold", color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}> اليمنت</Text> والموضحة في الشروط والاحكام.
+
+                                </Text>
+                        )
+                        } 
+
+                        {selectedFilter == 'English' ? (
+                            <Text style={{fontSize: 16,
+                            marginBottom: 10,
+                            lineHeight: 22,
+                            textAlign:'left',
+                            color:'#000',
+                            fontFamily:'OpenSans_400Regular'}}><Text style={{fontWeight: "bold", color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>Account:</Text> refers to the User account on the Platform.</Text>
+                        ):(
+                            <Text style={{fontSize: 16,
+                                marginBottom: 10,
+                                textAlign:'right',
+                                lineHeight: 22,
+                                color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>
+                                <Text style={{fontWeight: "bold", color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>الحساب:</Text> يقصد به حساب المستخدم على المنصة الإلكترونية.</Text>
+                        )
+                        }
+
+                        {selectedFilter == 'English' ? (
+                            <Text style={{fontSize: 16,
+                            marginBottom: 10,
+                            lineHeight: 22,
+                            textAlign:'left',
+                            color:'#000',
+                            fontFamily:'OpenSans_400Regular'}}><Text style={{fontWeight: "bold", color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>Element:</Text> refers to the platform owned by ……………… under commercial registration number ………. …… Investment office.</Text>
+                        ):(
+                            <Text style={{fontSize: 16,
+                                marginBottom: 10,
+                                textAlign:'right',
+                                lineHeight: 22,
+                                color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>
+                                <Text style={{fontWeight: "bold", color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>اليمنت: </Text>ويقصد بها المنصة الإلكترونية المملوكة لشركة ................. تحت سجل تجارى رقم ........ مكتب استثمار ........</Text>
+                        )
+                        }
+
+                    {selectedFilter == 'English' ? (
+                            <Text style={{fontSize: 16,
+                            marginBottom: 10,
+                            lineHeight: 22,
+                            textAlign:'left',
+                            color:'#000',
+                            fontFamily:'OpenSans_400Regular'}}><Text style={{fontWeight: "bold", color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>Element:</Text> refers to the platform owned by ……………… under commercial registration number ………. …… Investment office.</Text>
+                        ):(
+                            <Text style={{fontSize: 16,
+                                marginBottom: 10,
+                                textAlign:'right',
+                                lineHeight: 22,
+                                color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>
+                                <Text style={{fontWeight: "bold", color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>اليمنت: </Text>ويقصد بها المنصة الإلكترونية المملوكة لشركة ................. تحت سجل تجارى رقم ........ مكتب استثمار ........</Text>
+                        )
+                        }
+
+                    <Text style={{fontSize: 18,
+                        fontWeight: 'bold',
+                        marginTop: 15,
+                        color:'#000',
+                        fontFamily:'OpenSans_400Regular', textAlign:selectedFilter == 'English' ? 'left': "right"}}>{selectedFilter == 'English' ? 'Important information and who we are' : "معلومات مهمة ومن نحن"}</Text>
+                    <Text style={{fontSize: 18,
+                        fontWeight: 'bold',
+                        marginTop: 5,
+                        marginBottom:5,
+                        color:'#000',
+                        fontFamily:'OpenSans_400Regular', textAlign:selectedFilter == 'English' ? 'left': "right"}}>{selectedFilter == 'English' ? 'Purpose of this Privacy Policy:' : "الغرض من سياسة الخصوصية هذه:"}</Text>
+                        
+                        {selectedFilter == 'English' ? (
+                            <Text style={{fontSize: 16,
+                            marginBottom: 10,
+                            lineHeight: 22,
+                            textAlign:'left',
+                            color:'#000',
+                            fontFamily:'OpenSans_400Regular'}}>This Privacy Policy aims to give you information on how <Text style={{fontWeight: "bold", color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}> Element </Text>collects and processes Data through your use of our Platform, including any Data you may provide through this Platform when you register and/or use our Services, as well as sign up to our Platform. It is important that you read this Privacy Policy along with our Terms and Conditions so that you are fully aware of how and why we are using this Data. This Privacy Policy supplements other notices and Privacy Policies and is not intended to override them.</Text>
+                        ):(
+                            <Text style={{fontSize: 16,
+                                marginBottom: 10,
+                                textAlign:'right',
+                                lineHeight: 22,
+                                color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>تهدف سياسة الخصوصية هذه إلى اطلاعك حول كيفية قيام <Text style={{fontWeight: "bold", color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>اليمنت </Text>بجمع البيانات ومعالجتها من خلال استخدامك للمنصة الالكترونية، بما في ذلك أي بيانات قد تقدمها من خلال هذا المنصة عند التسجيل و/أو استخدام خدماتنا، وكذلك التسجيل في المنصة.
+    من المهم أن تقرأ سياسة الخصوصية هذه إلى جانب الشروط والأحكام الخاصة بنا عند قيامنا بجمع أو معالجة البيانات عنك لكي تكون على دراية كاملة عن كيف ولماذا نستخدم هذه البيانات. تكمل سياسة الخصوصية هذه الإشعارات وسياسات الخصوصية الأخرى ولا تهدف إلى تجاوزها.</Text>
+                        )
+                        }
+
+                        {selectedFilter == 'English' ? (
+                            <Text style={{fontSize: 16,
+                            marginBottom: 10,
+                            lineHeight: 22,
+                            textAlign:'left',
+                            color:'#000',
+                            fontFamily:'OpenSans_400Regular'}}><Text style={{fontWeight: "bold", color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>Controller:</Text> …………………………… an … Company Commercial Registration No. …….. is the controller and responsible for Data (referred to as  <Text style={{fontWeight: "bold", color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>Element</Text> , "we", "us" or "our" in this Privacy Policy). ……………. is the controller and responsible for this Platform.</Text>
+                        ):(
+                            <Text style={{fontSize: 16,
+                                marginBottom: 10,
+                                textAlign:'right',
+                                lineHeight: 22,
+                                color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>
+                                <Text style={{fontWeight: "bold", color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>المُتحكم :</Text>
+                                شركة ...................، شركة .............. سجل تجارى رقم ......... هي المتحكم والمسؤول عن البيانات (يشار إليها باسم 
+                                <Text style={{fontWeight: "bold", color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}> “اليمنت”</Text> أو "نحن" أو "إيانا" أو "لنا" أو في سياسة الخصوصية هذه). ................. هي المتحكم والمسؤول عن هذا المنصة.
+
+                                </Text>
+                        )
+                        } 
+                        {selectedFilter == 'English' ? (
+                            <Text style={{fontSize: 16,
+                            marginBottom: 10,
+                            lineHeight: 22,
+                            textAlign:'left',
+                            color:'#000',
+                            fontFamily:'OpenSans_400Regular'}}><Text style={{fontWeight: "bold", color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>Contact details:</Text> If you have any questions about this Privacy Policy or our privacy practices, please feel free to contact us through the email address:</Text>
+                        ):(
+                            <Text style={{fontSize: 16,
+                                marginBottom: 10,
+                                textAlign:'right',
+                                lineHeight: 22,
+                                color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>
+                                <Text style={{fontWeight: "bold", color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>بيانات الاتصال :</Text>إذا كان لديك أي أسئلة حول سياسة الخصوصية هذه أو ممارسات الخصوصية الخاصة بنا، لا تتردد في الاتصال بنا من خلال عنوان البريد الإلكتروني:</Text>
+                        )
+                        } 
+
+                        {selectedFilter == 'English' ? (
+                            <Text style={{fontSize: 16,
+                            marginBottom: 10,
+                            lineHeight: 22,
+                            textAlign:'left',
+                            color:'#000',
+                            fontFamily:'OpenSans_400Regular'}}><Text style={{fontWeight: "bold", color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>Changes to the Privacy Policy and your duty to inform us of changes</Text> We keep our Privacy Policy under regular review. 
+                                It is important that the Data we hold about you is accurate and current. Please keep us informed if Data changes during your relationship with us.
+                                </Text>
+                        ):(
+                            <Text style={{fontSize: 16,
+                                marginBottom: 10,
+                                textAlign:'right',
+                                lineHeight: 22,
+                                color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>
+                                <Text style={{fontWeight: "bold", color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>تغييرات على سياسة الخصوصية وواجبك لإبلاغنا بالتغييرات:</Text>نحن نخضع سياسة الخصوصية الخاصة بنا للمراجعة الدورية.
+                                من المهم أن تكون البيانات التي نحتفظ بها عنك دقيقة وحديثة. يرجى إخطارنا إذا تغيرت البيانات خلال علاقتك معنا.</Text>
+                        )
+                        } 
+
+                        {selectedFilter == 'English' ? (
+                            <Text style={{fontSize: 16,
+                            marginBottom: 10,
+                            lineHeight: 22,
+                            textAlign:'left',
+                            color:'#000',
+                            fontFamily:'OpenSans_400Regular'}}><Text style={{fontWeight: "bold", color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>Third-party Links: </Text>This Platform may include links to third-party Platform s and plug-ins.may allow third parties to collect or share Data about you. We do not control these third-party Platform s and we are not responsible for their privacy statements.</Text>
+                        ):(
+                            <Text style={{fontSize: 16,
+                                marginBottom: 10,
+                                textAlign:'right',
+                                lineHeight: 22,
+                                color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>
+                                <Text style={{fontWeight: "bold", color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>روابط الطرف الثالث: </Text>قد يتضمن هذا المنصة روابط إلى مواقع إلكترونية ومكونات إضافية ومواقع لطرف ثالث. قد يؤدي النقر على هذه الروابط أو تمكين هذه الاتصالات إلى السماح للأطراف الثالثة بجمع أو مشاركة بيانات عنك. نحن لا نتحكم في المواقع الإلكترونية الخاصة بهذا الطرف الثالث، ونحن غير مسؤولين عن بيانات الخصوصية الخاصة بهم. نوصيك بقراءة سياسة الخصوصية الخاصة بكل منصة إلكترونية تقوم بزيارتها</Text>
+                        )
+                        } 
+
+                        {selectedFilter == 'English' ? (
+                            <Text style={{fontSize: 16,
+                            marginBottom: 10,
+                            lineHeight: 22,
+                            textAlign:'left',
+                            color:'#000',
+                            fontFamily:'OpenSans_400Regular'}}><Text style={{fontWeight: "bold", color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>Data that we collect: </Text>Data means any information about an individual or institution from which that entity can be identified. It does not include Data where the identity has been removed (anonymous Data).We <Text style={{fontWeight: "bold", color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>may collect, </Text>use, store and transfer different kinds of Data about you, which is including, but not limited to the following: </Text>
+                        ):(
+                            <Text style={{fontSize: 16,
+                                marginBottom: 10,
+                                textAlign:'right',
+                                lineHeight: 22,
+                                color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>
+                                <Text style={{fontWeight: "bold", color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>البيانات التي نجمعها: </Text>البيانات تعني أي معلومات عن فرد او مؤسسة والتي يمكن منها تحديد هوية ذلك الكيان وهي لا تشمل البيانات التي تم فيها إزالة الهوية (بيانات مجهولة المصدر).
+                                <Text style={{fontWeight: "bold", color:'#000',
+                                                                    fontFamily:'OpenSans_400Regular'}}> قد نجمع </Text>
+                                ونستخدم ونخزن وننقل أنواعًا مختلفة من البيانات عنك والتي تتضمن، على سبيل المثال لا الحصر، ما يلي:</Text>
+                        )
+                        } 
+
+                        {selectedFilter == 'English' ? (<>
+                            <Text style={{fontSize: 16,
+                            marginBottom: 10,
+                            lineHeight: 22,
+                            textAlign:'left',
+                            color:'#000',
+                            fontFamily:'OpenSans_400Regular'}}>- Identity Data includes first name,  Last name, username or similar identifier, date of birth and gender.</Text>
+                            <Text style={{fontSize: 16,
+                            marginBottom: 10,
+                            lineHeight: 22,
+                            textAlign:'left',
+                            color:'#000',
+                            fontFamily:'OpenSans_400Regular'}}>- Contact Data includes phone number, e-mail and postal addresses.</Text>
+                            <Text style={{fontSize: 16,
+                            marginBottom: 10,
+                            lineHeight: 22,
+                            textAlign:'left',
+                            color:'#000',
+                            fontFamily:'OpenSans_400Regular'}}>- Financial Data includes your bank account information, credit card details, cardholder name, expiration date, authentication code and billing address.</Text>
+                            <Text style={{fontSize: 16,
+                            marginBottom: 10,
+                            lineHeight: 22,
+                            textAlign:'left',
+                            color:'#000',
+                            fontFamily:'OpenSans_400Regular'}}>- Technological Data includes your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and location, and other technology on the devices you use to access the Platform.</Text>
+                            <Text style={{fontSize: 16,
+                            marginBottom: 10,
+                            lineHeight: 22,
+                            textAlign:'left',
+                            color:'#000',
+                            fontFamily:'OpenSans_400Regular'}}>- Profile Data  your username and password,  interests, preferences, purchasing power, reviews and ratings, feedback, and survey responses.</Text>
+                            <Text style={{fontSize: 16,
+                            marginBottom: 10,
+                            lineHeight: 22,
+                            textAlign:'left',
+                            color:'#000',
+                            fontFamily:'OpenSans_400Regular'}}>- Usage Data includes information about how you use our Platform and your transaction history.</Text>
+                            <Text style={{fontSize: 16,
+                            marginBottom: 10,
+                            lineHeight: 22,
+                            textAlign:'left',
+                            color:'#000',
+                            fontFamily:'OpenSans_400Regular'}}>- Photos, reviews, social posts, and videos you may have provided to us.</Text>
+                            <Text style={{fontSize: 16,
+                            marginBottom: 10,
+                            lineHeight: 22,
+                            textAlign:'left',
+                            color:'#000',
+                            fontFamily:'OpenSans_400Regular'}}>- The company incorporation documents which but not limited to (Articles of Association, Commercial Register, Tax Card and investment gazette.)</Text>
+                            <Text style={{fontSize: 16,
+                            marginBottom: 10,
+                            lineHeight: 22,
+                            textAlign:'left',
+                            color:'#000',
+                            fontFamily:'OpenSans_400Regular'}}>In addition to the categories noted above, we may also collect certain location Data if you have instructed your device to send such Data via the privacy settings on that device.</Text>
+                            <Text style={{fontSize: 16,
+                            marginBottom: 10,
+                            lineHeight: 22,
+                            textAlign:'left',
+                            color:'#000',
+                            fontFamily:'OpenSans_400Regular'}}>We also collect, use, and share aggregated Data such as statistical or demographic Data for any purpose. Aggregated Data could be derived from Data but is not considered Data in law as this Data will not directly or indirectly reveal your identity. For example, we may aggregate your usage Data to calculate the percentage of users accessing a specific Platform feature. However, if we combine or connect aggregated Data with Data so that it can directly or indirectly identify you, we treat the combined Data as Data which will be used in accordance with this Privacy Policy.</Text>
+                            <Text style={{fontSize: 16,
+                            marginBottom: 10,
+                            lineHeight: 22,
+                            textAlign:'left',
+                            color:'#000',
+                            fontFamily:'OpenSans_400Regular'}}>At <Text style={{fontWeight: "bold", color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>Element,</Text> we use the data we collect to develop and train AI models to improve our services, including but not limited to: content personalization, improving the performance of our services. We emphasize that we are committed to protecting your privacy, we do not disclose sensitive information, and we ensure the security of your data through robust security technologies.</Text>
+                            </>
+                        ):(<>
+                            <Text style={{fontSize: 16,
+                            marginBottom: 10,
+                            textAlign:'right',
+                            lineHeight: 22,
+                            color:'#000',
+                            fontFamily:'OpenSans_400Regular'}}>- بيانات الهوية تشمل الاسم الأول، أو اسم العائلة، أو اسم المستخدم، أو معرف مماثل وتاريخ الميلاد والجنس.</Text>
+                            <Text style={{fontSize: 16,
+                            marginBottom: 10,
+                            textAlign:'right',
+                            lineHeight: 22,
+                            color:'#000',
+                            fontFamily:'OpenSans_400Regular'}}>-بيانات الاتصال تشمل رقم الهاتف المحمول والبريد الإلكتروني، والعنوان البريدي.</Text>
+                            <Text style={{fontSize: 16,
+                            marginBottom: 10,
+                            textAlign:'right',
+                            lineHeight: 22,
+                            color:'#000',
+                            fontFamily:'OpenSans_400Regular'}}>- البيانات المالية تشمل تفاصيل الحساب البنكي وتفاصيل بطاقة الدفع واسم حامل البطاقة وكذلك تاريخ الانتهاء ورمز التحقق وعنوان ارسال الفواتير.</Text>
+                            <Text style={{fontSize: 16,
+                            marginBottom: 10,
+                            textAlign:'right',
+                            lineHeight: 22,
+                            color:'#000',
+                            fontFamily:'OpenSans_400Regular'}}>- البيانات التقنية تشمل بيانات تسجيل الدخول ونوع متصفح الإنترنت وإصداره وإعداد المنطقة الزمنية وأنواع المكونات الإضافية وإصدارات متصفح الإنترنت ونظام التشغيل والموقع وغيرها من التقنيات على الأجهزة التي تستخدمها للوصول إلى المنصة.</Text>
+                            <Text style={{fontSize: 16,
+                            marginBottom: 10,
+                            textAlign:'right',
+                            lineHeight: 22,
+                            color:'#000',
+                            fontFamily:'OpenSans_400Regular'}}>- بيانات الملف الشخصي تشمل اسم المستخدم وكلمة المرور واهتماماتك وتفضيلاتك وقوتك الشرائية وآرائك وتقييماتك وتعليقاتك وردود الاستطلاع الخاصة بك.</Text>
+                            <Text style={{fontSize: 16,
+                            marginBottom: 10,
+                            textAlign:'right',
+                            lineHeight: 22,
+                            color:'#000',
+                            fontFamily:'OpenSans_400Regular'}}>- بيانات الاستخدام تشمل معلومات حول كيفية استخدامك للمنصة الإلكترونية وسجل المعاملات الخاص بك.</Text>
+                            <Text style={{fontSize: 16,
+                            marginBottom: 10,
+                            textAlign:'right',
+                            lineHeight: 22,
+                            color:'#000',
+                            fontFamily:'OpenSans_400Regular'}}>- الصور والتعليقات والمشاركات الاجتماعية ومقاطع الفيديو التي ربما تكون قد قدمتها لنا.</Text>
+                            <Text style={{fontSize: 16,
+                            marginBottom: 10,
+                            textAlign:'right',
+                            lineHeight: 22,
+                            color:'#000',
+                            fontFamily:'OpenSans_400Regular'}}>- بيانات الموقع الجغرافي.</Text>
+                            <Text style={{fontSize: 16,
+                            marginBottom: 10,
+                            textAlign:'right',
+                            lineHeight: 22,
+                            color:'#000',
+                            fontFamily:'OpenSans_400Regular'}}>- لبيانات والمستندات الخاصة بشركتك وتشمل على سبيل المثال لا الحصر (عقد التأسيس، السجل التجاري، البطاقة الضريبة وصحيفة الاستثمار.)</Text>
+                            <Text style={{fontSize: 16,
+                            marginBottom: 10,
+                            textAlign:'right',
+                            lineHeight: 22,
+                            color:'#000',
+                            fontFamily:'OpenSans_400Regular'}}>- بالإضافة إلى الفئات المذكورة أعلاه، قد نقوم أيضا بجمع بيانات موقع معينة إذا كنت قد طلبت من جهازك إرسال هذه البيانات عبر إعدادات الخصوصية على هذا الجهاز.</Text>
+                            <Text style={{fontSize: 16,
+                            marginBottom: 10,
+                            textAlign:'right',
+                            lineHeight: 22,
+                            color:'#000',
+                            fontFamily:'OpenSans_400Regular'}}>- كما نقوم أيضًا بجمع البيانات المجمعة واستخدامها ومشاركتها، مثل البيانات الإحصائية أو السكانية لأي غرض. يمكن الحصول على البيانات المجمعة من البيانات، ولكنها لا تعتبر بيانات في القانون لأن هذه البيانات لن تكشف هويتك بشكل مباشر أو غير مباشر. على سبيل المثال، قد نقوم بتجميع بيانات الاستخدام الخاصة بك لحساب النسبة المئوية للمستخدمين الذين يصلون إلى خاصية محددة في المنصة ولبعض الاحصائيات ومع ذلك، إذا قمنا بدمج أو وصل البيانات المجمعة مع البيانات بحيث يمكنها تحديد هويتك بشكل مباشر أو غير مباشر، فنحن نعامل البيانات المجمعة كبيانات والتي سيتم استخدامها وفقًا لسياسة الخصوصية هذه.</Text>
+                            <Text style={{fontSize: 16,
+                            marginBottom: 10,
+                            textAlign:'right',
+                            lineHeight: 22,
+                            color:'#000',
+                            fontFamily:'OpenSans_400Regular'}}>- نحن لا نجمع أي فئات خاصة من البيانات (وهذا يشمل تفاصيل عن أصلك أو عرقك ومعتقداتك الدينية أو الفلسفية وحياتك الجنسية وتوجهك الجنسي وآرائك السياسية وعضويتك النقابية). كما أننا لا نجمع أي معلومات عن القناعات الجنائية والجرائم.</Text>
+                            <Text style={{fontSize: 16,
+                            marginBottom: 10,
+                            textAlign:'right',
+                            lineHeight: 22,
+                            color:'#000',
+                            fontFamily:'OpenSans_400Regular'}}>-في <Text style={{fontWeight: "bold", color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>اليمنت</Text> نستخدم البيانات التي نقوم بجمعها لتطوير وتدريب نماذج الذكاء الاصطناعي وذلك لتحسين خدماتنا على سبيل المثال لا الحصر: تخصيص المحتوى، وتحسين أداء خدماتنا ونؤكد على أننا نلتزم بحماية خصوصيتك، ولا نقوم بالكشف عن معلومات حساسة، ونضمن أمان بياناتك من خلال تقنيات أمان قوية.</Text>
+                            </>
+                            )
+                        } 
+
+                        {selectedFilter == 'English' ? (
+                            <Text style={{fontSize: 16,
+                            marginBottom: 10,
+                            lineHeight: 22,
+                            textAlign:'left',
+                            color:'#000',
+                            fontFamily:'OpenSans_400Regular'}}><Text style={{fontWeight: "bold", color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>If you fail to provide Data: </Text>Where we need to collect Data by law, by using our Platform, and you fail to provide the required Data, we may not be able to perform our Services. We will notify you if this is the case at time.</Text>
+                        ):(
+                            <Text style={{fontSize: 16,
+                                marginBottom: 10,
+                                textAlign:'right',
+                                lineHeight: 22,
+                                color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>
+                                <Text style={{fontWeight: "bold", color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>إذا فشلت في توفير البيانات:  </Text>عندما نحتاج إلى جمع البيانات حسب القانون، وباستخدام المنصة الخاصة بنا، وفشلت في تقديم هذه البيانات المطلوبة، قد لا نتمكن من تنفيذ خدماتنا. وسنقوم بإعلامك إذا كان هذا هو الحال في ذلك الوقت.</Text>
+                        )
+                        } 
 
                     </View>
                   
