@@ -605,7 +605,760 @@ export const PrivacyAndPolicyPageScreen = ({ navigation }) => {
                                 fontFamily:'OpenSans_400Regular'}}>إذا فشلت في توفير البيانات:  </Text>عندما نحتاج إلى جمع البيانات حسب القانون، وباستخدام المنصة الخاصة بنا، وفشلت في تقديم هذه البيانات المطلوبة، قد لا نتمكن من تنفيذ خدماتنا. وسنقوم بإعلامك إذا كان هذا هو الحال في ذلك الوقت.</Text>
                         )
                         } 
+                    {selectedFilter == 'English' ? (
+                            <Text style={{fontSize: 16,
+                            marginBottom: 10,
+                            lineHeight: 22,
+                            textAlign:'left',
+                            color:'#000',
+                            fontFamily:'OpenSans_400Regular'}}><Text style={{fontWeight: "bold", color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>How is Data collected?: </Text>We use different methods to collect Data from and about you including through:</Text>
+                        ):(
+                            <Text style={{fontSize: 16,
+                                marginBottom: 10,
+                                textAlign:'right',
+                                lineHeight: 22,
+                                color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>
+                                <Text style={{fontWeight: "bold", color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>كيف يتم جمع البيانات؟: </Text>نستخدم طرقا مختلفة لجمع البيانات منك وعنك من خلال ما يلي:</Text>
+                        )
+                        } 
+                        {selectedFilter == 'English' ? (
+                            <Text style={{fontSize: 16,
+                            marginBottom: 10,
+                            lineHeight: 22,
+                            textAlign:'left',
+                            color:'#000',
+                            fontFamily:'OpenSans_400Regular'}}><Text style={{fontWeight: "bold", color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>Direct interactions. </Text>You may give us your Identity, contact and financial Data by filling in forms or by corresponding with us by phone or e-mail or otherwise. This includes Data you provide when you undertake the following:</Text>
+                        ):(
+                            <Text style={{fontSize: 16,
+                                marginBottom: 10,
+                                textAlign:'right',
+                                lineHeight: 22,
+                                color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>
+                                <Text style={{fontWeight: "bold", color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>التفاعلات المباشرة. </Text> يمكنك أن تمنحنا بيانات هويتك وبيانات الاتصال الخاصة بك وبياناتك المالية عن طريق ملئ الاستمارات أوعن طريق التواصل معنا عن طريق الهاتف أو البريد الإلكتروني أو غير ذلك. يتضمن ذلك البيانات التي تقدمها عند قيامك بما يلي:</Text>
+                        )
+                        } 
+                        {selectedFilter == 'English' ? (
+                            <Text style={{fontSize: 16,
+                            marginBottom: 10,
+                            lineHeight: 22,
+                            textAlign:'left',
+                            color:'#000',
+                            fontFamily:'OpenSans_400Regular'}}>- Create an Account on, or exploit, use, our Platform;</Text>
+                        ):(
+                            <Text style={{fontSize: 16,
+                                marginBottom: 10,
+                                textAlign:'right',
+                                lineHeight: 22,
+                                color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>- إنشاء حساب على المنصة أو استخدامها؛</Text>
+                        )
+                        } 
+                         {selectedFilter == 'English' ? (
+                            <Text style={{fontSize: 16,
+                            marginBottom: 10,
+                            lineHeight: 22,
+                            textAlign:'left',
+                            color:'#000',
+                            fontFamily:'OpenSans_400Regular'}}>- Enter a social competition, promotion, or survey; or</Text>
+                        ):(
+                            <Text style={{fontSize: 16,
+                                marginBottom: 10,
+                                textAlign:'right',
+                                lineHeight: 22,
+                                color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>- دخول مسابقة اجتماعية أو عرض أو استطلاع؛ أو</Text>
+                        )
+                        } 
+                         {selectedFilter == 'English' ? (
+                            <Text style={{fontSize: 16,
+                            marginBottom: 10,
+                            lineHeight: 22,
+                            textAlign:'left',
+                            color:'#000',
+                            fontFamily:'OpenSans_400Regular'}}>- Provide us with feedback or contact us.</Text>
+                        ):(
+                            <Text style={{fontSize: 16,
+                                marginBottom: 10,
+                                textAlign:'right',
+                                lineHeight: 22,
+                                color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>- تزويدنا برأيك أو الاتصال بنا.</Text>
+                        )
+                        } 
+                        {selectedFilter == 'English' ? (
+                            <Text style={{fontSize: 16,
+                            marginBottom: 10,
+                            lineHeight: 22,
+                            textAlign:'left',
+                            color:'#000',
+                            fontFamily:'OpenSans_400Regular'}}><Text style={{fontWeight: "bold", color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>Automated technologies or interactions.  </Text>As you interact with our Platform, we will automatically collect technical data about your browsing actions and patterns. We collect theseis Data by using cookies, server logs and other similar technologies.</Text>
+                        ):(
+                            <Text style={{fontSize: 16,
+                                marginBottom: 10,
+                                textAlign:'right',
+                                lineHeight: 22,
+                                color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>
+                                <Text style={{fontWeight: "bold", color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>التقنيات والتفاعلات الآلية.</Text> أثناء تفاعلك مع منصتنا الالكترونية، سنقوم تلقائيًا بجمع البيانات الفنية حول إجراءات وأنماط التصفح الخاصة بك. نجمع هذه البيانات باستخدام ملفات تعريف الارتباط وسجلات الخادم وغيرها من التقنيات المماثلة.</Text>
+                        )
+                        } 
+                        {selectedFilter == 'English' ? (
+                            <>
+                            <Text style={{fontSize: 16,
+                            marginBottom: 10,
+                            lineHeight: 22,
+                            textAlign:'left',
+                            color:'#000',
+                            fontFamily:'OpenSans_400Regular'}}><Text style={{fontWeight: "bold", color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>How we use Data: </Text>To the  extent possible, we want to provide you with relevant content and a tailored experience when you use our Services, and we use Data about you to do that.</Text>
+                                <Text style={{fontSize: 16,
+                                    marginBottom: 10,
+                                    lineHeight: 22,
+                                    textAlign:'left',
+                                    color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>We will only use Data when the law allows us to. Most commonly, we will use Data in the following circumstances:</Text>
+                            <Text style={{fontSize: 16,
+                                    marginBottom: 10,
+                                    lineHeight: 22,
+                                    textAlign:'left',
+                                    color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>- Where it is necessary for our legitimate interests (or those of a third party) and fundamental rights do not override those interests;</Text>
+                            <Text style={{fontSize: 16,
+                                    marginBottom: 10,
+                                    lineHeight: 22,
+                                    textAlign:'left',
+                                    color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>- Where we need to comply with a legal obligation;</Text>
+                            <Text style={{fontSize: 16,
+                                    marginBottom: 10,
+                                    lineHeight: 22,
+                                    textAlign:'left',
+                                    color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>- Where we need to comply with a legal obligation;</Text>
+                                    <Text style={{fontSize: 16,
+                                    marginBottom: 10,
+                                    lineHeight: 22,
+                                    textAlign:'left',
+                                    color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>- Where we need to set up your Account and administrate it;</Text>
+                                    <Text style={{fontSize: 16,
+                                    marginBottom: 10,
+                                    lineHeight: 22,
+                                    textAlign:'left',
+                                    color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>- Where we need to carry out surveys;</Text>
+                                    <Text style={{fontSize: 16,
+                                    marginBottom: 10,
+                                    lineHeight: 22,
+                                    textAlign:'left',
+                                    color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>- Where we need to personalize content, user experience or business information;</Text>
+                                    <Text style={{fontSize: 16,
+                                    marginBottom: 10,
+                                    lineHeight: 22,
+                                    textAlign:'left',
+                                    color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>- Where you have given consent.</Text>
+                                    <Text style={{fontSize: 16,
+                                    marginBottom: 10,
+                                    lineHeight: 22,
+                                    textAlign:'left',
+                                    color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>- Generally, we do not rely on consent as a legal basis for processing Data.</Text>
+                            </>
+                            ):(
+                            <>
+                            <Text style={{fontSize: 16,
+                                marginBottom: 10,
+                                textAlign:'right',
+                                lineHeight: 22,
+                                color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>
+                                <Text style={{fontWeight: "bold", color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>كيف نستخدم البيانات:</Text>إلى أقصى حد ممكن، نريد تزويدك بمحتوى ذي صلة وتجربة مخصصة عند استخدام خدماتنا، ونستخدم بيانات عنك للقيام بذلك.</Text>
+                            <Text style={{fontSize: 16,
+                                marginBottom: 10,
+                                textAlign:'right',
+                                lineHeight: 22,
+                                color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>سنستخدم البيانات فقط عندما يسمح لنا القانون بذلك. في الغالب، سنستخدم البيانات في الحالات التالية:</Text>
+                            <Text style={{fontSize: 16,
+                                    marginBottom: 10,
+                                    textAlign:'right',
+                                    lineHeight: 22,
+                                    color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>- عندما تكون ضرورية لمصالحنا المشروعة (أو مصالح طرف ثالث) ومصالحك وحقوقك الأساسية لا تتخطى تلك المصالح؛</Text>
+                            <Text style={{fontSize: 16,
+                                marginBottom: 10,
+                                textAlign:'right',
+                                lineHeight: 22,
+                                color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>- عندما نحتاج إلى الامتثال لالتزام قانوني؛</Text>
+                        
+                            <Text style={{fontSize: 16,
+                                    marginBottom: 10,
+                                    textAlign:'right',
+                                    lineHeight: 22,
+                                    color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>- عندما نحتاج إلى إعداد حسابك وإدارته؛</Text>
+                            
+                            <Text style={{fontSize: 16,
+                                    marginBottom: 10,
+                                    textAlign:'right',
+                                    lineHeight: 22,
+                                    color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>- عندما نحتاج إلى إجراء استطلاعات؛</Text>
+                            
+                            <Text style={{fontSize: 16,
+                                    marginBottom: 10,
+                                    textAlign:'right',
+                                    lineHeight: 22,
+                                    color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>- عندما نحتاج إلى تخصيص المحتوى أو تجربة المستخدم أو معلومات تجارية؛</Text>
+                            
+                            <Text style={{fontSize: 16,
+                                    marginBottom: 10,
+                                    textAlign:'right',
+                                    lineHeight: 22,
+                                    color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>- عندما تكون قد أعطيتنا الموافقة.</Text>
+                            
+                            <Text style={{fontSize: 16,
+                                    marginBottom: 10,
+                                    textAlign:'right',
+                                    lineHeight: 22,
+                                    color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>- بشكل عام، لا نعتمد على الموافقة كأساس قانوني لمعالجة البيانات على الرغم من أننا سنحصل على موافقتك قبل إرسال رسائل التسويق المباشر من طرف ثالث إليك عبر البريد الإلكتروني أو رسالة نصية. لديك الحق في سحب الموافقة على التسويق في أي وقت عن طريق الاتصال بنا.</Text>
+                            </>      
+                            )
+                        } 
+                        <Text style={{fontSize: 18,
+                                fontWeight: 'bold',
+                                marginTop: 15,
+                                color:'#000',
+                                fontFamily:'OpenSans_400Regular', textAlign:selectedFilter == 'English' ? 'left': "right"}}>{selectedFilter == 'English' ? 'Purposes for which we will use Data' : "الأغراض التي سنستخدم البيانات من أجلها"}</Text>
+                            <Text style={{fontSize: 18,
+                                fontWeight: 'bold',
+                                marginTop: 5,
+                                marginBottom:5,
+                                color:'#000',
+                                fontFamily:'OpenSans_400Regular', textAlign:selectedFilter == 'English' ? 'left': "right"}}>{selectedFilter == 'English' ? '1.Performance of our Services:' : "1.أداء خدماتنا:"}</Text>
+                    {selectedFilter == 'English' ? (
+                            <>
+                                <Text style={{fontSize: 16,
+                                    marginBottom: 10,
+                                    lineHeight: 22,
+                                    textAlign:'left',
+                                    color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>We process Data because it is necessary for the performance of our Services through our Platform.</Text>
+                            <Text style={{fontSize: 16,
+                                    marginBottom: 10,
+                                    lineHeight: 22,
+                                    textAlign:'left',
+                                    color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>In this respect, we use Data for the following:</Text>
+                            <Text style={{fontSize: 16,
+                                    marginBottom: 10,
+                                    lineHeight: 22,
+                                    textAlign:'left',
+                                    color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>- To prepare a proposal for you regarding the Services we offer;</Text>
+                            <Text style={{fontSize: 16,
+                                    marginBottom: 10,
+                                    lineHeight: 22,
+                                    textAlign:'left',
+                                    color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>- To provide you with the Services as set in the scope of our Services, or as otherwise agreed with you from time to time;</Text>
+                                    <Text style={{fontSize: 16,
+                                    marginBottom: 10,
+                                    lineHeight: 22,
+                                    textAlign:'left',
+                                    color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>- To deal with any complaints or feedback you may have;</Text>
+                                    <Text style={{fontSize: 16,
+                                    marginBottom: 10,
+                                    lineHeight: 22,
+                                    textAlign:'left',
+                                    color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>- For any other purpose for which you provide us with the Data which we collect</Text>
+                                    <Text style={{fontSize: 16,
+                                    marginBottom: 10,
+                                    lineHeight: 22,
+                                    textAlign:'left',
+                                    color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>- In this respect, we may share Data with or transfer it to the following:</Text>
+                                    <Text style={{fontSize: 16,
+                                    marginBottom: 10,
+                                    lineHeight: 22,
+                                    textAlign:'left',
+                                    color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>- Our Professional Advisers where it is necessary for us to obtain their advice or assistance, including lawyers, accountants, IT or public relations advisers;.</Text>
+                                    <Text style={{fontSize: 16,
+                                    marginBottom: 10,
+                                    lineHeight: 22,
+                                    textAlign:'left',
+                                    color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>- Our Data storage providers.</Text>
+                                    <Text style={{fontSize: 16,
+                                    marginBottom: 10,
+                                    lineHeight: 22,
+                                    textAlign:'left',
+                                    color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>- the European General Data Protection Regulation (GDPR) and the Egyptian law no. 151 for year 2020. Due to the said purposes, to guarantee security and a smooth connection setup, we have a legitimate interest to process this Data</Text>
+                            </>
+                            ):(
+                            <>
+                            <Text style={{fontSize: 16,
+                                marginBottom: 10,
+                                textAlign:'right',
+                                lineHeight: 22,
+                                color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>نقوم بمعالجة البيانات لأنها ضرورية لأداء خدماتنا من خلال منصتنا الإلكترونية.</Text>
+                            <Text style={{fontSize: 16,
+                                    marginBottom: 10,
+                                    textAlign:'right',
+                                    lineHeight: 22,
+                                    color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>في هذا الصدد، نستخدم البيانات من أجل ما يلي:</Text>
+                            <Text style={{fontSize: 16,
+                                marginBottom: 10,
+                                textAlign:'right',
+                                lineHeight: 22,
+                                color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>- لإعداد عرض لك بخصوص الخدمات التي نقدمها.</Text>
+                        
+                            <Text style={{fontSize: 16,
+                                    marginBottom: 10,
+                                    textAlign:'right',
+                                    lineHeight: 22,
+                                    color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>- تزويدك بالخدمات المحددة في نطاق خدماتنا، أو كما هو متفق عليه معك من وقت لآخر.</Text>
+                            
+                            <Text style={{fontSize: 16,
+                                    marginBottom: 10,
+                                    textAlign:'right',
+                                    lineHeight: 22,
+                                    color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>- عندما نحتاج إلى إجراء استطلاعات؛</Text>
+                            
+                            <Text style={{fontSize: 16,
+                                    marginBottom: 10,
+                                    textAlign:'right',
+                                    lineHeight: 22,
+                                    color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>- للتعامل مع أي شكاوى أو أراء قد تكون لديك.</Text>
+                            
+                            <Text style={{fontSize: 16,
+                                    marginBottom: 10,
+                                    textAlign:'right',
+                                    lineHeight: 22,
+                                    color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>- لأي غرض آخر تزودنا من أجله بالبيانات التي نجمعها.</Text>
+                            
+                            <Text style={{fontSize: 16,
+                                    marginBottom: 10,
+                                    textAlign:'right',
+                                    lineHeight: 22,
+                                    color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>في هذا الصدد، يجوز لنا مشاركة البيانات أو نقلها إلى من يلي:</Text>
+                            <Text style={{fontSize: 16,
+                                    marginBottom: 10,
+                                    textAlign:'right',
+                                    lineHeight: 22,
+                                    color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>- رهنًا بموافقتك، الأطراف الثالثة المستقلة التي نتشارك معها للمساعدة في تقديم الخدمات لك.</Text>
+                            <Text style={{fontSize: 16,
+                                    marginBottom: 10,
+                                    textAlign:'right',
+                                    lineHeight: 22,
+                                    color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>- المستشارون المهنيون لدينا حيث يكون من الضروري بالنسبة لنا الحصول على مشورتهم أو مساعدتهم، ويشمل هؤلاء، المحامون، أو المحاسبون، أو قسم تكنولوجيا المعلومات، أو مستشارو العلاقات العامة؛</Text>
+                            <Text style={{fontSize: 16,
+                                    marginBottom: 10,
+                                    textAlign:'right',
+                                    lineHeight: 22,
+                                    color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>- مقدمي خدمة تخزين البيانات لدينا.</Text>
+                            
+                            <Text style={{fontSize: 16,
+                                    marginBottom: 10,
+                                    textAlign:'right',
+                                    lineHeight: 22,
+                                    color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>لأساس القانوني لتجهيز فئات البيانات المذكورة أعلاه هو القانون 6. (1) (أ) من اللائحة الأوروبية العامة لحماية البيانات والقانون المصري رقم 151 لسنة 2020. نظرا للأغراض المذكورة، خصوصا لضمان الأمان واعداد الاتصال السلس، لدينا مصلحة مشروعة في معالجة هذه البيانات.</Text>
+                            </>      
+                            )
+                        } 
+                        {selectedFilter == 'English' ? (
+                            <>
+                            <Text style={{fontSize: 16,
+                            marginBottom: 10,
+                            lineHeight: 22,
+                            textAlign:'left',
+                            color:'#000',
+                            fontFamily:'OpenSans_400Regular'}}><Text style={{fontWeight: "bold", color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>2. Legitimate interests: </Text>We also process Data because it is necessary for our legitimate interests, or sometimes where it is necessary for the legitimate interests of a third party.</Text>
+                                <Text style={{fontSize: 16,
+                                    marginBottom: 10,
+                                    lineHeight: 22,
+                                    textAlign:'left',
+                                    color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>In this respect, we use Data for the administration and management of our business, marketing purposes, archiving or statistical analysis.</Text>
+                            </>
+                            ):(
+                            <>
+                            <Text style={{fontSize: 16,
+                                marginBottom: 10,
+                                textAlign:'right',
+                                lineHeight: 22,
+                                color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>
+                                <Text style={{fontWeight: "bold", color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>2. المصالح المشروعة: </Text>كما نقوم أيضًا بمعالجة البيانات لأنها ضرورية لمصالحنا المشروعة، أو في بعض الأحيان عندما تكون ضرورية للمصالح المشروعة للغير.</Text>
+                                <Text style={{fontSize: 16,
+                                    marginBottom: 10,
+                                    lineHeight: 22,
+                                    textAlign:'left',
+                                    color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>في هذا الصدد، نستخدم البيانات لإدارة وتنظيم أعمالنا، ولأغراض التسويق أو الأرشفة أو المعالجة الإحصائية.</Text>
+                            </>
+                            )
+                        } 
 
+                        {selectedFilter == 'English' ? (
+                            <>
+                            <Text style={{fontSize: 16,
+                            marginBottom: 10,
+                            lineHeight: 22,
+                            textAlign:'left',
+                            color:'#000',
+                            fontFamily:'OpenSans_400Regular'}}><Text style={{fontWeight: "bold", color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>3. Legal Compliance:</Text>We also process Data for our compliance with a legal obligation which we are under. In this respect, we will use Data for the following:</Text>
+                                <Text style={{fontSize: 16,
+                                    marginBottom: 10,
+                                    lineHeight: 22,
+                                    textAlign:'left',
+                                    color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>- Resolve disputes or troubleshoot problems;</Text>
+                            <Text style={{fontSize: 16,
+                                    marginBottom: 10,
+                                    lineHeight: 22,
+                                    textAlign:'left',
+                                    color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>- Prevent fraud and other potentially prohibited or unlawful activities;</Text>
+                                    <Text style={{fontSize: 16,
+                                    marginBottom: 10,
+                                    lineHeight: 22,
+                                    textAlign:'left',
+                                    color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>- Comply with relevant laws, respond to legal requests, prevent harm, and protect our rights and the rights of other users and third parties;</Text>
+                                    <Text style={{fontSize: 16,
+                                    marginBottom: 10,
+                                    lineHeight: 22,
+                                    textAlign:'left',
+                                    color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>As required by tax authorities or any competent court or legal authority.</Text>
+
+                            </>
+                            ):(
+                            <>
+                            <Text style={{fontSize: 16,
+                                marginBottom: 10,
+                                textAlign:'right',
+                                lineHeight: 22,
+                                color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>
+                                <Text style={{fontWeight: "bold", color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>3. الالتزامات القانونية: </Text>كما نقوم أيضًا بمعالجة البيانات من أجل امتثالنا بالتزام قانوني. في هذا الصدد، سنستخدم البيانات من أجل ما يلي:</Text>
+                                <Text style={{fontSize: 16,
+                                    marginBottom: 10,
+                                    lineHeight: 22,
+                                    textAlign:'left',
+                                    color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>حل المنازعات او استكشاف المشكلات واصلاحها؛</Text>
+                           <Text style={{fontSize: 16,
+                                    marginBottom: 10,
+                                    lineHeight: 22,
+                                    textAlign:'left',
+                                    color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>منع الاحتيال وأي انشطة أخرى يحتمل ان تكون محظورة او غير قانونية؛</Text>
+                                    <Text style={{fontSize: 16,
+                                    marginBottom: 10,
+                                    lineHeight: 22,
+                                    textAlign:'left',
+                                    color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>الامتثال للقوانين ذات الصلة والاستجابة للطلبات القانونية ومنع الضرر وحماية حقوقنا وحقوق المستخدمين والغير؛</Text>
+                                    <Text style={{fontSize: 16,
+                                    marginBottom: 10,
+                                    lineHeight: 22,
+                                    textAlign:'left',
+                                    color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>كما هو مطلوب من قبل السلطات الضريبية أو أي محكمة مختصة أو سلطة قانونية.</Text>
+                                   
+                            </>
+                            )
+                        } 
+
+                    {selectedFilter == 'English' ? (
+                            <>
+                            <Text style={{fontSize: 16,
+                            marginBottom: 10,
+                            lineHeight: 22,
+                            textAlign:'left',
+                            color:'#000',
+                            fontFamily:'OpenSans_400Regular'}}><Text style={{fontWeight: "bold", color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>4. Marketing: </Text>We will send you marketing about Services we provide which may be of interest to you, as well as other information in the form of alerts, newsletters, notifications for discounts and deals, or functions which we believe might be of interest to you or in order to update you with information which we believe may be relevant to you. We will communicate this to you in a number of ways including by telephone, SMS, e-mail or other digital channels as appropriate.</Text>
+                            </>
+                            ):(
+                            <>
+                            <Text style={{fontSize: 16,
+                                marginBottom: 10,
+                                textAlign:'right',
+                                lineHeight: 22,
+                                color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>
+                                <Text style={{fontWeight: "bold", color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>4. التسويق: </Text>سنرسل إليك تسويقًا حول الخدمات التي نقدمها والتي قد تهمك، بالإضافة إلى معلومات أخرى في شكل تنبيهات، أو رسائل إخبارية، أو إشعارات عن الخصومات والعروض، أو الخصائص التي نعتقد أنها قد تهمك أو من أجل تحديثك بمعلومات التي نعتقد أنها قد تكون ذات صلة بك. سوف نبلغك بذلك بعدة طرق بما في ذلك عن طريق الهاتف، أو الرسائل النصية القصيرة، أو البريد الإلكتروني، أو القنوات الرقمية الأخرى حسب الاقتضاء.</Text>
+                            </>
+                            )
+                        } 
+                    
+                    {selectedFilter == 'English' ? (
+                            <>
+                            <Text style={{fontSize: 16,
+                            marginBottom: 10,
+                            lineHeight: 22,
+                            textAlign:'left',
+                            color:'#000',
+                            fontFamily:'OpenSans_400Regular'}}><Text style={{fontWeight: "bold", color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>5. Communication: </Text>Communicate with you or facilitate communication between you, our affiliates;</Text>
+                                <Text style={{fontSize: 16,
+                                    marginBottom: 10,
+                                    lineHeight: 22,
+                                    textAlign:'left',
+                                    color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>Host your reviews, ratings, photos, videos, and other content;</Text>
+                            <Text style={{fontSize: 16,
+                                    marginBottom: 10,
+                                    lineHeight: 22,
+                                    textAlign:'left',
+                                    color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>Customize your experience, including customizing the ads shown to you on and off our Platform;</Text>
+                                    <Text style={{fontSize: 16,
+                                    marginBottom: 10,
+                                    lineHeight: 22,
+                                    textAlign:'left',
+                                    color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>Respond to your questions and comments.</Text>
+
+                            </>
+                            ):(
+                            <>
+                            <Text style={{fontSize: 16,
+                                marginBottom: 10,
+                                textAlign:'right',
+                                lineHeight: 22,
+                                color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>
+                                <Text style={{fontWeight: "bold", color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>5. التواصل:</Text>التواصل معك أو تسهيل التواصل بينك وبين الشركات التابعة لنا؛</Text>
+                                <Text style={{fontSize: 16,
+                                    marginBottom: 10,
+                                    lineHeight: 22,
+                                    textAlign:'left',
+                                    color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>استضافة الآراء والتقييمات والصور ومقاطع الفيديو والمحتويات الأخرى؛</Text>
+                           <Text style={{fontSize: 16,
+                                    marginBottom: 10,
+                                    lineHeight: 22,
+                                    textAlign:'left',
+                                    color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>تشكيل تجربة خاصة بك، بما في ذلك الإعلانات المعروضة لك داخل وخارج منصتنا الإلكترونية؛</Text>
+                                    <Text style={{fontSize: 16,
+                                    marginBottom: 10,
+                                    lineHeight: 22,
+                                    textAlign:'left',
+                                    color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>الاجابة على أسئلتك وتعليقاتك.</Text>
+                                    <Text style={{fontSize: 16,
+                                    marginBottom: 10,
+                                    lineHeight: 22,
+                                    textAlign:'left',
+                                    color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>كما هو مطلوب من قبل السلطات الضريبية أو أي محكمة مختصة أو سلطة قانونية.</Text>
+                                   
+                            </>
+                            )
+                        } 
+
+                    {selectedFilter == 'English' ? (
+                            <>
+                            <Text style={{fontSize: 16,
+                            marginBottom: 10,
+                            lineHeight: 22,
+                            textAlign:'left',
+                            color:'#000',
+                            fontFamily:'OpenSans_400Regular'}}><Text style={{fontWeight: "bold", color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>6. Promotional offers from us: </Text>We may use Data to form a view on what we think you may want or need, or what may be of interest to you. This is how we decide which merchants, products, Services, discounts and deals may be relevant to you.</Text>
+                            <Text style={{fontSize: 16,
+                                    marginBottom: 10,
+                                    lineHeight: 22,
+                                    textAlign:'left',
+                                    color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>You will receive marketing communications from us in case of using our Platform, and you have not opted out of receiving these marketing communications.</Text>
+                            </>
+                            ):(
+                            <>
+                            <Text style={{fontSize: 16,
+                                marginBottom: 10,
+                                textAlign:'right',
+                                lineHeight: 22,
+                                color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>
+                                <Text style={{fontWeight: "bold", color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>6. العروض الترويجية منا: </Text>قد نستخدم البيانات لتشكيل رؤية حول ما نعتقد أنك قد تريده أو تحتاجه أو ما قد يثير اهتمامك. هذه هي الطريقة التي نقرر بها أي التجار والمنتجات والخدمات والخصومات والعروض قد تكون ذات صلة بك.</Text>
+                            <Text style={{fontSize: 16,
+                                    marginBottom: 10,
+                                    lineHeight: 22,
+                                    textAlign:'left',
+                                    color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>ستتلقى اتصالات تسويقية منا في حالة استخدام منصتنا الإلكترونية، ولم تختر عدم تلقي هذه الاتصالات التسويقية.</Text>
+                                   
+                            </>
+                            )
+                        } 
+
+                    {selectedFilter == 'English' ? (
+                            <>
+                            <Text style={{fontSize: 16,
+                            marginBottom: 10,
+                            lineHeight: 22,
+                            textAlign:'left',
+                            color:'#000',
+                            fontFamily:'OpenSans_400Regular'}}><Text style={{fontWeight: "bold", color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>7. Third-party marketing: </Text>We will get your express opt-in consent before we share Data with any third party for marketing purposes or for R&D.</Text>
+                            </>
+                            ):(
+                            <>
+                            <Text style={{fontSize: 16,
+                                marginBottom: 10,
+                                textAlign:'right',
+                                lineHeight: 22,
+                                color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>
+                                <Text style={{fontWeight: "bold", color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>7. التسويق لطرف ثالث:  </Text>سنحصل على موافقتك الصريحة للاشتراك قبل أن نشارك البيانات مع أي طرف ثالث لأغراض التسويق او الإحصاء أو لأغراض البحث العلمي والتطوير.</Text>
+                            <Text style={{fontSize: 16,
+                                    marginBottom: 10,
+                                    lineHeight: 22,
+                                    textAlign:'left',
+                                    color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>يمكنك أن تطلب منا أو من الأطراف الثالثة إيقاف إرسال رسائل تسويقية إليك في أي وقت عن طريق تسجيل الدخول إلى المنصة والتأشير أو إلغاء التأشير على الخانات ذات الصلة لتعديل تفضيلاتك التسويقية، أو من خلال اتباع روابط إلغاء الاشتراك في أي رسالة تسويقية يتم إرسالها إليك أو عن طريق الاتصال بنا في أي وقت.</Text>
+                                   
+                            </>
+                            )
+                        } 
+                    {selectedFilter == 'English' ? (
+                            <>
+                            <Text style={{fontSize: 16,
+                            marginBottom: 10,
+                            lineHeight: 22,
+                            textAlign:'left',
+                            color:'#000',
+                            fontFamily:'OpenSans_400Regular'}}><Text style={{fontWeight: "bold", color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>8. Cookies: </Text>You can set your browser to refuse all or some browser cookies, or to alert you when the Platform sets or access cookies. If you disable or refuse cookies, please note that some parts of this Platform may become inaccessible or not function properly.</Text>
+                            </>
+                            ):(
+                            <>
+                            <Text style={{fontSize: 16,
+                                marginBottom: 10,
+                                textAlign:'right',
+                                lineHeight: 22,
+                                color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>
+                                <Text style={{fontWeight: "bold", color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>8.  ملفات تعريف الارتباط:  </Text>يمكنك ضبط المتصفح الخاص بك لرفض كل أو بعض ملفات تعريف الارتباط للمتصفح، أو لتنبيهك عند قيام المواقع بضبط ملفات تعريف الارتباط أو السماح لها بالوصول. إذا قمت بإيقاف أو رفض ملفات تعريف الارتباط يرجى ملاحظة أنه قد يتعذر الوصول لبعض أجزاء هذه المنصة أو عدم عملها بشكل صحيح.</Text>
+                              
+                            </>
+                            )
+                        }
+                    {selectedFilter == 'English' ? (
+                            <>
+                            <Text style={{fontSize: 16,
+                            marginBottom: 10,
+                            lineHeight: 22,
+                            textAlign:'left',
+                            color:'#000',
+                            fontFamily:'OpenSans_400Regular'}}><Text style={{fontWeight: "bold", color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>9. Change of purpose: </Text>We will only use Data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. </Text>
+                            <Text style={{fontSize: 16,
+                                    marginBottom: 10,
+                                    lineHeight: 22,
+                                    textAlign:'left',
+                                    color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>Please note that we may process Data without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law</Text>
+                                   
+                            </>
+                            ):(
+                            <>
+                            <Text style={{fontSize: 16,
+                                marginBottom: 10,
+                                textAlign:'right',
+                                lineHeight: 22,
+                                color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>
+                                <Text style={{fontWeight: "bold", color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>9 . تغير الغرض:  </Text>سنستخدم البيانات فقط للأغراض التي جمعناها من أجلها، ما لم نعتبر بشكل معقول أننا نحتاج إلى استخدامها لسبب آخر، وذلك السبب متوافق مع الغرض الأصلي. إذا كنت ترغب في الحصول على شرح لكيفية توافق عملية معالجة الغرض الجديد مع الغرض الأصلي، يرجى الاتصال بنا على عنوان البريد الإلكتروني […………………………]. إذا احتجنا إلى استخدام البيانات لغرض غير ذي صلة، فسوف نخطرك وسنشرح الأساس القانوني الذي يسمح لنا بالقيام بذلك. يرجى ملاحظة أننا قد نقوم بمعالجة البيانات دون علمك أو موافقتك، وفقًا للقواعد المذكورة أعلاه، حيث يكون هذا مطلوبًا أو مسموحًا به بموجب القانون.</Text>
+                              
+                            </>
+                            )
+                        } 
+                    
+                    {selectedFilter == 'English' ? (
+                            <>
+                            <Text style={{fontSize: 16,
+                            marginBottom: 10,
+                            lineHeight: 22,
+                            textAlign:'left',
+                            color:'#000',
+                            fontFamily:'OpenSans_400Regular'}}><Text style={{fontWeight: "bold", color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>Disclosures of Data: </Text>We may share Data with the parties set out herein in relation to the specified purposes for which we will use the Data above.</Text>
+                            <Text style={{fontSize: 16,
+                                    marginBottom: 10,
+                                    lineHeight: 22,
+                                    textAlign:'left',
+                                    color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>We may share Data with third parties to whom we may choose to sell, transfer or merge parts of our business or our assets. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use Data in the same way as set out in this Privacy Policy.</Text>
+                                   
+                            </>
+                            ):(
+                            <>
+                            <Text style={{fontSize: 16,
+                                marginBottom: 10,
+                                textAlign:'right',
+                                lineHeight: 22,
+                                color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>
+                                <Text style={{fontWeight: "bold", color:'#000',
+                                fontFamily:'OpenSans_400Regular'}}>الإفصاح عن البيانات:  </Text>يجوز لنا مشاركة البيانات مع الأطراف المنصوص عليها هنا فيما يتعلق بالأغراض المحددة التي سنستخدم من أجلها البيانات المذكورة أعلاه.</Text>
+                               <Text style={{fontSize: 16,
+                                    marginBottom: 10,
+                                    lineHeight: 22,
+                                    textAlign:'left',
+                                    color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>يجوز لنا مشاركة البيانات مع أطراف ثالثة والتي قد نختار بيع أو نقل أو دمج أجزاء من أعمالنا أو أصولنا معها. وبالتبادل، قد نسعى للحصول على أعمال أخرى أو الاندماج معها. إذا حدث تغيير في أعمالنا، فيجوز للمالكين الجدد استخدام البيانات بنفس الطريقة الواردة في سياسة الخصوصية هذه.</Text>
+                                   
+                            </>
+                            )
+                        } 
                     </View>
                   
                   
