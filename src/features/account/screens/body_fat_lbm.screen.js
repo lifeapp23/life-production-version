@@ -226,7 +226,7 @@ export const BodyFatAndLbmScreen = ({ navigation,route }) => {
            
             ////console.log('inside weightComeFromDatabaseWithoutNaN',weightComeFromDatabaseWithoutNaN);
             setWeightBodyFatLbm(weightComeFromDatabaseWithoutNaN ? weightComeFromDatabaseWithoutNaN : weightComeFromDatabaseWithoutNaNFromBodyStatsRow ? weightComeFromDatabaseWithoutNaNFromBodyStatsRow : "");
-            let heightComeFromDbOrSaved = calculatorsResults?.height ? parseFloat(calculatorsResults?.height)?.toFixed(2) : context.stateUser.userPublicSettings?.height?.toFixed(2);
+            let heightComeFromDbOrSaved = calculatorsResults?.height ? parseFloat(calculatorsResults?.height)?.toFixed(2) : parseFloat(context.stateUser.userPublicSettings?.height)?.toFixed(2);
 
             const heightComeFromtDBToFeetAndInches = cmToFeetAndInches(heightComeFromDbOrSaved); // Convert kg to feet and inches
             const heightComeFromDatabase  =  context.stateUser.userPublicSettings.units =="Metrics" ? heightComeFromDbOrSaved : heightComeFromtDBToFeetAndInches;

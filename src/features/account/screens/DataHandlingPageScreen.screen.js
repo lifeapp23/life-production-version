@@ -740,20 +740,23 @@ await getListOfFoodsUnsyncedRows(userId).then((usersPM) => {
     weight: mealData.weight,
     imageName:(imageName && storedUserConst?.['role'] == "Trainer") ? imageName : '',    
   };
-  //////console.log('mealInfo',mealInfo);
+ console.log('imageUri',imageUri);
     
     formData.append('mealInfo', {
       "string": JSON.stringify(mealInfo), //This is how it works :)
       type: 'application/json'
     });
     if(storedUserConst?.['role'] == "Trainer"){
-      formData.append('image', {
-      uri: imageUri,
-      name:  `${imageName}`,
-      type: `image/${imageExt}`
-    });
+      if(imageUri?.startsWith('file:///') || imageUri?.startsWith('content://')){
+          formData.append('image', {
+          uri: imageUri,
+          name:  `${imageName}`,
+          type: `image/${imageExt}`
+        });
+      }
     }
     
+    console.log('formData',formData);
 
     
     axios.post(`https://life-pf.com/api/ListOfFoods-insert-data`, formData, {

@@ -232,7 +232,7 @@ useEffect(() => {
         let newSentAge = calculatorsResults?.age ? calculatorsResults?.age : context.stateUser.userPublicSettings.age;
         setAgeBmr(newSentAge);
 
-        let heightComeFromDbOrSaved = calculatorsResults?.height ? parseFloat(calculatorsResults?.height)?.toFixed(2) : context.stateUser.userPublicSettings?.height?.toFixed(2);
+        let heightComeFromDbOrSaved = calculatorsResults?.height ? parseFloat(calculatorsResults?.height)?.toFixed(2) : parseFloat(context?.stateUser?.userPublicSettings)?.height?.toFixed(2);
 
         const heightComeFromtDBToFeetAndInches = cmToFeetAndInches(heightComeFromDbOrSaved); // Convert kg to feet and inches
         const heightComeFromDatabase  =  context.stateUser.userPublicSettings.units =="Metrics" ? heightComeFromDbOrSaved : heightComeFromtDBToFeetAndInches;
@@ -425,7 +425,7 @@ useEffect(() => {
         const feet = Math.floor(cm / 30.48);
       
         // How to have inches match up?
-        const inches = ((cm - feet * 30.48) * 0.393701).toFixed(2);
+        const inches = ((cm - feet * 30.48) * 0.393701)?.toFixed(2);
         return { feet, inches };
       }
   
@@ -442,7 +442,7 @@ useEffect(() => {
   
   
         //console.log('BMR calculatorsResults fetchPublicSettings-->',calculatorsResults);
-        let heightComeFromDbOrSaved =  dayWorkoutWorkedTask?.height ? dayWorkoutWorkedTask?.height :bodyStatsRow?.height ? bodyStatsRow?.height.toFixed(2): "";
+        let heightComeFromDbOrSaved =  dayWorkoutWorkedTask?.height ? dayWorkoutWorkedTask?.height :bodyStatsRow?.height ? bodyStatsRow?.height?.toFixed(2): "";
         console.log('MACRO PSettingsResults heightComeFromDbOrSaved-->',heightComeFromDbOrSaved);
   
         

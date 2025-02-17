@@ -564,7 +564,7 @@ export const BMIScreen = ({ route, navigation }) => {
     
 
   const handleCalculateBmi = () => { 
-    if (!weightKgToDatabase || weightKgToDatabase == "" || isNaN(weightKgToDatabase) || !calculatorsTableLastInsertedRow?.weight?.toString()) { 
+    if (!weightKgToDatabase || weightKgToDatabase == "" || isNaN(weightKgToDatabase) && !calculatorsTableLastInsertedRow?.weight?.toString()) { 
       Alert.alert(`${t('weight_are_required')}`); 
       return;
     }
@@ -603,7 +603,7 @@ export const BMIScreen = ({ route, navigation }) => {
     setBmiResult(!isNaN(bmi) ? bmi : ""); 
   };   
   const handleSubmitBmi = () => { 
-    if (!weightKgToDatabase || weightKgToDatabase == "" || isNaN(weightKgToDatabase) || !calculatorsTableLastInsertedRow?.weight?.toString() || !newHeight || isNaN(newHeight) || newHeight == "" || !sentPassNewDate && !calculatorsTableLastInsertedRow?.date) { 
+    if ((!weightKgToDatabase || weightKgToDatabase == "" || isNaN(weightKgToDatabase) && !calculatorsTableLastInsertedRow?.weight?.toString()) || !newHeight || isNaN(newHeight) || newHeight == "" || !sentPassNewDate && !calculatorsTableLastInsertedRow?.date) { 
       Alert.alert(`${t('All_fields_are_required')}`); 
       return;
     }
