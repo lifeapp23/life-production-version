@@ -130,7 +130,7 @@ export const BMIScreen = ({ route, navigation }) => {
 
     // });
       if(Object.keys(context.stateUser.userPublicSettings).length > 0){
-        // setHeightBmi(context.stateUser.userPublicSettings.height);
+        // setHeightBmi(context.stateUser.userPublicSettings?.height);
         setUnitsChecked(context.stateUser.userPublicSettings.units);
         setAgeCal(context.stateUser.userPublicSettings.age);
         fetchCalculatorsTableLastInsertedRow(storedUser.id,"bmiCal").then(async (calculatorsResults) => {
@@ -169,14 +169,14 @@ export const BMIScreen = ({ route, navigation }) => {
                   
             console.log('heightComeFromDatabaseWithoutNaN?.toString()-->',heightComeFromDatabaseWithoutNaN?.toString());
           console.log('heightComeFrombodyStatsRowWithoutNaN?.toString()-->',heightComeFrombodyStatsRowWithoutNaN?.toString());
-          console.log('context.stateUser.userPublicSettings.height?.toString()-->',context.stateUser.userPublicSettings.height?.toString());
+          console.log('context.stateUser.userPublicSettings?.height?.toString()-->',context.stateUser.userPublicSettings?.height?.toString());
 
-            setHeightBmi(heightComeFromDatabaseWithoutNaN ? heightComeFromDatabaseWithoutNaN?.toString() : heightComeFrombodyStatsRowWithoutNaN ? heightComeFrombodyStatsRowWithoutNaN?.toString() : context.stateUser.userPublicSettings.height ? context.stateUser.userPublicSettings.height?.toString() : "");
+            setHeightBmi(heightComeFromDatabaseWithoutNaN ? heightComeFromDatabaseWithoutNaN?.toString() : heightComeFrombodyStatsRowWithoutNaN ? heightComeFrombodyStatsRowWithoutNaN?.toString() : context.stateUser.userPublicSettings?.height ? context.stateUser.userPublicSettings?.height?.toString() : "");
 
           }else{
             let convertedHeightFromDataBase = cmToFeetAndInches(parseFloat(calculatorsResults?.height)?.toFixed(2));
             let convertedHeightFrombodyStats = cmToFeetAndInches(parseFloat(bodyStatsRow?.height)?.toFixed(2));
-            let convertedHeightFromWorkoutSettings = cmToFeetAndInches(parseFloat(context.stateUser.userPublicSettings.height)?.toFixed(2));
+            let convertedHeightFromWorkoutSettings = cmToFeetAndInches(parseFloat(context.stateUser.userPublicSettings?.height)?.toFixed(2));
 
             
         convertedHeightFromDataBaseWithoutNanFeet = !isNaN(convertedHeightFromDataBase.feet) ? convertedHeightFromDataBase.feet?.toString() : '';

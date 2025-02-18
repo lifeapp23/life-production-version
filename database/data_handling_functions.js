@@ -122,41 +122,86 @@ const database = SQLite.openDatabase('health.db');
     };
 
     export const addCalculatorsTableRowsToDatabase = (dataArray) => {
-    const promises = dataArray.map((rowData) => {
-        const { userId,date,calNam,methds,sFMthd,age,height,weight,neck,torso,hips,chest,sprlic,tricep,thigh,abdmen,axilla,subcpl,workot,target,ditTyp,result,bFPctg,bFMass,lBMass,calris,protin,fats,carbs,isSync} = rowData;
+        const cleanValue = (value) => (value === null || value === undefined || typeof value === 'object' ? null : value);
 
+    const promises = dataArray.map((rowData) => {
+        console.log('calculatorsTable Top rowData',rowData);
+        
+        const { userId,date,calNam,methds,sFMthd,age,height,weight,neck,torso,hips,chest,sprlic,tricep,thigh,abdmen,axilla,subcpl,workot,target,ditTyp,result,bFPctg,bFMass,lBMass,calris,protin,fats,carbs,isSync} = rowData;
+        console.log('calculatorsTable Top userId,calNam,date',userId,calNam,date);
+        console.log("DEBUG: Data types before insertion:", {
+            userId: typeof userId,
+            date: typeof date,
+            calNam: typeof calNam,
+            methds: typeof methds,
+            sFMthd: typeof sFMthd,
+            age: typeof age,
+            height: typeof height,
+            weight: typeof weight,
+            neck: typeof neck,
+            torso: typeof torso,
+            hips: typeof hips,
+            chest: typeof chest,
+            sprlic: typeof sprlic,
+            tricep:typeof tricep,
+            thigh :typeof thigh,
+            abdmen:typeof abdmen,
+            axilla:typeof axilla,
+            subcpl:typeof subcpl,
+            workot:typeof workot,
+            target:typeof target,
+            ditTyp:typeof ditTyp,
+            result:typeof result,
+            bFPctg:typeof bFPctg,
+            bFMass:typeof bFMass,
+            lBMass:typeof lBMass,
+            calris:typeof calris,
+            protin:typeof protin,
+            fats  :typeof fats,
+            carbs :typeof carbs,
+            isSync:typeof isSync,
+            
+        });
+          
         return new Promise((resolve, reject) => {
         database.transaction((tx) => {
             tx.executeSql(
             'SELECT * FROM calculatorsTable WHERE userId = ? AND calNam = ? AND date = ?',
             [userId,calNam,date],
             (_, result) => {
-                
+                console.log('calculatorsTable Row already exists before if result',result);
+                console.log('calculatorsTable Row already exists before if result.rows.length',result.rows.length);
+
                 if (result.rows.length === 0) {
+                console.log('if (result.rows.length === 0)',result.rows.length );
+
                 // Entry doesn't exist, add it to the database
                 tx.executeSql(
-                    `
-                    INSERT INTO calculatorsTable (userId,date,calNam,methds,sFMthd,age,height,weight,neck,torso,hips,chest,sprlic,tricep,thigh,abdmen,axilla,subcpl,workot,target,ditTyp,result,bFPctg,bFMass,lBMass,calris,protin,fats,carbs,isSync)
-                    VALUES (?, ?, ?, ?,?,?,?,?,?,?,?,?,?,?,?,?,?, ?, ?, ?,?,?,?,?,?,?,?,?,?,?)
-                    `,
-                    [userId,date,calNam,methds,sFMthd,age,height,weight,neck,torso,hips,chest,sprlic,tricep,thigh,abdmen,axilla,subcpl,workot,target,ditTyp,result,bFPctg,bFMass,lBMass,calris,protin,fats,carbs,isSync],
+                   `INSERT INTO calculatorsTable (userId, date, calNam, methds, sFMthd, age, height, weight, neck, torso, hips, chest, sprlic, tricep, thigh, abdmen, axilla, subcpl, workot, target, ditTyp, result, bFPctg, bFMass, lBMass, calris, protin, fats, carbs, isSync)
+                    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)`,
+                    [
+                        cleanValue(userId), cleanValue(date), cleanValue(calNam), cleanValue(methds), cleanValue(sFMthd), cleanValue(age), cleanValue(height), cleanValue(weight),
+                        cleanValue(neck), cleanValue(torso), cleanValue(hips), cleanValue(chest), cleanValue(sprlic), cleanValue(tricep), cleanValue(thigh), cleanValue(abdmen),
+                        cleanValue(axilla), cleanValue(subcpl), cleanValue(workot), cleanValue(target), cleanValue(ditTyp), cleanValue(result), cleanValue(bFPctg), cleanValue(bFMass),
+                        cleanValue(lBMass), cleanValue(calris), cleanValue(protin), cleanValue(fats), cleanValue(carbs), cleanValue(isSync)
+                    ],
                     (_, insertResult) => {
-                    //console.log('calculatorsTable Row added to the database:', insertResult);
+                    console.log('calculatorsTable Row added to the database:', insertResult);
                     resolve();
                     },
                     (_, insertError) => {
-                    //console.log('Error adding calculatorsTable row to the database:', insertError);
+                    console.log('Error adding calculatorsTable row to the database:', insertError);
                     
                     }
                 );
                 } else {
                 // Entry already exists, do nothing
-                //console.log('calculatorsTable Row already exists in the database');
+                console.log('calculatorsTable Row already exists in the database-----',result.rows);
                 resolve();
                 }
             },
             (_, error) => {
-                //console.log('Error checking database for existing calculatorsTable row:', error);
+                console.log('Error checking database for existing calculatorsTable row:', error);
             }
             );
         });

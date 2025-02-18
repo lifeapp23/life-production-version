@@ -991,6 +991,8 @@ console.log('dayWorkoutWorkedTask useEffectLoadData',dayWorkoutWorkedTask);
               placeholder='List of Workouts'
               value={displayWorkoutValue}
               style={{width:"100%"}}
+              status="newColor"
+              size="customSizo"
             >
               {workoutData.map(renderWorkoutOption)}
             </GenderSelector>

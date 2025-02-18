@@ -406,7 +406,7 @@ export const BMRScreen = ({ route, navigation }) => {
           setHeightBmr(heightComeFrombodyStatsRowWithoutNaN.toString());
 
         }else{
-          setHeightBmr(PSettingsResults[0].height);
+          setHeightBmr(PSettingsResults?.[0]?.height);
         }
 
 
@@ -414,7 +414,7 @@ export const BMRScreen = ({ route, navigation }) => {
       //values come from data base into inputs
       let convertedHeightFromDataBase = cmToFeetAndInches(parseFloat(dayWorkoutWorkedTask?.height)?.toFixed(2));
       let convertedHeightFrombodyStats = cmToFeetAndInches(parseFloat(bodyStatsRow?.height)?.toFixed(2));
-      let convertedHeightFromWorkoutSettings = cmToFeetAndInches(PSettingsResults[0].height);
+      let convertedHeightFromWorkoutSettings = cmToFeetAndInches(PSettingsResults?.[0]?.height);
 
       convertedHeightFromDataBaseWithoutNanFeet = !isNaN(convertedHeightFromDataBase.feet) ? convertedHeightFromDataBase.feet?.toString() : '';
       convertedHeightFromDataBaseWithoutNanInches = !isNaN(convertedHeightFromDataBase.inches) ? convertedHeightFromDataBase.inches?.toString() : '';
@@ -583,6 +583,7 @@ export const BMRScreen = ({ route, navigation }) => {
   ////console.log('todayDate',checkFutureDate);
   const [modalVisible, setModalVisible] = useState(false);
   const handleCalculateBmr = () => { 
+    console.log('ageBmr--',ageBmr);
     if (!weightKgToDatabase || weightKgToDatabase === "" || weightKgToDatabase.toString().trim() == '' || isNaN(weightKgToDatabase)) { 
       Alert.alert(`${t('weight_are_required')}`); 
       return;
@@ -591,7 +592,7 @@ export const BMRScreen = ({ route, navigation }) => {
       Alert.alert(`${t('height_are_required')}`); 
       return;
     }
-    if (ageBmr === ""  && ageBmr?.toString().trim() == '' ) { 
+    if (ageBmr === ""  && ageBmr?.toString().trim() == '' ||  ageBmr == undefined) { 
       Alert.alert(`${t('age_are_required')}`); 
       return;
     }

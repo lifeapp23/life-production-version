@@ -148,7 +148,7 @@ export const CalendarBmrCalculator = ({navigation,onAddEntry}) => {
           setPassNewDate(day.dateString);
           let presseddDateString =day?.dateString?.toLocaleString();
           let dayWorkoutWorkedTask = calculatorsTableArray?.find((t) => t?.date === day?.dateString?.toLocaleString());
-          navigation.navigate('BMI',{dayWorkoutWorkedTask:dayWorkoutWorkedTask,sentPassNewDate:presseddDateString})
+          navigation.navigate('BMR',{dayWorkoutWorkedTask:dayWorkoutWorkedTask,sentPassNewDate:presseddDateString})
           onAddEntry();
         }}
       />

@@ -1102,6 +1102,7 @@ await getTodayMealsUnsyncedRows(userId).then((usersPM) => {
                 setIsTwoLoading(false);
 
               });
+              console.log('response.data["userCalculatorsData"]',response.data["userCalculatorsData"]);
               addCalculatorsTableRowsToDatabase(response.data["userCalculatorsData"]).then((userCalculatorsData) => {
                 //////console.log('addCalculatorsTableRowsToDatabase function done SUCCES :');
                 counter = counter +1;
