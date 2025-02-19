@@ -1077,9 +1077,9 @@ await getTodayMealsUnsyncedRows(userId).then((usersPM) => {
               //////console.log('userData::',response.data);
               //setOurPersonalTrainers(response.data["trainers"]);
               addPlansStartWorkoutRowsToDatabase(response.data["userBeginWorkoutsData"]).then((userBodyStatsAndMeasurementsData) => {
-                //////console.log('addPlansStartWorkoutRowsToDatabase function done SUCCES :');
+                console.log('addPlansStartWorkoutRowsToDatabase function done SUCCES :');
                 counter = counter +1;
-                //////console.log('counter 1',counter);
+                console.log('---newcounter er 1',counter);
                 if(counter == 11){
                   //////console.log('11 yes');
                   setIsTwoLoading(false);
@@ -1090,9 +1090,9 @@ await getTodayMealsUnsyncedRows(userId).then((usersPM) => {
 
               });
               addBodyStatsAndMeasurementsRowsToDatabase(response.data["userBodyStatsAndMeasurementsData"]).then((userBodyStatsAndMeasurementsData) => {
-                //////console.log('addBodyStatsAndMeasurementsRowsToDatabase function done SUCCES :',userBodyStatsAndMeasurementsData);
+                console.log('addBodyStatsAndMeasurementsRowsToDatabase function done SUCCES :',userBodyStatsAndMeasurementsData);
                 counter = counter +1;
-                //////console.log('counter 2',counter);
+                console.log('---newcounter er 2',counter);
                 if(counter == 11){
                   //////console.log('11 yes');
                   setIsTwoLoading(false);
@@ -1104,9 +1104,9 @@ await getTodayMealsUnsyncedRows(userId).then((usersPM) => {
               });
               console.log('response.data["userCalculatorsData"]',response.data["userCalculatorsData"]);
               addCalculatorsTableRowsToDatabase(response.data["userCalculatorsData"]).then((userCalculatorsData) => {
-                //////console.log('addCalculatorsTableRowsToDatabase function done SUCCES :');
+                console.log('addCalculatorsTableRowsToDatabase function done SUCCES :');
                 counter = counter +1;
-                //////console.log('counter 3',counter);
+                console.log('---newcounter er 3',counter);
                 if(counter == 11){
                   //////console.log('11 yes');
                   setIsTwoLoading(false);
@@ -1117,9 +1117,9 @@ await getTodayMealsUnsyncedRows(userId).then((usersPM) => {
 
               });
               addGymEquipmentsRowsToDatabase(response.data["userGymEquipmentsData"]).then((userGymEquipmentsData) => {
-                //////console.log('addGymEquipmentsRowsToDatabase function done SUCCES :');
+                console.log('addGymEquipmentsRowsToDatabase function done SUCCES :');
                 counter = counter +1;
-                //////console.log('counter 4',counter);
+                console.log('---newcounter er 4',counter);
                 if(counter == 11){
                   //////console.log('11 yes');
                   setIsTwoLoading(false);
@@ -1130,9 +1130,9 @@ await getTodayMealsUnsyncedRows(userId).then((usersPM) => {
 
               });
               addListOfFoodsTableRowsToDatabase(response.data["userListOfFoodsData"]).then((userListOfFoodsData) => {
-                //////console.log('addListOfFoodsTableRowsToDatabase function done SUCCES :');
+                console.log('addListOfFoodsTableRowsToDatabase function done SUCCES :');
                 counter = counter +1;
-                //////console.log('counter 5',counter);
+                console.log('---newcounter er 5',counter);
                 if(counter == 11){
                   //////console.log('11 yes');
                   setIsTwoLoading(false);
@@ -1143,9 +1143,9 @@ await getTodayMealsUnsyncedRows(userId).then((usersPM) => {
 
               });
               addPublicSettingsRowsToDatabase(response.data["userPublicSettingsData"]).then((userPublicSettingsData) => {
-                //////console.log('addPublicSettingsRowsToDatabase function done SUCCES :');
+                console.log('addPublicSettingsRowsToDatabase function done SUCCES :');
                 counter = counter +1;
-                //////console.log('counter 6',counter);
+                console.log('---newcounter er 6',counter);
                 if(counter == 11){
                   //////console.log('11 yes');
                   setIsTwoLoading(false);
@@ -1156,9 +1156,9 @@ await getTodayMealsUnsyncedRows(userId).then((usersPM) => {
 
               });
               addPublicWorkoutsPlanDaysRowsToDatabase(response.data["userPublicWorkoutsPlanDaysData"]).then((userPublicWorkoutsPlanDaysData) => {
-                //////console.log('addPublicWorkoutsPlanDaysRowsToDatabase function done SUCCES :');
+                console.log('addPublicWorkoutsPlanDaysRowsToDatabase function done SUCCES :');
                 counter = counter +1;
-                //////console.log('counter 7',counter);
+                console.log('---newcounter er 7',counter);
                 if(counter == 11){
                   //////console.log('11 yes');
                   setIsTwoLoading(false);
@@ -1169,9 +1169,9 @@ await getTodayMealsUnsyncedRows(userId).then((usersPM) => {
 
               });
               addPublicWorkoutsPlansRowsToDatabase(response.data["userPublicWorkoutsPlansData"]).then((userPublicWorkoutsPlansData) => {
-                //////console.log('addPublicWorkoutsPlansRowsToDatabase function done SUCCES :');
+                console.log('addPublicWorkoutsPlansRowsToDatabase function done SUCCES :');
                 counter = counter +1;
-                //////console.log('counter 8',counter);
+                console.log('---newcounter er 8',counter);
                 if(counter == 11){
                   //////console.log('11 yes');
                   setIsTwoLoading(false);
@@ -1183,9 +1183,9 @@ await getTodayMealsUnsyncedRows(userId).then((usersPM) => {
               });
 
               addTargetStatsRowsToDatabase(response.data["userTargetStatsData"]).then((userTargetStatsData) => {
-                //////console.log('addTargetStatsRowsToDatabase function done SUCCES :');
+                console.log('addTargetStatsRowsToDatabase function done SUCCES :');
                 counter = counter +1;
-                //////console.log('counter 9',counter);
+                console.log('---newcounter er 9',counter);
                 if(counter == 11){
                   //////console.log('11 yes');
                   setIsTwoLoading(false);
@@ -1196,9 +1196,9 @@ await getTodayMealsUnsyncedRows(userId).then((usersPM) => {
 
               });
               addTodayMealsTableRowsToDatabase(response.data["userTodayMealsData"]).then((userTodayMealsData) => {
-                //////console.log('addTodayMealsTableRowsToDatabase function done SUCCES :');
+                console.log('addTodayMealsTableRowsToDatabase function done SUCCES :');
                 counter = counter +1;
-                //////console.log('counter 10',counter);
+                console.log('---newcounter er 10',counter);
                 if(counter == 11){
                   //////console.log('11 yes');
                   setIsTwoLoading(false);
@@ -1209,11 +1209,11 @@ await getTodayMealsUnsyncedRows(userId).then((usersPM) => {
 
               });
               addWorkoutRowsToDatabase(response.data["userworkoutsData"]).then((userworkoutsData) => {
-                //////console.log('addWorkoutRowsToDatabase function done SUCCES :');
+                console.log('addWorkoutRowsToDatabase function done SUCCES :');
                 counter = counter +1;
-                //////console.log('counter 11',counter);
+                console.log('---newcounter er 11',counter);
                 if(counter == 11){
-                  //////console.log('11 yes');
+                  console.log('11 yes');
                   setIsTwoLoading(false);
                 }
               }).catch((error) => {

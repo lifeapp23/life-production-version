@@ -229,7 +229,7 @@ export function initListOfFoodsTable() {
           'SELECT * FROM ListOfFoodsTable WHERE deleted = ? AND userId = ?',
           ["no", userId],
           (_, { rows }) => {
-            ////console.log('ListOfFoodsTable rows',rows);
+            console.log('ListOfFoodsTable rows',rows);
             // Resolve with the rows fetched from the database
             resolve(rows._array);
           },

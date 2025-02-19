@@ -134,7 +134,7 @@ export const BMIScreen = ({ route, navigation }) => {
         setUnitsChecked(context.stateUser.userPublicSettings.units);
         setAgeCal(context.stateUser.userPublicSettings.age);
         fetchCalculatorsTableLastInsertedRow(storedUser.id,"bmiCal").then(async (calculatorsResults) => {
-          //console.log('calculatorsResults-->',calculatorsResults);
+          console.log('calculatorsResults--> fetchCalculatorsTableLastInsertedRow',calculatorsResults);
           const bodyStatsRow = await fetchbodyStatsAndMeasurementsLastInsertedRow(storedUser.id);
 
           let convertedHeightFromDataBaseWithoutNanFeet = '';
@@ -233,7 +233,7 @@ export const BMIScreen = ({ route, navigation }) => {
           setUnitsChecked(PSettingsResults[0].units);
           setAgeCal(PSettingsResults[0].age);
           fetchCalculatorsTableLastInsertedRow(storedUser.id,"bmiCal").then(async (calculatorsResults) => {
-            //console.log('calculatorsResults-->',calculatorsResults);
+            console.log('calculatorsResults--> fetchPublicSettings',calculatorsResults);
             const bodyStatsRow = await fetchbodyStatsAndMeasurementsLastInsertedRow(storedUser.id);
 
           let convertedHeightFromDataBaseWithoutNanFeet = '';

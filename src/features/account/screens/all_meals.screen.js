@@ -347,10 +347,10 @@ const MemoizedExerciseParentView = React.memo(({ item, navigation, setFilteredDa
                       fetchAlltDaysPredefinedMeals(storedUser.id),
                       fetchAlltDaysListOfFoods(storedUser.id)
                   ]);
-        
+                  
                   // Merge the arrays
                   const mergedResults = [...LOFResults,...PMResults];
-                  //console.log('Updated LOFResults:', LOFResults)
+                  console.log('Updated LOFResults:', LOFResults)
 
                   // Update the state with the merged array
                   // setPredefinedMeals(mergedResults);

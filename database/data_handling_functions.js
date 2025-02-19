@@ -168,12 +168,12 @@ const database = SQLite.openDatabase('health.db');
             tx.executeSql(
             'SELECT * FROM calculatorsTable WHERE userId = ? AND calNam = ? AND date = ?',
             [userId,calNam,date],
-            (_, result) => {
-                console.log('calculatorsTable Row already exists before if result',result);
-                console.log('calculatorsTable Row already exists before if result.rows.length',result.rows.length);
+            (_, result_values) => {
+                console.log('calculatorsTable Row already exists before if result',result_values);
+                console.log('calculatorsTable Row already exists before if result.rows.length',result_values.rows.length);
 
-                if (result.rows.length === 0) {
-                console.log('if (result.rows.length === 0)',result.rows.length );
+                if (result_values.rows.length === 0) {
+                console.log('if (result.rows.length === 0)',result_values.rows.length );
 
                 // Entry doesn't exist, add it to the database
                 tx.executeSql(
@@ -196,7 +196,7 @@ const database = SQLite.openDatabase('health.db');
                 );
                 } else {
                 // Entry already exists, do nothing
-                console.log('calculatorsTable Row already exists in the database-----',result.rows);
+                console.log('calculatorsTable Row already exists in the database-----',result_values.rows);
                 resolve();
                 }
             },
@@ -446,13 +446,13 @@ const database = SQLite.openDatabase('health.db');
     export const addListOfFoodsTableRowsToDatabase = async (dataArray) => {
         const promises = dataArray.map(async (rowData) => {
         const { userId,speKey,Type,Subtyp,foddes,weight,protin,carbs,fats,calris,Satrtd,Plnstd,Munstd,Trans,Sodium,Potsim,Chostl,VtminA,VtminC,Calcim,Iron,images,deleted,isSync } = rowData;
-        //console.log('userId,speKey,Type,Subtyp,foddes,weight,protin,carbs,fats,calris,Satrtd,Plnstd,Munstd,Trans,Sodium,Potsim,Chostl,VtminA,VtminC,Calcim,Iron,images,deleted,isSync',rowData);
+        console.log('addListOfFoodsTableRowsToDatabase userId,speKey,Type,Subtyp,foddes,weight,protin,carbs,fats,calris,Satrtd,Plnstd,Munstd,Trans,Sodium,Potsim,Chostl,VtminA,VtminC,Calcim,Iron,images,deleted,isSync',rowData);
         
         // const setImageSent = (uri) => {
         //     imageSent = uri;
         // };
         let downloadedImage = "";
-        if (images !== null || images !== "") {
+        if (images != null && images !== "") {
             imageName = images.split('images/').pop();
             //console.log('imageName',imageName);
                 // FileSystem.downloadAsync(
@@ -473,7 +473,7 @@ const database = SQLite.openDatabase('health.db');
                 );
                 //console.log('downloadedImage',downloadedImage);
             }
-        //console.log('downloadedImage--',downloadedImage);
+        console.log('afterrrrr downloadedImage--');
 
         return new Promise((resolve, reject) => {
             
@@ -484,7 +484,8 @@ const database = SQLite.openDatabase('health.db');
                 'SELECT * FROM ListOfFoodsTable WHERE userId = ? AND speKey = ?',
             [userId,speKey],
                 (_, result) => {
-                
+                console.log('select ListOfFoodsTable result.rows--',result.rows);
+
                 if (result.rows.length === 0) {
                     // Entry doesn't exist, add it to the database
                     tx.executeSql(
@@ -494,22 +495,22 @@ const database = SQLite.openDatabase('health.db');
                     `,
                         [userId,speKey,Type,Subtyp,foddes,weight,protin,carbs,fats,calris,Satrtd,Plnstd,Munstd,Trans,Sodium,Potsim,Chostl,VtminA,VtminC,Calcim,Iron,downloadedImage.uri,deleted,isSync],
                     (_, insertResult) => {
-                        //console.log('ListOfFoodsTable Row added to the database:', insertResult);
+                        console.log('ListOfFoodsTable Row added to the database:', insertResult);
                         resolve();
                     },
                     (_, insertError) => {
-                        //console.log('Error adding ListOfFoodsTable row to the database:', insertError);
+                        console.log('Error adding ListOfFoodsTable row to the database:', insertError);
                         
                     }
                     );
                 } else {
                     // Entry already exists, do nothing
-                    //console.log('ListOfFoodsTable Row already exists in the database');
+                    console.log('ListOfFoodsTable Row already exists in the database');
                     resolve();
                 }
                 },
                 (_, error) => {
-                //console.log('Error checking database for existing ListOfFoodsTable row:', error);
+                console.log('Error checking database for existing ListOfFoodsTable row:', error);
                 }
             );
             });
@@ -595,32 +596,33 @@ const database = SQLite.openDatabase('health.db');
                 'SELECT * FROM publicWorkoutsPlanDays WHERE userId = ? AND plnKey = ? AND speKey = ? AND wrkKey = ?',
             [userId,plnKey,speKey,wrkKey],
                 (_, result) => {
-                
+                    console.log('publicWorkoutsPlanDays result.rows:', result.rows);
+
                 if (result.rows.length === 0) {
                     // Entry doesn't exist, add it to the database
                     tx.executeSql(
                     `
                         INSERT INTO publicWorkoutsPlanDays (userId, speKey,dayNam, plnKey,wrkSts,wrkKey, wktNam,exrTyp,eqpUsd,witUsd,wktStp,pfgWkt,mjMsOn,mjMsTw,mjMsTr,mnMsOn,mnMsTo,mnMsTr,images, deleted, isSync)
-                        VALUES (?, ?, ?, ?, ?, ?, ?,?,?, ?, ?, ?, ?, ?, ?,?)
+                        VALUES (?, ?, ?, ?, ?, ?, ?,?,?, ?, ?, ?, ?, ?, ?,?,?, ?, ?, ?,?)
                     `,
                         [userId, speKey,dayNam, plnKey,wrkSts,wrkKey, wktNam,exrTyp,eqpUsd,witUsd,wktStp,pfgWkt,mjMsOn,mjMsTw,mjMsTr,mnMsOn,mnMsTo,mnMsTr,images, deleted, isSync],
                     (_, insertResult) => {
-                        //console.log('publicWorkoutsPlanDays Row added to the database:', insertResult);
+                        console.log('publicWorkoutsPlanDays Row added to the database:', insertResult);
                         resolve();
                     },
                     (_, insertError) => {
-                        //console.log('Error adding publicWorkoutsPlanDays row to the database:', insertError);
+                        console.log('Error adding publicWorkoutsPlanDays row to the database:', insertError);
                         
                     }
                     );
                 } else {
                     // Entry already exists, do nothing
-                    //console.log('publicWorkoutsPlanDays Row already exists in the database');
+                    console.log('publicWorkoutsPlanDays Row already exists in the database');
                     resolve();
                 }
                 },
                 (_, error) => {
-                //console.log('Error checking database for existing publicWorkoutsPlanDays row:', error);
+                console.log('Error checking database for existing publicWorkoutsPlanDays row:', error);
                 }
             );
             });
