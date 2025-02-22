@@ -1299,6 +1299,7 @@ return (
                           
                           {Object.keys(workoutWorkedObject[date]).map(dayKey => 
                           {
+                            console.log("workoutWorkedObject?.[date]?.[dayKey]",workoutWorkedObject?.[date]?.[dayKey]);
                           return(
                             <>
                             <DataTableDateTextView>
@@ -1328,7 +1329,7 @@ return (
 
                               return(
                                 <DataTable.Row key={`${item.date}-${item.dayKey}-${item.sets}`}>
-                                <DataTableCellKey><DataTableCellKeyText>{item.sets}</DataTableCellKeyText></DataTableCellKey>
+                                <DataTableCellKey><DataTableCellKeyText>{parseInt(item.sets, 10)}</DataTableCellKeyText></DataTableCellKey>
                                 {workoutArray.exrTyp === 'Cardio' || workoutArray.exrTyp === 'Stability' ? (
                                 <DataTableCellValue><DataTableCellValueText>{item.casTim} {t('Seconds')}</DataTableCellValueText></DataTableCellValue>
                                 ) : workoutArray.exrTyp === '' ? (

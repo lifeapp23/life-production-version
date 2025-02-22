@@ -77,6 +77,39 @@ import { useTranslation } from 'react-i18next';//add this line
  
 import { useDate } from './DateContext'; // Import useDate from the context
 // Define ExerciseParentView as a memoized component
+import {stemmer} from 'stemmer';
+// Helper function to stem and tokenize text
+function tokenizeAndStem(text) {
+  if (!text) return [];
+  return text.toLowerCase()
+    .replace(/[^a-z0-9\s]/g, '')
+    .split(/\s+/)
+    .filter(word => word.length > 0)
+    .map(word => stemmer(word));
+}
+
+// Helper function to calculate search relevance
+function calculateRelevance(itemText, query) {
+  if (!query) return 1; // Return maximum relevance for empty queries
+  
+  const itemTokens = tokenizeAndStem(itemText);
+  const searchTokens = tokenizeAndStem(query);
+  
+  if (searchTokens.length === 0) return 1; // Return maximum relevance for empty tokens
+  
+  let matches = 0;
+  for (const searchToken of searchTokens) {
+    if (itemTokens.some(itemToken => 
+      itemToken.includes(searchToken) || 
+      searchToken.includes(itemToken)
+    )) {
+      matches++;
+    }
+  }
+  
+  return matches / searchTokens.length;
+}
+
 
 const isImageInMemory = async (fileUri) => {
   try {
@@ -505,7 +538,9 @@ const [localImageInMemory, setLocalImageInMemory] = useState(false);
 
         const filterData = () => {
           const filtered = fetchedData.filter((item) => {
-            const nameMatches = item?.wktNam?.toLowerCase().includes(searchQuery?.toLowerCase());
+            // const nameMatches = item?.wktNam?.toLowerCase().includes(searchQuery?.toLowerCase());
+            // Search matching with stemming
+            const nameMatches = !searchQuery || calculateRelevance(item?.wktNam || '', searchQuery) > 0;            
             const equipmentsFilterMatches = displayEquipmentsValue ? item?.eqpUsd === displayEquipmentsValue : true;
 
             const majorMuscleOneFilterMatches = displayMusclesValue ? item?.mjMsOn === displayMusclesValue : true;
@@ -527,6 +562,15 @@ const [localImageInMemory, setLocalImageInMemory] = useState(false);
             return nameMatches && (majorMuscleOneFilterMatches || majorMuscleTwoFilterMatches || majorMuscleThreeFilterMatches) && equipmentsFilterMatches && filterByUserId();
             // Return true if the Workout matches all selected criteria
             });
+             // Sort by relevance if there's a search query
+            // Sort by relevance if there's a search query
+            // if (searchQuery) {
+            //   filtered.sort((a, b) => {
+            //     const relevanceA = calculateRelevance(a?.wktNam || '', searchQuery);
+            //     const relevanceB = calculateRelevance(b?.wktNam || '', searchQuery);
+            //     return relevanceB - relevanceA; // Sort by descending relevance
+            //   });
+            // }
         
             setTotalItems(filtered?.length);
             //console.log('filtered?.length',filtered?.length);

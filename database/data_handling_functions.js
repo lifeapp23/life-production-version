@@ -6,41 +6,65 @@ import React, { useState} from 'react';
 const database = SQLite.openDatabase('health.db');
 
     export const addPlansStartWorkoutRowsToDatabase = (dataArray) => {
+        const cleanValue = (value) => (value === null || value === undefined || typeof value === 'object' ? null : value);
         const promises = dataArray.map((rowData) => {
-        const { userId,plnKey,dayKey,dayName,date,wrkKey,wktNam,sets,weight,reps,casTim,dayTim,isCompleted,timerStarted, deleted, isSync } = rowData;
-    
+        const { userId,plnKey,dayKey,dayNam,date,wrkKey,wktNam,sets,weight,reps,exrTim,exrTyp,casTim,dayTim,isCmpld,timStd,images, deleted, isSync } = rowData;
+       
+        console.log('rowData before if resultOFStartWorkouts:', rowData);
+        console.log("DEBUG: Data types before insertion:", {
+            userId: typeof userId,
+            plnKey: typeof plnKey,
+            dayKey: typeof dayKey,
+            dayNam: typeof dayNam,
+            date: typeof date,
+            wrkKey: typeof wrkKey,
+            wktNam: typeof wktNam,
+            sets: typeof sets,
+            weight: typeof weight,
+            reps: typeof reps,
+            exrTim: typeof exrTim,
+            exrTyp: typeof exrTyp,
+            casTim: typeof casTim,
+            dayTim: typeof dayTim,
+            isCmpld: typeof isCmpld,
+            timStd:typeof timStd,
+            images:typeof images,
+            deleted :typeof deleted,
+            isSync:typeof isSync,
+            
+        });
         return new Promise((resolve, reject) => {
             database.transaction((tx) => {
             tx.executeSql(
-                'SELECT * FROM startWorkoutTable WHERE userId = ? AND plnKey = ? AND dayKey = ? AND wrkKey = ?',
-            [userId,plnKey,dayKey,wrkKey],
-                (_, result) => {
-                
-                if (result.rows.length === 0) {
+                'SELECT * FROM startWorkoutTable WHERE userId = ? AND plnKey = ? AND dayKey = ? AND wrkKey = ? AND sets = ?',
+            [userId,plnKey,dayKey,wrkKey,sets],
+                (_, resultOFStartWorkouts) => {
+                console.log('before if resultOFStartWorkouts?.rows?._array:', resultOFStartWorkouts?.rows?._array);
+                if (resultOFStartWorkouts.rows.length === 0) {
                     // Entry doesn't exist, add it to the database
                     tx.executeSql(
                     `
-                INSERT INTO startWorkoutTable (userId,plnKey,dayKey,dayNam,date,wrkKey,wktNam,sets,weight,reps,casTim,dayTim,isCmpld,timStd, deleted, isSync)
-                VALUES (?, ?, ?, ?, ?, ?, ?,?,?, ?, ?, ?, ?, ?, ?,?)
+                INSERT INTO startWorkoutTable (userId,plnKey,dayKey,dayNam,date,wrkKey,wktNam,sets,weight,reps,exrTim,exrTyp,casTim,dayTim,isCmpld,timStd,images, deleted, isSync)
+                VALUES (?, ?, ?, ?, ?, ?, ?,?,?, ?, ?, ?, ?, ?, ?,?,?,?,?)
             `,
-                [userId,plnKey,dayKey,dayName,date,wrkKey,wktNam,sets,weight,reps,casTim,dayTim,isCompleted,timerStarted, deleted, isSync],
+                [cleanValue(userId),cleanValue(plnKey),cleanValue(dayKey),cleanValue(dayNam),cleanValue(date),cleanValue(wrkKey),cleanValue(wktNam),cleanValue(sets),cleanValue(weight),cleanValue(reps),cleanValue(exrTim),cleanValue(exrTyp),cleanValue(casTim),cleanValue(dayTim),cleanValue(isCmpld),cleanValue(timStd),cleanValue(images),cleanValue(deleted),cleanValue(isSync)],
                     (_, insertResult) => {
-                        //console.log('Meal Row added to the database:', insertResult);
+                        console.log('StartWorkoutRow Row added to the database:', insertResult);
                         resolve();
                     },
                     (_, insertError) => {
-                        //console.log('Error adding Meal row to the database:', insertError);
+                        console.log('Error adding StartWorkoutRow row to the database:', insertError);
                         
                     }
                     );
                 } else {
                     // Entry already exists, do nothing
-                    //console.log('Meal Row already exists in the database');
+                    console.log('StartWorkoutRow Row already exists in the database');
                     resolve();
                 }
                 },
                 (_, error) => {
-                //console.log('Error checking database for existing Meal row:', error);
+                console.log('Error checking database for existing StartWorkoutRow row:', error);
                 }
             );
             });
@@ -125,43 +149,43 @@ const database = SQLite.openDatabase('health.db');
         const cleanValue = (value) => (value === null || value === undefined || typeof value === 'object' ? null : value);
 
     const promises = dataArray.map((rowData) => {
-        console.log('calculatorsTable Top rowData',rowData);
+        // console.log('calculatorsTable Top rowData',rowData);
         
         const { userId,date,calNam,methds,sFMthd,age,height,weight,neck,torso,hips,chest,sprlic,tricep,thigh,abdmen,axilla,subcpl,workot,target,ditTyp,result,bFPctg,bFMass,lBMass,calris,protin,fats,carbs,isSync} = rowData;
-        console.log('calculatorsTable Top userId,calNam,date',userId,calNam,date);
-        console.log("DEBUG: Data types before insertion:", {
-            userId: typeof userId,
-            date: typeof date,
-            calNam: typeof calNam,
-            methds: typeof methds,
-            sFMthd: typeof sFMthd,
-            age: typeof age,
-            height: typeof height,
-            weight: typeof weight,
-            neck: typeof neck,
-            torso: typeof torso,
-            hips: typeof hips,
-            chest: typeof chest,
-            sprlic: typeof sprlic,
-            tricep:typeof tricep,
-            thigh :typeof thigh,
-            abdmen:typeof abdmen,
-            axilla:typeof axilla,
-            subcpl:typeof subcpl,
-            workot:typeof workot,
-            target:typeof target,
-            ditTyp:typeof ditTyp,
-            result:typeof result,
-            bFPctg:typeof bFPctg,
-            bFMass:typeof bFMass,
-            lBMass:typeof lBMass,
-            calris:typeof calris,
-            protin:typeof protin,
-            fats  :typeof fats,
-            carbs :typeof carbs,
-            isSync:typeof isSync,
+        // console.log('calculatorsTable Top userId,calNam,date',userId,calNam,date);
+        // console.log("DEBUG: Data types before insertion:", {
+        //     userId: typeof userId,
+        //     date: typeof date,
+        //     calNam: typeof calNam,
+        //     methds: typeof methds,
+        //     sFMthd: typeof sFMthd,
+        //     age: typeof age,
+        //     height: typeof height,
+        //     weight: typeof weight,
+        //     neck: typeof neck,
+        //     torso: typeof torso,
+        //     hips: typeof hips,
+        //     chest: typeof chest,
+        //     sprlic: typeof sprlic,
+        //     tricep:typeof tricep,
+        //     thigh :typeof thigh,
+        //     abdmen:typeof abdmen,
+        //     axilla:typeof axilla,
+        //     subcpl:typeof subcpl,
+        //     workot:typeof workot,
+        //     target:typeof target,
+        //     ditTyp:typeof ditTyp,
+        //     result:typeof result,
+        //     bFPctg:typeof bFPctg,
+        //     bFMass:typeof bFMass,
+        //     lBMass:typeof lBMass,
+        //     calris:typeof calris,
+        //     protin:typeof protin,
+        //     fats  :typeof fats,
+        //     carbs :typeof carbs,
+        //     isSync:typeof isSync,
             
-        });
+        // });
           
         return new Promise((resolve, reject) => {
         database.transaction((tx) => {
@@ -169,11 +193,11 @@ const database = SQLite.openDatabase('health.db');
             'SELECT * FROM calculatorsTable WHERE userId = ? AND calNam = ? AND date = ?',
             [userId,calNam,date],
             (_, result_values) => {
-                console.log('calculatorsTable Row already exists before if result',result_values);
-                console.log('calculatorsTable Row already exists before if result.rows.length',result_values.rows.length);
+                // console.log('calculatorsTable  if result_values',result_values);
+                // console.log('calculatorsTable before if result_values.rows.length',result_values.rows.length);
 
                 if (result_values.rows.length === 0) {
-                console.log('if (result.rows.length === 0)',result_values.rows.length );
+                // console.log('if (result.rows.length === 0)',result_values.rows.length );
 
                 // Entry doesn't exist, add it to the database
                 tx.executeSql(
@@ -186,22 +210,22 @@ const database = SQLite.openDatabase('health.db');
                         cleanValue(lBMass), cleanValue(calris), cleanValue(protin), cleanValue(fats), cleanValue(carbs), cleanValue(isSync)
                     ],
                     (_, insertResult) => {
-                    console.log('calculatorsTable Row added to the database:', insertResult);
+                    // console.log('calculatorsTable Row added to the database:', insertResult);
                     resolve();
                     },
                     (_, insertError) => {
-                    console.log('Error adding calculatorsTable row to the database:', insertError);
+                    // console.log('Error adding calculatorsTable row to the database:', insertError);
                     
                     }
                 );
                 } else {
                 // Entry already exists, do nothing
-                console.log('calculatorsTable Row already exists in the database-----',result_values.rows);
+                // console.log('calculatorsTable Row already exists in the database-----',result_values.rows);
                 resolve();
                 }
             },
             (_, error) => {
-                console.log('Error checking database for existing calculatorsTable row:', error);
+                // console.log('Error checking database for existing calculatorsTable row:', error);
             }
             );
         });
