@@ -296,7 +296,21 @@ export const LoginScreen = ({ navigation }) => {
 
 const handleGoogleSignIn = async () => { 
   // const redirectUrl = 'myapp://redirect'; // Make sure this matches your app scheme
+ // Disable browser default behavior
+ WebBrowser.maybeCompleteAuthSession({ shouldEscapeRedirect: true });
 
+ // Custom redirect URI that matches your app's scheme
+//  const redirectUri = Linking.createURL('redirect');
+
+//  // Open authentication session with specific configuration
+//  const result = await WebBrowser.openAuthSessionAsync(
+//    `https://life-pf.com/api/auth/google/redirect?redirect_uri=${encodeURIComponent(redirectUri)}`, 
+//    redirectUri,
+//    {
+//      showInRecents: false,
+//      ephemeralWebSession: true
+//    }
+//  );
   let result = await WebBrowser.openAuthSessionAsync('https://life-pf.com/api/auth/google/redirect', redirectTo); 
   //console.log('result--handleGoogleSignIn',result);
   if (result.type === 'success') {
