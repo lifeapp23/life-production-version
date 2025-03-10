@@ -281,7 +281,7 @@ export function checkTodayMeals(userId,dayKey,navigation,publicMealsPlanDayArr){
       (_, { rows }) => {
         if (rows.length > 0) {
           // Meals exist for today's date
-          alert('You can only make one workout per day.Open the Calendar to see finished Meals');
+          alert('You can only make one meal per day.Open the Calendar to see finished Meals');
         } else {
           // No Meals for today's date, check for other dates with the same dayKey
           tx.executeSql(
