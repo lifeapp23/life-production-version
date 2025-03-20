@@ -490,7 +490,35 @@ As an individual person: Your name, place of residence, qualifications, mobile n
                                   fontFamily:'OpenSans_400Regular'}}><Text style={{fontWeight: "bold", color:'#000',
                                     fontFamily:'OpenSans_400Regular'}}>Element</Text> is a platform that offers a variety of services to both individuals and entities, as outlined below:</Text>
                                
-                               
+                               <Text style={{fontSize: 16,
+                                  marginBottom: 15,
+                                  lineHeight: 22,
+                                  textAlign:'left',
+                                  color:'#000',
+                                  fontFamily:'OpenSans_400Regular'}}>The liability of <Text style={{fontWeight: "bold", color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>“Element”</Text> is limited to assisting trainees in finding trainers, without assuming any responsibility for evaluating these candidatestrainers, their suitability for the trainees' needs, or conducting any interviews with them.</Text>
+                                <Text style={{fontSize: 16,
+                                  marginBottom: 15,
+                                  lineHeight: 22,
+                                  textAlign:'left',
+                                  color:'#000',
+                                  fontFamily:'OpenSans_400Regular'}}>Accordingly, you acknowledge and agree that the full responsibility lies with you in assessing the suitability of the trainers and ensuring that the services provided meet your expectations and align with your requirements. <Text style={{fontWeight: "bold", color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>“Element”</Text> shall not be held liable for any outcomes resulting from your selection of trainers.</Text>
+                               <Text style={{fontSize: 16,
+                                  marginBottom: 15,
+                                  lineHeight: 22,
+                                  textAlign:'left',
+                                  color:'#000',
+                                  fontFamily:'OpenSans_400Regular'}}><Text style={{fontWeight: "bold", color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>Collecting data from users to assist them in finding suitable trainers to meet their needs:</Text></Text>
+                               <Text style={{fontSize: 16,
+                                  marginBottom: 15,
+                                  lineHeight: 22,
+                                  textAlign:'left',
+                                  color:'#000',
+                                  fontFamily:'OpenSans_400Regular'}}>The liability of <Text style={{fontWeight: "bold", color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>“Element”</Text> is limited to collecting data from users seeking trainers, with the aim of assisting them in finding a trainer that suits their needs. <Text style={{fontWeight: "bold", color:'#000',
+                                      fontFamily:'OpenSans_400Regular'}}>“Element”</Text> shall not be held responsible for the accuracy or completeness of the data provided by the trainees or the trainers using the platform, nor for the competence or ability of trainers to deliver the services offered to trainees.</Text>
                                 </>
                                     ):(
                                       <>
@@ -567,7 +595,36 @@ As an individual person: Your name, place of residence, qualifications, mobile n
                                   color:'#000',
                                   fontFamily:'OpenSans_400Regular'}}><Text style={{fontWeight: "bold", color:'#000',
                                     fontFamily:'OpenSans_400Regular'}}>اليمنت </Text>هي منصة تقدم العديد من الخدمات للأشخاص الطبيعية والاعتبارية، ومتخصصة في المجالات الرياضية وتكون تلك الخدمات على النحو الاتي:</Text>
-                                          
+                                <Text style={{fontSize: 16,
+                                  marginBottom: 15,
+                                  lineHeight: 22,
+                                  textAlign:'right',
+                                  color:'#000',
+                                  fontFamily:'OpenSans_400Regular'}}>تقتصر مسؤولية <Text style={{fontWeight: "bold", color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>"اليمنت"</Text> على تقديم المساعدة للمتدربين في العثور على المدربين المناسبين، دون أن تتحمل أي مسؤولية عن تقييم هؤلاء المرشحين أو مدى ملاءمتهم لاحتياجات المتدربين، أو إجراء أي مقابلات معهم.</Text>
+                                 <Text style={{fontSize: 16,
+                                  marginBottom: 15,
+                                  lineHeight: 22,
+                                  textAlign:'right',
+                                  color:'#000',
+                                  fontFamily:'OpenSans_400Regular'}}>وبناءً على ذلك، فإنك تقر وتوافق على أن المسؤولية الكاملة تقع على عاتقك في تقييم مدى توافق المرشحين والتأكد من أن الخدمات المقدمة تلبي توقعاتكم وتتوافق مع متطلباتكم، ولا تتحمل <Text style={{fontWeight: "bold", color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>"اليمنت"</Text> أي مسؤولية عن أي نتائج مترتبة على اختيارك للمرشحين.</Text>
+                                   <Text style={{fontSize: 16,
+                                  marginBottom: 15,
+                                  lineHeight: 22,
+                                  textAlign:'right',
+                                  color:'#000',
+                                  fontFamily:'OpenSans_400Regular'}}><Text style={{fontWeight: "bold", color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>جمع البيانات من المستخدمين لمساعدتهم في العثور على مدربين مناسبين لتلبية احتياجاتهم:</Text></Text>
+                                    <Text style={{fontSize: 16,
+                                  marginBottom: 15,
+                                  lineHeight: 22,
+                                  textAlign:'right',
+                                  color:'#000',
+                                  fontFamily:'OpenSans_400Regular'}}>تقتصر مسؤولية <Text style={{fontWeight: "bold", color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>"اليمنت"</Text> على جمع البيانات من المستخدمين الباحثين عن مدربين بهدف مساعدتهم في العثور على مدرب يناسب احتياجاتهم. ولا تتحمل <Text style={{fontWeight: "bold", color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>"اليمنت"</Text> أي مسؤولية عن دقة أو اكتمال البيانات المقدمة من المتدربين او المدربين مستخدمي المنصة او مدي كفاءة وقدرته المدربين علي تنفيذ الخدمات المعروضة علي المتدربين.</Text>
+                                                                             
                                                                                                           
                                                                        
 
