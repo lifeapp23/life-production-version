@@ -505,7 +505,7 @@ As an individual person: Your name, place of residence, qualifications, mobile n
                                   fontFamily:'OpenSans_400Regular'}}>Accordingly, you acknowledge and agree that the full responsibility lies with you in assessing the suitability of the trainers and ensuring that the services provided meet your expectations and align with your requirements. <Text style={{fontWeight: "bold", color:'#000',
                                     fontFamily:'OpenSans_400Regular'}}>“Element”</Text> shall not be held liable for any outcomes resulting from your selection of trainers.</Text>
                                <Text style={{fontSize: 16,
-                                  marginBottom: 15,
+                                  marginBottom: 5,
                                   lineHeight: 22,
                                   textAlign:'left',
                                   color:'#000',
@@ -519,6 +519,71 @@ As an individual person: Your name, place of residence, qualifications, mobile n
                                   fontFamily:'OpenSans_400Regular'}}>The liability of <Text style={{fontWeight: "bold", color:'#000',
                                     fontFamily:'OpenSans_400Regular'}}>“Element”</Text> is limited to collecting data from users seeking trainers, with the aim of assisting them in finding a trainer that suits their needs. <Text style={{fontWeight: "bold", color:'#000',
                                       fontFamily:'OpenSans_400Regular'}}>“Element”</Text> shall not be held responsible for the accuracy or completeness of the data provided by the trainees or the trainers using the platform, nor for the competence or ability of trainers to deliver the services offered to trainees.</Text>
+                               <Text style={{fontSize: 16,
+                                  marginBottom: 15,
+                                  lineHeight: 22,
+                                  textAlign:'left',
+                                  color:'#000',
+                                  fontFamily:'OpenSans_400Regular'}}>Accordingly, you acknowledge and agree that <Text style={{fontWeight: "bold", color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>“Element”</Text> shall not be held liable for any results or consequences arising from the use of the provided data or services advertised by the trainers.</Text>
+                               
+                               <Text style={{fontSize: 16,
+                                  marginBottom: 5,
+                                  lineHeight: 22,
+                                  textAlign:'left',
+                                  color:'#000',
+                                  fontFamily:'OpenSans_400Regular'}}><Text style={{fontWeight: "bold", color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>"Element" provides trainers with the opportunity to engage with trainees on the platform:</Text></Text>
+                               
+                               <Text style={{fontSize: 16,
+                                  marginBottom: 15,
+                                  lineHeight: 22,
+                                  textAlign:'left',
+                                  color:'#000',
+                                  fontFamily:'OpenSans_400Regular'}}><Text style={{fontWeight: "bold", color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>“Element”</Text> provides trainers with the opportunity to engage with platform users who are seeking to benefit from the services offered by the trainers.</Text>
+                                <Text style={{fontSize: 16,
+                                  marginBottom: 15,
+                                  lineHeight: 22,
+                                  textAlign:'left',
+                                  color:'#000',
+                                  fontFamily:'OpenSans_400Regular'}}>Accordingly, you acknowledge and agree that <Text style={{fontWeight: "bold", color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>“Element”</Text> shall not be held liable for any outcomes or disputes arising from the use of the provided data or the relationship between trainees and trainers.</Text>
+                                <Text style={{fontSize: 16,
+                                  marginBottom: 5,
+                                  lineHeight: 22,
+                                  textAlign:'left',
+                                  color:'#000',
+                                  fontFamily:'OpenSans_400Regular'}}><Text style={{fontWeight: "bold", color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>Use of the Electronic Platform:</Text></Text>
+                               <Text style={{fontSize: 16,
+                                  marginBottom: 15,
+                                  lineHeight: 22,
+                                  textAlign:'left',
+                                  color:'#000',
+                                  fontFamily:'OpenSans_400Regular'}}>In consideration of the user's commitment to these terms and conditions, <Text style={{fontWeight: "bold", color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>“Element”</Text> grants the user a limited, non-exclusive, non-transferable, revocable license for the following:</Text>
+                                <Text style={{fontSize: 16,
+                                  marginBottom: 5,
+                                  lineHeight: 22,
+                                  textAlign:'left',
+                                  color:'#000',
+                                  fontFamily:'OpenSans_400Regular'}}><Text style={{fontWeight: "bold", color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>Accessing and using the services in connection with the provision of services only.</Text></Text>
+                                  <Text style={{fontSize: 16,
+                                  marginBottom: 5,
+                                  lineHeight: 22,
+                                  textAlign:'left',
+                                  color:'#000',
+                                  fontFamily:'OpenSans_400Regular'}}><Text style={{fontWeight: "bold", color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>Accessing any content and using it, as well as any information and related materials that may be available through the services.</Text></Text>
+                                <Text style={{fontSize: 16,
+                                  marginBottom: 15,
+                                  lineHeight: 22,
+                                  textAlign:'left',
+                                  color:'#000',
+                                  fontFamily:'OpenSans_400Regular'}}>It is understood that any right not expressly granted in these terms is reserved by <Text style={{fontWeight: "bold", color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>“Element”</Text>, and such rights may be revoked or terminated at any time without prior notice to the user.</Text>
                                 </>
                                     ):(
                                       <>
@@ -610,7 +675,7 @@ As an individual person: Your name, place of residence, qualifications, mobile n
                                   fontFamily:'OpenSans_400Regular'}}>وبناءً على ذلك، فإنك تقر وتوافق على أن المسؤولية الكاملة تقع على عاتقك في تقييم مدى توافق المرشحين والتأكد من أن الخدمات المقدمة تلبي توقعاتكم وتتوافق مع متطلباتكم، ولا تتحمل <Text style={{fontWeight: "bold", color:'#000',
                                     fontFamily:'OpenSans_400Regular'}}>"اليمنت"</Text> أي مسؤولية عن أي نتائج مترتبة على اختيارك للمرشحين.</Text>
                                    <Text style={{fontSize: 16,
-                                  marginBottom: 15,
+                                  marginBottom: 5,
                                   lineHeight: 22,
                                   textAlign:'right',
                                   color:'#000',
@@ -624,11 +689,69 @@ As an individual person: Your name, place of residence, qualifications, mobile n
                                   fontFamily:'OpenSans_400Regular'}}>تقتصر مسؤولية <Text style={{fontWeight: "bold", color:'#000',
                                     fontFamily:'OpenSans_400Regular'}}>"اليمنت"</Text> على جمع البيانات من المستخدمين الباحثين عن مدربين بهدف مساعدتهم في العثور على مدرب يناسب احتياجاتهم. ولا تتحمل <Text style={{fontWeight: "bold", color:'#000',
                                     fontFamily:'OpenSans_400Regular'}}>"اليمنت"</Text> أي مسؤولية عن دقة أو اكتمال البيانات المقدمة من المتدربين او المدربين مستخدمي المنصة او مدي كفاءة وقدرته المدربين علي تنفيذ الخدمات المعروضة علي المتدربين.</Text>
-                                                                             
-                                                                                                          
-                                                                       
-
-
+                                 <Text style={{fontSize: 16,
+                                  marginBottom: 15,
+                                  lineHeight: 22,
+                                  textAlign:'right',
+                                  color:'#000',
+                                  fontFamily:'OpenSans_400Regular'}}>وبناءً على ذلك، فإنك تقر وتوافق على أن <Text style={{fontWeight: "bold", color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>"اليمنت"</Text> ليست مسؤولة عن أي نتائج أو تبعات قد تنشأ عن استخدام البيانات المقدمة أو الخدمات المعلن عنها من المدربين.</Text>
+                                  <Text style={{fontSize: 16,
+                                  marginBottom: 5,
+                                  lineHeight: 22,
+                                  textAlign:'right',
+                                  color:'#000',
+                                  fontFamily:'OpenSans_400Regular'}}><Text style={{fontWeight: "bold", color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>تتيح اليمنت للمدربين الفرصة الاستفادة من مستخدمي المنصة من المتدربين:</Text></Text>                                                        
+                                <Text style={{fontSize: 16,
+                                  marginBottom: 15,
+                                  lineHeight: 22,
+                                  textAlign:'right',
+                                  color:'#000',
+                                  fontFamily:'OpenSans_400Regular'}}>تتيح <Text style={{fontWeight: "bold", color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>"اليمنت"</Text> للمدربين الفرصة الاستفادة من المتدربين مستخدمي المنصة و الراغبين في الاستفادة من الخدمات التي يقدمها المدربين، وتكون مسؤولية اليمنت محدودة فقط في تسهيل الوصول إلى هؤلاء المتدربين المحتملين.</Text>                                                                          
+                               <Text style={{fontSize: 16,
+                                  marginBottom: 15,
+                                  lineHeight: 22,
+                                  textAlign:'right',
+                                  color:'#000',
+                                  fontFamily:'OpenSans_400Regular'}}>وبناءً على ذلك، فإنك تقر وتوافق على أن <Text style={{fontWeight: "bold", color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>"اليمنت"</Text> ليست مسؤولة عن أي نتائج أو نزاعات قد تنشأ عن استخدام البيانات المقدمة أو العلاقة بين المتدربين و المدربين .</Text>                                                                          
+                                 <Text style={{fontSize: 16,
+                                  marginBottom: 5,
+                                  lineHeight: 22,
+                                  textAlign:'right',
+                                  color:'#000',
+                                  fontFamily:'OpenSans_400Regular'}}><Text style={{fontWeight: "bold", color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>استخدام المنصة الالكترونية:</Text></Text>                                                                                                       
+                                <Text style={{fontSize: 16,
+                                  marginBottom: 15,
+                                  lineHeight: 22,
+                                  textAlign:'right',
+                                  color:'#000',
+                                  fontFamily:'OpenSans_400Regular'}}>نظير التزام المستخدم بالشروط والأحكام الماثلة، تمنح <Text style={{fontWeight: "bold", color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>"اليمنت"</Text> إلى المستخدم ترخيصًا محدودا وغير حصري ولا يجوز منحه من الباطن وغير قابل للإلغاء أو الإبطال، بل وغير قابل للحوالة أو النقل فيما يتعلق بما يلي:</Text>
+                                <Text style={{fontSize: 16,
+                                  marginBottom: 5,
+                                  lineHeight: 22,
+                                  textAlign:'right',
+                                  color:'#000',
+                                  fontFamily:'OpenSans_400Regular'}}><Text style={{fontWeight: "bold", color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>الدخول على الخدمات واستخدامها فيما يتعلق بعملية تقديم الخدمات وحسب.</Text></Text>                                                                                                       
+                                <Text style={{fontSize: 16,
+                                  marginBottom: 5,
+                                  lineHeight: 22,
+                                  textAlign:'right',
+                                  color:'#000',
+                                  fontFamily:'OpenSans_400Regular'}}><Text style={{fontWeight: "bold", color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>الدخول على أي محتوى واستخدامه وكذا أية معلومات وما يرتبط بها من مواد قد تتوفر من خلال الخدمات.</Text></Text>                                                                                                       
+                              <Text style={{fontSize: 16,
+                                  marginBottom: 15,
+                                  lineHeight: 22,
+                                  textAlign:'right',
+                                  color:'#000',
+                                  fontFamily:'OpenSans_400Regular'}}>علما بأن أي حق لم يتم منحه على نحو صريح في هذه الشروط هو حق محفوظ <Text style={{fontWeight: "bold", color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>"اليمنت"</Text>، بل ويجوز إلغاؤه أو إبطاله في أي حين، بل ودونما أي إخطارٍ بذلك إلى المستخدم.</Text>
                               </> 
 
                               )
