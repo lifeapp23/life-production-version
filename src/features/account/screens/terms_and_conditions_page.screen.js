@@ -584,6 +584,84 @@ As an individual person: Your name, place of residence, qualifications, mobile n
                                   color:'#000',
                                   fontFamily:'OpenSans_400Regular'}}>It is understood that any right not expressly granted in these terms is reserved by <Text style={{fontWeight: "bold", color:'#000',
                                     fontFamily:'OpenSans_400Regular'}}>“Element”</Text>, and such rights may be revoked or terminated at any time without prior notice to the user.</Text>
+                                <Text style={{fontSize: 16,
+                                  marginBottom: 15,
+                                  lineHeight: 22,
+                                  textAlign:'left',
+                                  color:'#000',
+                                  fontFamily:'OpenSans_400Regular'}}>Users are prohibited from using any trademark or intellectual property rights owned by <Text style={{fontWeight: "bold", color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>“Element”</Text>, from any part of the services. They are also prohibited from reproducing, modifying, creating derivative works, publishing, distributing, transmitting, displaying, broadcasting, or otherwise exploiting the services unless permitted or expressly authorized in writing by <Text style={{fontWeight: "bold", color:'#000',
+                                      fontFamily:'OpenSans_400Regular'}}>“Element”</Text> Furthermore, users may not disassemble, reverse-engineer, or reconfigure any part of the services or link any part of the services to any reverse system. Copying, framing, launching any programs or scripts for scraping, indexing, scanning, or extracting data from the services in any other way, or burdening or hindering the operation of any aspect of the services, or attempting unauthorized access to the services, or impairing any aspect of the services or the associated systems or networks is also prohibited.</Text>
+                                <Text style={{fontSize: 16,
+                                  marginBottom: 15,
+                                  lineHeight: 22,
+                                  textAlign:'left',
+                                  color:'#000',
+                                  fontFamily:'OpenSans_400Regular'}}>Users are not allowed to publish any of the following on any part of the electronic platform (as determined at our sole discretion):Any advertisements for solicitation, Any promotional material, Use of offensive language or materials that are obscene or contain insults or cultural or religious transgressions, Any politically critical content, Materials that could pose a threat to public interest or national security, Content that may cause harm to reputation, defamation, or any other content that may be offensive or obscene.</Text>
+                                <Text style={{fontSize: 16,
+                                  marginBottom: 15,
+                                  lineHeight: 22,
+                                  textAlign:'left',
+                                  color:'#000',
+                                  fontFamily:'OpenSans_400Regular'}}>It is strictly prohibited to copy, transfer, reproduce, duplicate, publish, or redistribute (a) the content or any part thereof and/or (b) the services in general without obtaining prior written permission from <Text style={{fontWeight: "bold", color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>“Element”</Text> To request permission, please direct your request to: (ElementDevelops@gmail.com)</Text>
+                              <Text style={{fontSize: 16,
+                                  marginBottom: 5,
+                                  lineHeight: 22,
+                                  textAlign:'left',
+                                  color:'#000',
+                                  fontFamily:'OpenSans_400Regular'}}><Text style={{fontWeight: "bold", color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>Electronic Communication:</Text></Text>
+                               <Text style={{fontSize: 16,
+                                  marginBottom: 10,
+                                  lineHeight: 22,
+                                  textAlign:'left',
+                                  color:'#000',
+                                  fontFamily:'OpenSans_400Regular'}}>When creating an account, you agree to communicate with us electronically. Therefore, you consent to receive periodic messages from us. <Text style={{fontWeight: "bold", color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>“Element”</Text> will communicate with you via email, calls, and may also send you information through text messages, as well as publish notifications on the electronic platform as part of the regular business management associated with your use of the services. You acknowledge that your choice not to use the mentioned electronic communication methods may affect your ability to use the services.</Text>
+                                <Text style={{fontSize: 16,
+                                  marginBottom: 10,
+                                  lineHeight: 22,
+                                  textAlign:'left',
+                                  color:'#000',
+                                  fontFamily:'OpenSans_400Regular'}}>You also agree that all agreements, notices, disclosures, and other communications that we provide to you electronically shall satisfy any legal requirement that such communications be in writing.</Text>
+                                <Text style={{fontSize: 16,
+                                  marginBottom: 15,
+                                  lineHeight: 22,
+                                  textAlign:'left',
+                                  color:'#000',
+                                  fontFamily:'OpenSans_400Regular'}}><Text style={{fontWeight: "bold", color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>“Element”</Text> will request your consent during the registration process to send you emails or promotional notifications related to the electronic platform and its services.</Text>
+                              <Text style={{fontSize: 16,
+                                  marginBottom: 5,
+                                  lineHeight: 22,
+                                  textAlign:'left',
+                                  color:'#000',
+                                  fontFamily:'OpenSans_400Regular'}}><Text style={{fontWeight: "bold", color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>Payments:</Text></Text>
+                               <Text style={{fontSize: 16,
+                                  marginBottom: 10,
+                                  lineHeight: 22,
+                                  textAlign:'left',
+                                  color:'#000',
+                                  fontFamily:'OpenSans_400Regular'}}><Text style={{fontWeight: "bold", color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>“Element”</Text> offers its services according to several packages tailored for each service area, Some of Tthese services are provided to users free of charge, others are charged when subscribing to a trainer</Text>
+                            <Text style={{fontSize: 16,
+                                  marginBottom: 10,
+                                  lineHeight: 22,
+                                  textAlign:'left',
+                                  color:'#000',
+                                  fontFamily:'OpenSans_400Regular'}}><Text style={{fontWeight: "bold", color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>“Element”</Text> grants trainers the right to collect payment for the services provided within a period ranging from 7 to 14 days, pursuant to a request submitted in advance via the electronic platform.</Text>
+                            <Text style={{fontSize: 16,
+                                  marginBottom: 10,
+                                  lineHeight: 22,
+                                  textAlign:'left',
+                                  color:'#000',
+                                  fontFamily:'OpenSans_400Regular'}}>To know about the available package prices, users can refer to the personal trainer search section on the platform </Text>
+
+
+
                                 </>
                                     ):(
                                       <>
@@ -752,6 +830,85 @@ As an individual person: Your name, place of residence, qualifications, mobile n
                                   color:'#000',
                                   fontFamily:'OpenSans_400Regular'}}>علما بأن أي حق لم يتم منحه على نحو صريح في هذه الشروط هو حق محفوظ <Text style={{fontWeight: "bold", color:'#000',
                                     fontFamily:'OpenSans_400Regular'}}>"اليمنت"</Text>، بل ويجوز إلغاؤه أو إبطاله في أي حين، بل ودونما أي إخطارٍ بذلك إلى المستخدم.</Text>
+                              <Text style={{fontSize: 16,
+                                  marginBottom: 15,
+                                  lineHeight: 22,
+                                  textAlign:'right',
+                                  color:'#000',
+                                  fontFamily:'OpenSans_400Regular'}}>ويحظر على المستخدم استخدام أية علامة تجارية أو أي حقوق ملكية فكرية تخص <Text style={{fontWeight: "bold", color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>"اليمنت"</Text> ، وذلك من أي جزء من الخدمات، كما يحظر عليه إعادة إنتاج الخدمات أو تعديلها أو إجراء أية عملية إعداد أو نشر أو تنفيذ أو إرسال أو عرض أو بث أو غير ذلك من وسائل استغلال الخدمات، هذا ما لم تسمح <Text style={{fontWeight: "bold", color:'#000',
+                                      fontFamily:'OpenSans_400Regular'}}>"اليمنت"</Text> بذلك أو يأذن صراحة بذلك كتابة، كما لا يجوز إجراء أعمال تفكيك لنظام الخدمات أو إجراء أي هندسة عكسية أو إعادة تشكيل لها، أو القيام بربط أي جزء من الخدمات بأي نظام عاكس كما لا يجوز نسخ أو تأطير أي جزء من الخدمات أو إطلاق أي برامج أو نصوص برمجية لغرض كشط، أو فهرسة، أو إجراء مسح، أو استخراج البيانات من الخدمات بأي طريقة أخرى، أو إثقال كاهل أو إعاقة تشغيل أي جانب من جوانب الخدمات، أو محاولة الدخول على الخدمات غير المصرح به أو إضعاف أي جانب من جوانب الخدمات أو الأنظمة او الشبكات المرتبطة بها.</Text>
+                              <Text style={{fontSize: 16,
+                                  marginBottom: 15,
+                                  lineHeight: 22,
+                                  textAlign:'right',
+                                  color:'#000',
+                                  fontFamily:'OpenSans_400Regular'}}>ولا يجوز للمستخدم القيام في أي موضع آخر بالمنصة الالكترونية الإلكتروني (وذلك حسبما يتقرر وحسب مطلق اختيارنا) بأية عملية نشر للآتي: أية دعاية لغرض الاستقطاب، أو أية إعلانات، أو استخدام لغة مبتذلة، أو مواد تشوبها البذاءة أو تحتوي على سباب أو تجاوزات من الناحية الثقافية أو الدينية أو أي محتوى سياسي نقدي أو مواد من شأنها إحداث تهديد للصالح العام أو الأمن القومي أو التسبب في إساءة السمعة، أو القذف، أو التشهير، أو أي محتوى آخر قد تشوبه الإهانة أو البذاءة.</Text>
+                              <Text style={{fontSize: 16,
+                                  marginBottom: 15,
+                                  lineHeight: 22,
+                                  textAlign:'right',
+                                  color:'#000',
+                                  fontFamily:'OpenSans_400Regular'}}>يحظر تماما نسخ، أو نقل، أو إعادة إنتاج، أو تكرار، أو نشر، أو إعادة توزيع (أ) المحتوى أو أي جزء منه و/أو (ب) الخدمات بشكل عام دون الحصول على إذن كتابي مسبق من <Text style={{fontWeight: "bold", color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>"اليمنت"</Text> لطلب الإذن، يرجى توجيه طلبك إلى ElementDevelops@gmail.com</Text>
+                               <Text style={{fontSize: 16,
+                                  marginBottom: 5,
+                                  lineHeight: 22,
+                                  textAlign:'right',
+                                  color:'#000',
+                                  fontFamily:'OpenSans_400Regular'}}><Text style={{fontWeight: "bold", color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>عمليات التواصل الإلكتروني:</Text></Text>                                                                                                       
+                                <Text style={{fontSize: 16,
+                                  marginBottom: 10,
+                                  lineHeight: 22,
+                                  textAlign:'right',
+                                  color:'#000',
+                                  fontFamily:'OpenSans_400Regular'}}>عند إنشاء حساب، يكون عليكم الموافقة على انكم ستتواصلون معنا إلكترونيا. وبالتالي، عليكم الموافقة على استلام رسائل دورية من جانبنا. وسوف تتواصل معكم <Text style={{fontWeight: "bold", color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>"اليمنت"</Text> عبر البريد الإلكتروني أو قد ترسل لكم معلومات عبر رسائل نصية قصيرة، وكذا القيام بنشر إخطاراتٍ على المنصة الالكترونية كجزء من إدارة الأعمال المعتادة والتي ترتبط بعملية استخدامكم للخدمات. ويكون عليكم الإقرار بأن اختياركم عدم منصة الالكترونية وسائل التواصل المذكورة هو أمر من شأنه إحداث ثمة تأثير على عملية استخدامكم للخدمات.</Text>
+                              <Text style={{fontSize: 16,
+                                  marginBottom: 10,
+                                  lineHeight: 22,
+                                  textAlign:'right',
+                                  color:'#000',
+                                  fontFamily:'OpenSans_400Regular'}}>كما يكون عليكم الموافقة على أن تكون جميع الاتفاقات والاخطارات والافصاحات وغير ذلك من مراسلاتٍ مما نقوم بتقديمها اليكم إلكترونيا هي مراسلاتٍ تستوفي أي اشتراط قانوني يستلزم تقديم تلك المراسلات على نحو كتابي.</Text>
+                              <Text style={{fontSize: 16,
+                                  marginBottom: 10,
+                                  lineHeight: 22,
+                                  textAlign:'right',
+                                  color:'#000',
+                                  fontFamily:'OpenSans_400Regular'}}>كما ستطلب منكم <Text style={{fontWeight: "bold", color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>"اليمنت"</Text> خلال عملية التسجيل الموافقة على أن نرسل لكم رسائل بريد إلكتروني أو إخطاراتٍ دعائية ترتبط بالمنصة الالكترونية وما به من خدمات. وإذا حدث في أي حين أن قررتم أو أبديتم عدم الرغبة في استلام رسائل البريد الإلكتروني الدعائية، فيمكنكم اختيار عدم استلامها من خلال الضغط على الرابط الكائن في أسفل أية رسالة بريد إلكتروني دعائية.</Text>
+                               <Text style={{fontSize: 16,
+                                  marginBottom: 5,
+                                  lineHeight: 22,
+                                  textAlign:'right',
+                                  color:'#000',
+                                  fontFamily:'OpenSans_400Regular'}}><Text style={{fontWeight: "bold", color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>المدفوعات:</Text></Text>                                                                                                       
+                                <Text style={{fontSize: 16,
+                                  marginBottom: 10,
+                                  lineHeight: 22,
+                                  textAlign:'right',
+                                  color:'#000',
+                                  fontFamily:'OpenSans_400Regular'}}>تقدم <Text style={{fontWeight: "bold", color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>"اليمنت"</Text> وسيلة السداد الإلكتروني على الموقع الإلكتروني عن طريق وسائل الدفع الإلكتروني ومنها على سبيل المثال لا الحصر بطاقات ائتمان ومحافظ بنكية الكترونية او عن طريق شبكات المحمول (خصم مباشر من الرصيد او مع تحصيل الفواتير)، ويلتزم المستخدم بسداد مقابل الخدمة قبل بداية مدة اشتراك الخدمة وتكون مستحقة في أول أسبوع من كل شهر.</Text>
+                              <Text style={{fontSize: 16,
+                                  marginBottom: 10,
+                                  lineHeight: 22,
+                                  textAlign:'right',
+                                  color:'#000',
+                                  fontFamily:'OpenSans_400Regular'}}>كذلك توفر <Text style={{fontWeight: "bold", color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>"اليمنت"</Text> حق للمدربين تحصيل مقابل الخدمة المقدمة علي في خلال مدة تتراوح بين 7 ايام الي 14 يوم بموجب طلب مقدم مسبقا من خلال المنصة الالكترونية </Text>
+                              <Text style={{fontSize: 16,
+                                  marginBottom: 10,
+                                  lineHeight: 22,
+                                  textAlign:'right',
+                                  color:'#000',
+                                  fontFamily:'OpenSans_400Regular'}}>لمعرفة أسعار الباقات المتاحة، يمكن للمستخدمين الاطلاع عليها في القسم المخصص للمدفوعات على المنصة، أو التواصل مباشرة مع <Text style={{fontWeight: "bold", color:'#000',
+                                    fontFamily:'OpenSans_400Regular'}}>"اليمنت"</Text> للحصول على مزيد من التفاصيل.</Text>
+                              
+                              
+                              
                               </> 
 
                               )
